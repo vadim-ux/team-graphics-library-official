@@ -2874,6 +2874,60 @@
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/terraform.png",
       "size": "",
       "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-connect-gold-full",
+      "name": "connect-gold-full",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/icons/connect-gold-full.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-encrypt-gold-full", 
+      "name": "encrypt-gold-full",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/icons/encrypt-gold-full.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-mitigate-gold-full",
+      "name": "mitigate-gold-full", 
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/icons/mitigate-gold-full.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-observe-gold-full",
+      "name": "observe-gold-full",
+      "tags": [],
+      "category": "icons", 
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/icons/observe-gold-full.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-protect-gold-full",
+      "name": "protect-gold-full",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/icons/protect-gold-full.png", 
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-troubleshoot-gold-full",
+      "name": "troubleshoot-gold-full",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/icons/troubleshoot-gold-full.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
     }
   ]
 }
