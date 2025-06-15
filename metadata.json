@@ -2941,8 +2941,11 @@
     {
       "id": "logo-amazon-eks",
       "name": "amazon-eks",
+      "tags": [],
       "category": "logos",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/logos/amazon-eks.png"
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/logos/amazon-eks.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
     },
     {
       "id": "logo-amazon-ecs",
