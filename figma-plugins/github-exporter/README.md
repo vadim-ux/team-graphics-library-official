@@ -108,7 +108,7 @@ The plugin automatically maintains a `metadata.json` file with this structure:
 
 ## Related
 
-This plugin is designed to work with the [Team Graphics Library](.../README.md) system for managing design assets in GitHub repositories.
+This plugin is designed to work with the [Team Graphics Library](../../README.md) system for managing design assets in GitHub repositories.
 
 ## License
 
