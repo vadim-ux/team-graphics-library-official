@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-15",
-  "totalAssets": 329,
+  "totalAssets": 331,
   "assets": [
     {
       "id": "logo-aws",
@@ -2962,6 +2962,24 @@
       "tags": [],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebay.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-ebee-geek",
+      "name": "ebee-geek",
+      "tags": [],
+      "category": "illustrations",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/illustrations/ebee-geek.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-ebee-hero-wb",
+      "name": "ebee-hero-wb",
+      "tags": [],
+      "category": "illustrations",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/illustrations/ebee-hero-wb.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     }
