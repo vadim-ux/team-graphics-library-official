@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-15",
-  "totalAssets": 315,
+  "totalAssets": 319,
   "assets": [
     {
       "id": "logo-aws",
@@ -2786,56 +2786,92 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-connect-gold-full",
-      "name": "connect-gold-full",
+      "id": "logo-bash",
+      "name": "bash",
       "tags": [],
-      "category": "icons",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connect-gold-full.png",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/bash.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-protect-gold-full",
-      "name": "protect-gold-full",
+      "id": "logo-csharp",
+      "name": "csharp",
       "tags": [],
-      "category": "icons",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/protect-gold-full.png",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/csharp.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-encrypt-gold-full",
-      "name": "encrypt-gold-full",
+      "id": "logo-fortran",
+      "name": "fortran",
       "tags": [],
-      "category": "icons",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/encrypt-gold-full.png",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/fortran.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-observe-gold-full",
-      "name": "observe-gold-full",
+      "id": "logo-haskell",
+      "name": "haskell",
       "tags": [],
-      "category": "icons",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observe-gold-full.png",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/haskell.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-mitigate-gold-full",
-      "name": "mitigate-gold-full",
+      "id": "logo-graphql",
+      "name": "graphql",
       "tags": [],
-      "category": "icons",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/mitigate-gold-full.png",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/graphql.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-troubleshoot-gold-full",
-      "name": "troubleshoot-gold-full",
+      "id": "logo-cobol",
+      "name": "cobol",
       "tags": [],
-      "category": "icons",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/troubleshoot-gold-full.png",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cobol.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-php",
+      "name": "php",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/php.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-json",
+      "name": "json",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/json.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-kotlin",
+      "name": "kotlin",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/kotlin.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-terraform",
+      "name": "terraform",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/terraform.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     }
