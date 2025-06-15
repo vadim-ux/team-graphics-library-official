@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-15",
-  "totalAssets": 327,
+  "totalAssets": 328,
   "assets": [
     {
       "id": "logo-aws",
@@ -2939,7 +2939,9 @@
       "lastUpdated": "2025-06-15"
     },
     {
+
       "id": "logo-amazon-eks", 
+
       "name": "amazon-eks",
       "tags": [],
       "category": "logos",
