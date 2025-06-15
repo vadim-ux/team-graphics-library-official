@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-15",
-  "totalAssets": 326,
+  "totalAssets": 327,
   "assets": [
     {
       "id": "logo-aws",
@@ -2935,6 +2935,15 @@
       "tags": [],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/dart.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-amazon-eAs",
+      "name": "amazon-eAs",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/amazon-eAs.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     }
