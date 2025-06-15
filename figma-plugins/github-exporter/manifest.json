@@ -1,0 +1,12 @@
+{
+  "name": "GitHub Graphics Exporter",
+  "id": "112233445566778899",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["https://api.github.com"],
+    "reasoning": "Upload images and metadata to a GitHub repository."
+  }
+}
