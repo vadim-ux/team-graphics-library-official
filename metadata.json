@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-15",
-  "totalAssets": 328,
+  "totalAssets": 329,
   "assets": [
     {
       "id": "logo-aws",
@@ -2939,9 +2939,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-
-      "id": "logo-amazon-eks", 
-
+      "id": "logo-amazon-eks",
       "name": "amazon-eks",
       "tags": [],
       "category": "logos",
@@ -2955,6 +2953,15 @@
       "tags": [],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/logos/amazon-ecs.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-ebay",
+      "name": "ebay",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebay.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     }
