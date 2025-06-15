@@ -2939,13 +2939,16 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-amazon-eAs",
-      "name": "amazon-eAs",
-      "tags": [],
+      "id": "logo-amazon-eks", 
+      "name": "amazon-eks",
       "category": "logos",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/amazon-eAs.png",
-      "size": "",
-      "lastUpdated": "2025-06-15"
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/logos/amazon-eks.png"
+    },
+    {
+      "id": "logo-amazon-ecs",
+      "name": "amazon-ecs", 
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/logos/amazon-ecs.png"
     }
   ]
 }
