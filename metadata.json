@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-15",
-  "totalAssets": 303,
+  "totalAssets": 309,
   "assets": [
     {
       "id": "logo-aws",
@@ -2728,6 +2728,60 @@
       "tags": [],
       "category": "diagrams",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/diagrams/connect-protect-encrypt-cilium-ebpf-tetragon.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-connect-gold",
+      "name": "connect-gold",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connect-gold.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-protect-gold",
+      "name": "protect-gold",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/protect-gold.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-encrypt-gold",
+      "name": "encrypt-gold",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/encrypt-gold.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-observe-gold",
+      "name": "observe-gold",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observe-gold.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-mitigate-gold",
+      "name": "mitigate-gold",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/mitigate-gold.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
+    },
+    {
+      "id": "logo-troubleshoot-gold",
+      "name": "troubleshoot-gold",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/troubleshoot-gold.png",
       "size": "",
       "lastUpdated": "2025-06-15"
     }
