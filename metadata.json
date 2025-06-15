@@ -1,8 +1,8 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-06-13",
-  "totalAssets": 302,
+  "updated": "2025-06-15",
+  "totalAssets": 303,
   "assets": [
     {
       "id": "logo-aws",
@@ -2721,6 +2721,15 @@
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nginx.png",
       "size": "",
       "lastUpdated": "2025-06-13"
+    },
+    {
+      "id": "logo-connect-protect-encrypt-cilium-ebpf-tetragon",
+      "name": "connect-protect-encrypt-cilium-ebpf-tetragon",
+      "tags": [],
+      "category": "diagrams",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/diagrams/connect-protect-encrypt-cilium-ebpf-tetragon.png",
+      "size": "",
+      "lastUpdated": "2025-06-15"
     }
   ]
 }
