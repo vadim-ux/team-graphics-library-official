@@ -6,11 +6,15 @@ A curated collection of logos, icons, and graphics for our team projects. All as
 
 ```
 📦 team-graphics-library
-├── 🏷️ logos/           # Brand logos and company identities
-├── 🔗 icons/           # UI icons and symbols  
-├── 🎭 illustrations/   # Custom illustrations
-├── 📄 templates/       # Design templates
-└── 📋 metadata.json    # Asset database with URLs and metadata
+├── 🔗 diagrams/                        # Diagrams
+├── 🐝 ebees/                           # eBees
+├── ⤴️ figma-plugins/github-exporter/   # Figma plugin source files
+├── 🔗 icons/                           # UI icons and symbols
+├── 🎭 illustrations/                   # Custom illustrations
+├── 🏷️ logos/                           # Brand logos
+├── 🔖 stickers/                        # Stickers
+├── 📄 templates/                       # Design templates
+└── 📋 metadata.json                    # Asset database with URLs and metadata
 ```
 
 ## 🚀 Quick Access
