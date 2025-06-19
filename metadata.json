@@ -1,8 +1,8 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-06-16",
-  "totalAssets": 332,
+  "updated": "2025-06-19",
+  "totalAssets": 333,
   "assets": [
     {
       "id": "logo-aws",
@@ -2991,6 +2991,15 @@
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/duo.png",
       "size": "",
       "lastUpdated": "2025-06-16"
+    },
+    {
+      "id": "logo-one-small-step-for-the-cluster",
+      "name": "one-small-step-for-the-cluster",
+      "tags": [],
+      "category": "stickers",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/one-small-step-for-the-cluster.png",
+      "size": "",
+      "lastUpdated": "2025-06-19"
     }
   ]
 }
