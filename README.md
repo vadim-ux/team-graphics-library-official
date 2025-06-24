@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/i
 
 ## 📱 Integrations
 
-- **[Raycast Extension](https://raycast.com)** - Search and copy assets instantly
+- **[Raycast Extension](https://github.com/vadim-ux/team-graphics-raycast-extension)** - Search and copy assets instantly
 - **Figma Plugin** - Auto-export from design files
 - **Web Apps** - Direct API access via metadata.json
 
