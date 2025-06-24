@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-24",
-  "totalAssets": 335,
+  "totalAssets": 336,
   "assets": [
     {
       "id": "logo-aws",
@@ -3016,6 +3016,15 @@
       "tags": [],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container.png",
+      "size": "",
+      "lastUpdated": "2025-06-24"
+    },
+    {
+      "id": "logo-bare-metal",
+      "name": "bare-metal",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal.png",
       "size": "",
       "lastUpdated": "2025-06-24"
     }
