@@ -1,8 +1,8 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-06-24",
-  "totalAssets": 335,
+  "updated": "2025-06-25",
+  "totalAssets": 336,
   "assets": [
     {
       "id": "logo-aws",
@@ -3018,6 +3018,15 @@
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container.png",
       "size": "",
       "lastUpdated": "2025-06-24"
+    },
+    {
+      "id": "logo-nutanix",
+      "name": "nutanix",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nutanix.png",
+      "size": "",
+      "lastUpdated": "2025-06-25"
     }
   ]
 }
