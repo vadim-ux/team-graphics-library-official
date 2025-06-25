@@ -1,7 +1,7 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-06-24",
+  "updated": "2025-06-25",
   "totalAssets": 336,
   "assets": [
     {
@@ -3020,13 +3020,13 @@
       "lastUpdated": "2025-06-24"
     },
     {
-      "id": "logo-bare-metal",
-      "name": "bare-metal",
+      "id": "logo-nutanix",
+      "name": "nutanix",
       "tags": [],
-      "category": "icons",
-      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal.png",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nutanix.png",
       "size": "",
-      "lastUpdated": "2025-06-24"
+      "lastUpdated": "2025-06-25"
     }
   ]
 }
