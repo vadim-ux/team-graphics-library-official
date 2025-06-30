@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-06-30",
-  "totalAssets": 336,
+  "totalAssets": 345,
   "assets": [
     {
       "id": "logo-aws",
@@ -3027,6 +3027,87 @@
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nutanix.png",
       "size": "",
       "lastUpdated": "2025-06-25"
+    },
+    {
+      "id": "logo-vm-mono",
+      "name": "vm-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-container-mono",
+      "name": "container-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-bare-metal-mono",
+      "name": "bare-metal-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-vm-dark-back-mono",
+      "name": "vm-dark-back-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm-dark-back-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-container-dark-back-mono",
+      "name": "container-dark-back-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container-dark-back-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-bare-metal-dark-back-mono",
+      "name": "bare-metal-dark-back-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal-dark-back-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-vm-k8s-color-mono",
+      "name": "vm-k8s-color-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm-k8s-color-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-container-k8s-color-mono",
+      "name": "container-k8s-color-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container-k8s-color-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-bare-metal-k8s-color-mono",
+      "name": "bare-metal-k8s-color-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal-k8s-color-mono.png",
+      "size": "",
+      "lastUpdated": "2025-06-30"
     }
   ]
 }
