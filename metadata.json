@@ -1,8 +1,8 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-06-30",
-  "totalAssets": 345,
+  "updated": "2025-07-02",
+  "totalAssets": 348,
   "assets": [
     {
       "id": "logo-aws",
@@ -3108,6 +3108,33 @@
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal-k8s-color-mono.png",
       "size": "",
       "lastUpdated": "2025-06-30"
+    },
+    {
+      "id": "logo-connections-ui",
+      "name": "connections-ui",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui.png",
+      "size": "",
+      "lastUpdated": "2025-07-02"
+    },
+    {
+      "id": "logo-policies-ui",
+      "name": "policies-ui",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui.png",
+      "size": "",
+      "lastUpdated": "2025-07-02"
+    },
+    {
+      "id": "logo-network-security-ui",
+      "name": "network-security-ui",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui.png",
+      "size": "",
+      "lastUpdated": "2025-07-02"
     }
   ]
 }
