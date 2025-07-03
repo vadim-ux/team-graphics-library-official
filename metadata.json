@@ -1,8 +1,8 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-07-02",
-  "totalAssets": 350,
+  "updated": "2025-07-03",
+  "totalAssets": 349,
   "categories": [
     "diagrams",
     "ebees",
@@ -3144,6 +3144,15 @@
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/one-small-step-for-the-cluster.png",
       "size": "",
       "lastUpdated": "2025-06-19"
+    },
+    {
+      "id": "you-shall-not-pass-sticker",
+      "name": "you-shall-not-pass",
+      "tags": [],
+      "category": "stickers",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/you-shall-not-pass-sticker.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-03"
     }
   ]
 }
