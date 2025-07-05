@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M64 5L112 29L125 81L91 123H37L3 81L15 29L64 5Z" fill="#1F4DBE"/>
+<path d="M64 69L30 49L64 30L98 49L64 69Z" fill="white"/>
+<path d="M98 49L97.5 93L64 110V69L98 49Z" fill="url(#paint0_linear_11_209)"/>
+<path d="M3 81L37 123H91L3 81Z" fill="#006BFF"/>
+<path d="M112 29L125 81L91 123L112 29Z" fill="#006BFF"/>
+<defs>
+<linearGradient id="paint0_linear_11_209" x1="64" y1="87.5226" x2="99.6871" y2="87.2444" gradientUnits="userSpaceOnUse">
+<stop stop-color="#049FFC"/>
+<stop offset="1" stop-color="#19C9FF"/>
+</linearGradient>
+</defs>
+</svg>
