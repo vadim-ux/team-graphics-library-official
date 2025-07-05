@@ -31,7 +31,9 @@
       "category": "ebees",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-ebee-geek.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-02"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-geek.svg"
     },
     {
       "id": "ebees-ebee-hero-wb",
@@ -40,7 +42,9 @@
       "category": "ebees",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-ebee-hero-wb.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-02"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-hero-wb.svg"
     },
     {
       "id": "icons-bare-metal-dark-back-mono",
