@@ -53,7 +53,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal.svg"
     },
     {
       "id": "icons-bare-metal-dark-back-mono",
