@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-05",
-  "totalAssets": 349,
+  "totalAssets": 350,
   "categories": [
     "diagrams",
     "ebees",
@@ -45,6 +45,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-hero-wb.svg"
+    },
+    {
+      "id": "icons-bare-metal",
+      "name": "bare-metal",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-05"
     },
     {
       "id": "icons-bare-metal-dark-back-mono",
