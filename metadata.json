@@ -452,7 +452,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium.svg"
     },
     {
       "id": "logos-cilium-full",
@@ -461,7 +463,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full.svg"
     },
     {
       "id": "logos-cilium-full-dark-back",
@@ -470,7 +474,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-dark-back.svg"
     },
     {
       "id": "logos-cilium-full-dark-back-mono",
@@ -479,7 +485,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-dark-back-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-dark-back-mono.svg"
     },
     {
       "id": "logos-cilium-full-mono",
@@ -488,7 +496,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-mono.svg"
     },
     {
       "id": "logos-cilium-horizontal",
@@ -497,7 +507,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal.svg"
     },
     {
       "id": "logos-cilium-horizontal-dark-back",
@@ -506,7 +518,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-dark-back.svg"
     },
     {
       "id": "logos-cilium-horizontal-mono",
@@ -515,7 +529,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-mono.svg"
     },
     {
       "id": "logos-cilium-horizontal-mono-dark-back",
@@ -524,7 +540,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-mono-dark-back.svg"
     },
     {
       "id": "logos-cilium-mono",
@@ -533,7 +551,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-mono.svg"
     },
     {
       "id": "logos-cilium-mono-dark-back",
@@ -542,7 +562,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-mono-dark-back.svg"
     },
     {
       "id": "logos-cilium-wordmark",
@@ -551,7 +573,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-wordmark.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-wordmark.svg"
     },
     {
       "id": "logos-cilium-wordmark-dark-back",
@@ -560,7 +584,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-wordmark-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-wordmark-dark-back.svg"
     },
     {
       "id": "logos-cisco",
@@ -724,7 +750,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full.svg"
     },
     {
       "id": "logos-ebpf-full-dark-back",
@@ -733,7 +761,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-dark-back.svg"
     },
     {
       "id": "logos-ebpf-full-dark-back-mono",
@@ -742,7 +772,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-dark-back-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-dark-back-mono.svg"
     },
     {
       "id": "logos-ebpf-full-mono",
@@ -751,7 +783,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-mono.svg"
     },
     {
       "id": "logos-ebpf-horizontal",
@@ -760,7 +794,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal.svg"
     },
     {
       "id": "logos-ebpf-horizontal-dark-back",
@@ -769,7 +805,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-dark-back.svg"
     },
     {
       "id": "logos-ebpf-horizontal-mono",
@@ -778,7 +816,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-mono.svg"
     },
     {
       "id": "logos-ebpf-horizontal-mono-dark-back",
@@ -787,7 +827,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-mono-dark-back.svg"
     },
     {
       "id": "logos-ebpf-mono",
@@ -796,7 +838,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-mono.svg"
     },
     {
       "id": "logos-ebpf-mono-dark-back",
@@ -805,7 +849,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-mono-dark-back.svg"
     },
     {
       "id": "logos-ebpf-wordmark",
@@ -814,7 +860,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-wordmark.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-wordmark.svg"
     },
     {
       "id": "logos-ebpf-wordmark-dark-back",
@@ -823,7 +871,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-wordmark-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-wordmark-dark-back.svg"
     },
     {
       "id": "logos-egress-gateway",
@@ -1426,7 +1476,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble.svg"
     },
     {
       "id": "logos-hubble-full",
@@ -1435,7 +1487,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full.svg"
     },
     {
       "id": "logos-hubble-full-dark-back",
@@ -1444,7 +1498,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-dark-back.svg"
     },
     {
       "id": "logos-hubble-full-dark-back-mono",
@@ -1453,7 +1509,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-dark-back-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-dark-back-mono.svg"
     },
     {
       "id": "logos-hubble-full-mono",
@@ -1462,7 +1520,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-mono.svg"
     },
     {
       "id": "logos-hubble-horizontal",
@@ -1471,7 +1531,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal.svg"
     },
     {
       "id": "logos-hubble-horizontal-dark-back",
@@ -1480,7 +1542,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-dark-back.svg"
     },
     {
       "id": "logos-hubble-horizontal-mono",
@@ -1489,7 +1553,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-mono.svg"
     },
     {
       "id": "logos-hubble-horizontal-mono-dark-back",
@@ -1498,7 +1564,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-mono-dark-back.svg"
     },
     {
       "id": "logos-hubble-mono",
@@ -1507,7 +1575,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-mono.svg"
     },
     {
       "id": "logos-hubble-mono-dark-back",
@@ -1516,7 +1586,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-mono-dark-back.svg"
     },
     {
       "id": "logos-hubble-wordmark",
@@ -1525,7 +1597,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-wordmark.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-wordmark.svg"
     },
     {
       "id": "logos-hubble-wordmark-dark-back",
@@ -1534,7 +1608,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-wordmark-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-wordmark-dark-back.svg"
     },
     {
       "id": "logos-ibm-cloud",
@@ -2956,7 +3032,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon.svg"
     },
     {
       "id": "logos-tetragon-full",
@@ -2965,7 +3043,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full.svg"
     },
     {
       "id": "logos-tetragon-full-dark-back",
@@ -2974,7 +3054,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-dark-back.svg"
     },
     {
       "id": "logos-tetragon-full-dark-back-mono",
@@ -2983,7 +3065,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-dark-back-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-dark-back-mono.svg"
     },
     {
       "id": "logos-tetragon-full-mono",
@@ -2992,7 +3076,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-mono.svg"
     },
     {
       "id": "logos-tetragon-horizontal",
@@ -3001,7 +3087,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal.svg"
     },
     {
       "id": "logos-tetragon-horizontal-dark-back",
@@ -3010,7 +3098,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-dark-back.svg"
     },
     {
       "id": "logos-tetragon-horizontal-mono",
@@ -3019,7 +3109,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-mono.svg"
     },
     {
       "id": "logos-tetragon-horizontal-mono-dark-back",
@@ -3028,7 +3120,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-mono-dark-back.svg"
     },
     {
       "id": "logos-tetragon-mono",
@@ -3037,7 +3131,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-mono.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-mono.svg"
     },
     {
       "id": "logos-tetragon-mono-dark-back",
@@ -3046,7 +3142,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-mono-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-mono-dark-back.svg"
     },
     {
       "id": "logos-tetragon-wordmark",
@@ -3055,7 +3153,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-wordmark.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-wordmark.svg"
     },
     {
       "id": "logos-tetragon-wordmark-dark-back",
@@ -3064,7 +3164,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-wordmark-dark-back.png",
       "size": "",
-      "lastUpdated": "2025-06-13"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-wordmark-dark-back.svg"
     },
     {
       "id": "logos-typescript",
