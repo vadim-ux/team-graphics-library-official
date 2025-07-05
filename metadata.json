@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-05",
-  "totalAssets": 350,
+  "totalAssets": 351,
   "categories": [
     "diagrams",
     "ebees",
@@ -188,6 +188,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/encrypt-gold-full.svg"
+    },
+    {
+      "id": "icons-library-logo-ebeejedi",
+      "name": "library-logo-ebeejedi",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/library-logo-ebeejedi.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-05"
     },
     {
       "id": "icons-mitigate-gold",
