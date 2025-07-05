@@ -20,7 +20,9 @@
       "category": "diagrams",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/diagrams/connect-protect-encrypt-cilium-ebpf-tetragon.png",
       "size": "",
-      "lastUpdated": "2025-06-15"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/diagrams/connect-protect-encrypt-cilium-ebpf-tetragon.svg"
     },
     {
       "id": "ebees-ebee-geek",
