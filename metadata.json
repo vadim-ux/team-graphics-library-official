@@ -14,7 +14,7 @@
   ],
   "assets": [
     {
-      "id": "logo-connect-protect-encrypt-cilium-ebpf-tetragon",
+      "id": "diagrams-connect-protect-encrypt-cilium-ebpf-tetragon",
       "name": "connect-protect-encrypt-cilium-ebpf-tetragon",
       "tags": [],
       "category": "diagrams",
@@ -23,7 +23,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "ebee-ebee-geek",
+      "id": "ebees-ebee-geek",
       "name": "ebee-geek",
       "tags": [],
       "category": "ebees",
@@ -32,7 +32,7 @@
       "lastUpdated": "2025-07-02"
     },
     {
-      "id": "ebee-ebee-hero-wb",
+      "id": "ebees-ebee-hero-wb",
       "name": "ebee-hero-wb",
       "tags": [],
       "category": "ebees",
@@ -41,7 +41,7 @@
       "lastUpdated": "2025-07-02"
     },
     {
-      "id": "logo-bare-metal-dark-back-mono",
+      "id": "icons-bare-metal-dark-back-mono",
       "name": "bare-metal-dark-back-mono",
       "tags": [],
       "category": "icons",
@@ -50,7 +50,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-bare-metal-k8s-color-mono",
+      "id": "icons-bare-metal-k8s-color-mono",
       "name": "bare-metal-k8s-color-mono",
       "tags": [],
       "category": "icons",
@@ -59,7 +59,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-bare-metal-mono",
+      "id": "icons-bare-metal-mono",
       "name": "bare-metal-mono",
       "tags": [],
       "category": "icons",
@@ -68,7 +68,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-connect-gold",
+      "id": "icons-connect-gold",
       "name": "connect-gold",
       "tags": [],
       "category": "icons",
@@ -77,7 +77,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-connect-gold-full",
+      "id": "icons-connect-gold-full",
       "name": "connect-gold-full",
       "tags": [],
       "category": "icons",
@@ -86,7 +86,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-connections-ui",
+      "id": "icons-connections-ui",
       "name": "connections-ui",
       "tags": [],
       "category": "icons",
@@ -95,7 +95,7 @@
       "lastUpdated": "2025-07-02"
     },
     {
-      "id": "logo-container",
+      "id": "icons-container",
       "name": "container",
       "tags": [],
       "category": "icons",
@@ -104,7 +104,7 @@
       "lastUpdated": "2025-06-24"
     },
     {
-      "id": "logo-container-dark-back-mono",
+      "id": "icons-container-dark-back-mono",
       "name": "container-dark-back-mono",
       "tags": [],
       "category": "icons",
@@ -113,7 +113,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-container-k8s-color-mono",
+      "id": "icons-container-k8s-color-mono",
       "name": "container-k8s-color-mono",
       "tags": [],
       "category": "icons",
@@ -122,7 +122,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-container-mono",
+      "id": "icons-container-mono",
       "name": "container-mono",
       "tags": [],
       "category": "icons",
@@ -131,7 +131,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-encrypt-gold",
+      "id": "icons-encrypt-gold",
       "name": "encrypt-gold",
       "tags": [],
       "category": "icons",
@@ -140,7 +140,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-encrypt-gold-full",
+      "id": "icons-encrypt-gold-full",
       "name": "encrypt-gold-full",
       "tags": [],
       "category": "icons",
@@ -149,7 +149,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-mitigate-gold",
+      "id": "icons-mitigate-gold",
       "name": "mitigate-gold",
       "tags": [],
       "category": "icons",
@@ -158,7 +158,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-mitigate-gold-full",
+      "id": "icons-mitigate-gold-full",
       "name": "mitigate-gold-full",
       "tags": [],
       "category": "icons",
@@ -167,7 +167,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-network-security-ui",
+      "id": "icons-network-security-ui",
       "name": "network-security-ui",
       "tags": [],
       "category": "icons",
@@ -176,7 +176,7 @@
       "lastUpdated": "2025-07-02"
     },
     {
-      "id": "logo-observe-gold",
+      "id": "icons-observe-gold",
       "name": "observe-gold",
       "tags": [],
       "category": "icons",
@@ -185,7 +185,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-observe-gold-full",
+      "id": "icons-observe-gold-full",
       "name": "observe-gold-full",
       "tags": [],
       "category": "icons",
@@ -194,7 +194,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-policies-ui",
+      "id": "icons-policies-ui",
       "name": "policies-ui",
       "tags": [],
       "category": "icons",
@@ -203,7 +203,7 @@
       "lastUpdated": "2025-07-02"
     },
     {
-      "id": "logo-protect-gold",
+      "id": "icons-protect-gold",
       "name": "protect-gold",
       "tags": [],
       "category": "icons",
@@ -212,7 +212,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-protect-gold-full",
+      "id": "icons-protect-gold-full",
       "name": "protect-gold-full",
       "tags": [],
       "category": "icons",
@@ -221,7 +221,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-troubleshoot-gold",
+      "id": "icons-troubleshoot-gold",
       "name": "troubleshoot-gold",
       "tags": [],
       "category": "icons",
@@ -230,7 +230,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-troubleshoot-gold-full",
+      "id": "icons-troubleshoot-gold-full",
       "name": "troubleshoot-gold-full",
       "tags": [],
       "category": "icons",
@@ -239,7 +239,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-vm",
+      "id": "icons-vm",
       "name": "vm",
       "tags": [],
       "category": "icons",
@@ -248,7 +248,7 @@
       "lastUpdated": "2025-06-24"
     },
     {
-      "id": "logo-vm-dark-back-mono",
+      "id": "icons-vm-dark-back-mono",
       "name": "vm-dark-back-mono",
       "tags": [],
       "category": "icons",
@@ -257,7 +257,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-vm-k8s-color-mono",
+      "id": "icons-vm-k8s-color-mono",
       "name": "vm-k8s-color-mono",
       "tags": [],
       "category": "icons",
@@ -266,7 +266,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-vm-mono",
+      "id": "icons-vm-mono",
       "name": "vm-mono",
       "tags": [],
       "category": "icons",
@@ -275,7 +275,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-adobe-full",
+      "id": "logos-adobe-full",
       "name": "adobe-full",
       "tags": [],
       "category": "logos",
@@ -284,7 +284,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-adobe-horizontal",
+      "id": "logos-adobe-horizontal",
       "name": "adobe-horizontal",
       "tags": [],
       "category": "logos",
@@ -293,7 +293,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-alibabacloud",
+      "id": "logos-alibabacloud",
       "name": "alibabacloud",
       "tags": [],
       "category": "logos",
@@ -302,7 +302,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-alibabacloud-color-horizontal",
+      "id": "logos-alibabacloud-color-horizontal",
       "name": "alibabacloud-color-horizontal",
       "tags": [],
       "category": "logos",
@@ -311,7 +311,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-alibabacloud-dark-horizontal",
+      "id": "logos-alibabacloud-dark-horizontal",
       "name": "alibabacloud-dark-horizontal",
       "tags": [],
       "category": "logos",
@@ -320,7 +320,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-amazon",
+      "id": "logos-amazon",
       "name": "amazon",
       "tags": [],
       "category": "logos",
@@ -329,7 +329,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-amazon-ecs",
+      "id": "logos-amazon-ecs",
       "name": "amazon-ecs",
       "tags": [],
       "category": "logos",
@@ -338,7 +338,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-amazon-eks",
+      "id": "logos-amazon-eks",
       "name": "amazon-eks",
       "tags": [],
       "category": "logos",
@@ -347,7 +347,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-android",
+      "id": "logos-android",
       "name": "android",
       "tags": [],
       "category": "logos",
@@ -356,7 +356,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-apache-cassandra-db",
+      "id": "logos-apache-cassandra-db",
       "name": "apache-cassandra-db",
       "tags": [],
       "category": "logos",
@@ -365,7 +365,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-apache-zookeeper",
+      "id": "logos-apache-zookeeper",
       "name": "apache-zookeeper",
       "tags": [],
       "category": "logos",
@@ -374,7 +374,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-auth0",
+      "id": "logos-auth0",
       "name": "auth0",
       "tags": [],
       "category": "logos",
@@ -383,7 +383,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-aws",
+      "id": "logos-aws",
       "name": "aws",
       "tags": [],
       "category": "logos",
@@ -392,7 +392,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-azure",
+      "id": "logos-azure",
       "name": "azure",
       "tags": [],
       "category": "logos",
@@ -401,7 +401,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-azure-full",
+      "id": "logos-azure-full",
       "name": "azure-full",
       "tags": [],
       "category": "logos",
@@ -410,7 +410,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-bash",
+      "id": "logos-bash",
       "name": "bash",
       "tags": [],
       "category": "logos",
@@ -419,7 +419,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-bcc",
+      "id": "logos-bcc",
       "name": "bcc",
       "tags": [],
       "category": "logos",
@@ -428,7 +428,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-bell",
+      "id": "logos-bell",
       "name": "bell",
       "tags": [],
       "category": "logos",
@@ -437,7 +437,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-bpftrace",
+      "id": "logos-bpftrace",
       "name": "bpftrace",
       "tags": [],
       "category": "logos",
@@ -446,7 +446,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium",
+      "id": "logos-cilium",
       "name": "cilium",
       "tags": [],
       "category": "logos",
@@ -455,7 +455,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-full",
+      "id": "logos-cilium-full",
       "name": "cilium-full",
       "tags": [],
       "category": "logos",
@@ -464,7 +464,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-full-dark-back",
+      "id": "logos-cilium-full-dark-back",
       "name": "cilium-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -473,7 +473,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-full-dark-back-mono",
+      "id": "logos-cilium-full-dark-back-mono",
       "name": "cilium-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -482,7 +482,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-full-mono",
+      "id": "logos-cilium-full-mono",
       "name": "cilium-full-mono",
       "tags": [],
       "category": "logos",
@@ -491,7 +491,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-horizontal",
+      "id": "logos-cilium-horizontal",
       "name": "cilium-horizontal",
       "tags": [],
       "category": "logos",
@@ -500,7 +500,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-horizontal-dark-back",
+      "id": "logos-cilium-horizontal-dark-back",
       "name": "cilium-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -509,7 +509,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-horizontal-mono",
+      "id": "logos-cilium-horizontal-mono",
       "name": "cilium-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -518,7 +518,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-horizontal-mono-dark-back",
+      "id": "logos-cilium-horizontal-mono-dark-back",
       "name": "cilium-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -527,7 +527,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-mono",
+      "id": "logos-cilium-mono",
       "name": "cilium-mono",
       "tags": [],
       "category": "logos",
@@ -536,7 +536,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-mono-dark-back",
+      "id": "logos-cilium-mono-dark-back",
       "name": "cilium-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -545,7 +545,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-wordmark",
+      "id": "logos-cilium-wordmark",
       "name": "cilium-wordmark",
       "tags": [],
       "category": "logos",
@@ -554,7 +554,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cilium-wordmark-dark-back",
+      "id": "logos-cilium-wordmark-dark-back",
       "name": "cilium-wordmark-dark-back",
       "tags": [],
       "category": "logos",
@@ -563,7 +563,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cisco",
+      "id": "logos-cisco",
       "name": "cisco",
       "tags": [],
       "category": "logos",
@@ -572,7 +572,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cisco-mono",
+      "id": "logos-cisco-mono",
       "name": "cisco-mono",
       "tags": [],
       "category": "logos",
@@ -581,7 +581,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cncf",
+      "id": "logos-cncf",
       "name": "cncf",
       "tags": [],
       "category": "logos",
@@ -590,7 +590,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cncf-horizontal",
+      "id": "logos-cncf-horizontal",
       "name": "cncf-horizontal",
       "tags": [],
       "category": "logos",
@@ -599,7 +599,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cni",
+      "id": "logos-cni",
       "name": "cni",
       "tags": [],
       "category": "logos",
@@ -608,7 +608,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cobol",
+      "id": "logos-cobol",
       "name": "cobol",
       "tags": [],
       "category": "logos",
@@ -617,7 +617,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-couch-db",
+      "id": "logos-couch-db",
       "name": "couch-db",
       "tags": [],
       "category": "logos",
@@ -626,7 +626,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-cplusplus",
+      "id": "logos-cplusplus",
       "name": "cplusplus",
       "tags": [],
       "category": "logos",
@@ -635,7 +635,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-csharp",
+      "id": "logos-csharp",
       "name": "csharp",
       "tags": [],
       "category": "logos",
@@ -644,7 +644,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-dart",
+      "id": "logos-dart",
       "name": "dart",
       "tags": [],
       "category": "logos",
@@ -653,7 +653,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-datadog",
+      "id": "logos-datadog",
       "name": "datadog",
       "tags": [],
       "category": "logos",
@@ -662,7 +662,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-docker",
+      "id": "logos-docker",
       "name": "docker",
       "tags": [],
       "category": "logos",
@@ -671,7 +671,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-docker-horizontal",
+      "id": "logos-docker-horizontal",
       "name": "docker-horizontal",
       "tags": [],
       "category": "logos",
@@ -680,7 +680,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-docker-horizontal-wordmark",
+      "id": "logos-docker-horizontal-wordmark",
       "name": "docker-horizontal-wordmark",
       "tags": [],
       "category": "logos",
@@ -689,7 +689,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-duo",
+      "id": "logos-duo",
       "name": "duo",
       "tags": [],
       "category": "logos",
@@ -698,7 +698,7 @@
       "lastUpdated": "2025-06-16"
     },
     {
-      "id": "logo-ebay",
+      "id": "logos-ebay",
       "name": "ebay",
       "tags": [],
       "category": "logos",
@@ -707,7 +707,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-ebpf",
+      "id": "logos-ebpf",
       "name": "ebpf",
       "tags": [],
       "category": "logos",
@@ -716,7 +716,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-full",
+      "id": "logos-ebpf-full",
       "name": "ebpf-full",
       "tags": [],
       "category": "logos",
@@ -725,7 +725,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-full-dark-back",
+      "id": "logos-ebpf-full-dark-back",
       "name": "ebpf-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -734,7 +734,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-full-dark-back-mono",
+      "id": "logos-ebpf-full-dark-back-mono",
       "name": "ebpf-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -743,7 +743,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-full-mono",
+      "id": "logos-ebpf-full-mono",
       "name": "ebpf-full-mono",
       "tags": [],
       "category": "logos",
@@ -752,7 +752,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-horizontal",
+      "id": "logos-ebpf-horizontal",
       "name": "ebpf-horizontal",
       "tags": [],
       "category": "logos",
@@ -761,7 +761,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-horizontal-dark-back",
+      "id": "logos-ebpf-horizontal-dark-back",
       "name": "ebpf-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -770,7 +770,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-horizontal-mono",
+      "id": "logos-ebpf-horizontal-mono",
       "name": "ebpf-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -779,7 +779,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-horizontal-mono-dark-back",
+      "id": "logos-ebpf-horizontal-mono-dark-back",
       "name": "ebpf-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -788,7 +788,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-mono",
+      "id": "logos-ebpf-mono",
       "name": "ebpf-mono",
       "tags": [],
       "category": "logos",
@@ -797,7 +797,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-mono-dark-back",
+      "id": "logos-ebpf-mono-dark-back",
       "name": "ebpf-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -806,7 +806,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-wordmark",
+      "id": "logos-ebpf-wordmark",
       "name": "ebpf-wordmark",
       "tags": [],
       "category": "logos",
@@ -815,7 +815,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ebpf-wordmark-dark-back",
+      "id": "logos-ebpf-wordmark-dark-back",
       "name": "ebpf-wordmark-dark-back",
       "tags": [],
       "category": "logos",
@@ -824,7 +824,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway",
+      "id": "logos-egress-gateway",
       "name": "egress-gateway",
       "tags": [],
       "category": "logos",
@@ -833,7 +833,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full",
+      "id": "logos-egress-gateway-full",
       "name": "egress-gateway-full",
       "tags": [],
       "category": "logos",
@@ -842,7 +842,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full-centered",
+      "id": "logos-egress-gateway-full-centered",
       "name": "egress-gateway-full-centered",
       "tags": [],
       "category": "logos",
@@ -851,7 +851,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full-centered-dark-back",
+      "id": "logos-egress-gateway-full-centered-dark-back",
       "name": "egress-gateway-full-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -860,7 +860,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full-dark-back",
+      "id": "logos-egress-gateway-full-dark-back",
       "name": "egress-gateway-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -869,7 +869,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full-dark-back-mono",
+      "id": "logos-egress-gateway-full-dark-back-mono",
       "name": "egress-gateway-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -878,7 +878,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full-dark-back-mono-centered",
+      "id": "logos-egress-gateway-full-dark-back-mono-centered",
       "name": "egress-gateway-full-dark-back-mono-centered",
       "tags": [],
       "category": "logos",
@@ -887,7 +887,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full-mono",
+      "id": "logos-egress-gateway-full-mono",
       "name": "egress-gateway-full-mono",
       "tags": [],
       "category": "logos",
@@ -896,7 +896,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-full-mono-centered",
+      "id": "logos-egress-gateway-full-mono-centered",
       "name": "egress-gateway-full-mono-centered",
       "tags": [],
       "category": "logos",
@@ -905,7 +905,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-horizontal",
+      "id": "logos-egress-gateway-horizontal",
       "name": "egress-gateway-horizontal",
       "tags": [],
       "category": "logos",
@@ -914,7 +914,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-horizontal-dark-back",
+      "id": "logos-egress-gateway-horizontal-dark-back",
       "name": "egress-gateway-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -923,7 +923,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-horizontal-mono",
+      "id": "logos-egress-gateway-horizontal-mono",
       "name": "egress-gateway-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -932,7 +932,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-horizontal-mono-dark-back",
+      "id": "logos-egress-gateway-horizontal-mono-dark-back",
       "name": "egress-gateway-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -941,7 +941,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-mono",
+      "id": "logos-egress-gateway-mono",
       "name": "egress-gateway-mono",
       "tags": [],
       "category": "logos",
@@ -950,7 +950,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-mono-dark-back",
+      "id": "logos-egress-gateway-mono-dark-back",
       "name": "egress-gateway-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -959,7 +959,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-wordmark-centered",
+      "id": "logos-egress-gateway-wordmark-centered",
       "name": "egress-gateway-wordmark-centered",
       "tags": [],
       "category": "logos",
@@ -968,7 +968,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-wordmark-centered-dark-back",
+      "id": "logos-egress-gateway-wordmark-centered-dark-back",
       "name": "egress-gateway-wordmark-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -977,7 +977,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-wordmark-left",
+      "id": "logos-egress-gateway-wordmark-left",
       "name": "egress-gateway-wordmark-left",
       "tags": [],
       "category": "logos",
@@ -986,7 +986,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-egress-gateway-wordmark-left-dark-back",
+      "id": "logos-egress-gateway-wordmark-left-dark-back",
       "name": "egress-gateway-wordmark-left-dark-back",
       "tags": [],
       "category": "logos",
@@ -995,7 +995,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-analyze",
+      "id": "logos-elastic-analyze",
       "name": "elastic-analyze",
       "tags": [],
       "category": "logos",
@@ -1004,7 +1004,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-apm",
+      "id": "logos-elastic-apm",
       "name": "elastic-apm",
       "tags": [],
       "category": "logos",
@@ -1013,7 +1013,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-app-search",
+      "id": "logos-elastic-app-search",
       "name": "elastic-app-search",
       "tags": [],
       "category": "logos",
@@ -1022,7 +1022,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-beats",
+      "id": "logos-elastic-beats",
       "name": "elastic-beats",
       "tags": [],
       "category": "logos",
@@ -1031,7 +1031,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-cloud",
+      "id": "logos-elastic-cloud",
       "name": "elastic-cloud",
       "tags": [],
       "category": "logos",
@@ -1040,7 +1040,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-cloud-enterprise",
+      "id": "logos-elastic-cloud-enterprise",
       "name": "elastic-cloud-enterprise",
       "tags": [],
       "category": "logos",
@@ -1049,7 +1049,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-cloud-kubernetes",
+      "id": "logos-elastic-cloud-kubernetes",
       "name": "elastic-cloud-kubernetes",
       "tags": [],
       "category": "logos",
@@ -1058,7 +1058,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-endpoint-security",
+      "id": "logos-elastic-endpoint-security",
       "name": "elastic-endpoint-security",
       "tags": [],
       "category": "logos",
@@ -1067,7 +1067,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-full",
+      "id": "logos-elastic-full",
       "name": "elastic-full",
       "tags": [],
       "category": "logos",
@@ -1076,7 +1076,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-horizontal",
+      "id": "logos-elastic-horizontal",
       "name": "elastic-horizontal",
       "tags": [],
       "category": "logos",
@@ -1085,7 +1085,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-kibana",
+      "id": "logos-elastic-kibana",
       "name": "elastic-kibana",
       "tags": [],
       "category": "logos",
@@ -1094,7 +1094,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-logs",
+      "id": "logos-elastic-logs",
       "name": "elastic-logs",
       "tags": [],
       "category": "logos",
@@ -1103,7 +1103,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-logstash",
+      "id": "logos-elastic-logstash",
       "name": "elastic-logstash",
       "tags": [],
       "category": "logos",
@@ -1112,7 +1112,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-maps",
+      "id": "logos-elastic-maps",
       "name": "elastic-maps",
       "tags": [],
       "category": "logos",
@@ -1121,7 +1121,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-metrics",
+      "id": "logos-elastic-metrics",
       "name": "elastic-metrics",
       "tags": [],
       "category": "logos",
@@ -1130,7 +1130,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-observability",
+      "id": "logos-elastic-observability",
       "name": "elastic-observability",
       "tags": [],
       "category": "logos",
@@ -1139,7 +1139,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-search",
+      "id": "logos-elastic-search",
       "name": "elastic-search",
       "tags": [],
       "category": "logos",
@@ -1148,7 +1148,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-search-enterprise",
+      "id": "logos-elastic-search-enterprise",
       "name": "elastic-search-enterprise",
       "tags": [],
       "category": "logos",
@@ -1157,7 +1157,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-security",
+      "id": "logos-elastic-security",
       "name": "elastic-security",
       "tags": [],
       "category": "logos",
@@ -1166,7 +1166,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-siem",
+      "id": "logos-elastic-siem",
       "name": "elastic-siem",
       "tags": [],
       "category": "logos",
@@ -1175,7 +1175,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-site-search",
+      "id": "logos-elastic-site-search",
       "name": "elastic-site-search",
       "tags": [],
       "category": "logos",
@@ -1184,7 +1184,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-stack",
+      "id": "logos-elastic-stack",
       "name": "elastic-stack",
       "tags": [],
       "category": "logos",
@@ -1193,7 +1193,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-uptime",
+      "id": "logos-elastic-uptime",
       "name": "elastic-uptime",
       "tags": [],
       "category": "logos",
@@ -1202,7 +1202,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-elastic-workplace-search",
+      "id": "logos-elastic-workplace-search",
       "name": "elastic-workplace-search",
       "tags": [],
       "category": "logos",
@@ -1211,7 +1211,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-envoy",
+      "id": "logos-envoy",
       "name": "envoy",
       "tags": [],
       "category": "logos",
@@ -1220,7 +1220,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-envoy-horizontal",
+      "id": "logos-envoy-horizontal",
       "name": "envoy-horizontal",
       "tags": [],
       "category": "logos",
@@ -1229,7 +1229,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-falco",
+      "id": "logos-falco",
       "name": "falco",
       "tags": [],
       "category": "logos",
@@ -1238,7 +1238,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-fluentd-full",
+      "id": "logos-fluentd-full",
       "name": "fluentd-full",
       "tags": [],
       "category": "logos",
@@ -1247,7 +1247,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-fortran",
+      "id": "logos-fortran",
       "name": "fortran",
       "tags": [],
       "category": "logos",
@@ -1256,7 +1256,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-github",
+      "id": "logos-github",
       "name": "github",
       "tags": [],
       "category": "logos",
@@ -1265,7 +1265,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-github-octocat",
+      "id": "logos-github-octocat",
       "name": "github-octocat",
       "tags": [],
       "category": "logos",
@@ -1274,7 +1274,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-github-wordmark",
+      "id": "logos-github-wordmark",
       "name": "github-wordmark",
       "tags": [],
       "category": "logos",
@@ -1283,7 +1283,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-gitlab",
+      "id": "logos-gitlab",
       "name": "gitlab",
       "tags": [],
       "category": "logos",
@@ -1292,7 +1292,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-gitlab-horizontal",
+      "id": "logos-gitlab-horizontal",
       "name": "gitlab-horizontal",
       "tags": [],
       "category": "logos",
@@ -1301,7 +1301,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-go",
+      "id": "logos-go",
       "name": "go",
       "tags": [],
       "category": "logos",
@@ -1310,7 +1310,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-go-gopher",
+      "id": "logos-go-gopher",
       "name": "go-gopher",
       "tags": [],
       "category": "logos",
@@ -1319,7 +1319,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-google",
+      "id": "logos-google",
       "name": "google",
       "tags": [],
       "category": "logos",
@@ -1328,7 +1328,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-google-cloud",
+      "id": "logos-google-cloud",
       "name": "google-cloud",
       "tags": [],
       "category": "logos",
@@ -1337,7 +1337,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-google-cloud-full",
+      "id": "logos-google-cloud-full",
       "name": "google-cloud-full",
       "tags": [],
       "category": "logos",
@@ -1346,7 +1346,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-google-cloud-horizontal",
+      "id": "logos-google-cloud-horizontal",
       "name": "google-cloud-horizontal",
       "tags": [],
       "category": "logos",
@@ -1355,7 +1355,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-google-wordmark-color",
+      "id": "logos-google-wordmark-color",
       "name": "google-wordmark-color",
       "tags": [],
       "category": "logos",
@@ -1364,7 +1364,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-grafana",
+      "id": "logos-grafana",
       "name": "grafana",
       "tags": [],
       "category": "logos",
@@ -1373,7 +1373,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-grafana-full",
+      "id": "logos-grafana-full",
       "name": "grafana-full",
       "tags": [],
       "category": "logos",
@@ -1382,7 +1382,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-graphql",
+      "id": "logos-graphql",
       "name": "graphql",
       "tags": [],
       "category": "logos",
@@ -1391,7 +1391,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-grpc",
+      "id": "logos-grpc",
       "name": "grpc",
       "tags": [],
       "category": "logos",
@@ -1400,7 +1400,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-haskell",
+      "id": "logos-haskell",
       "name": "haskell",
       "tags": [],
       "category": "logos",
@@ -1409,7 +1409,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-http",
+      "id": "logos-http",
       "name": "http",
       "tags": [],
       "category": "logos",
@@ -1418,7 +1418,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble",
+      "id": "logos-hubble",
       "name": "hubble",
       "tags": [],
       "category": "logos",
@@ -1427,7 +1427,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-full",
+      "id": "logos-hubble-full",
       "name": "hubble-full",
       "tags": [],
       "category": "logos",
@@ -1436,7 +1436,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-full-dark-back",
+      "id": "logos-hubble-full-dark-back",
       "name": "hubble-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -1445,7 +1445,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-full-dark-back-mono",
+      "id": "logos-hubble-full-dark-back-mono",
       "name": "hubble-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -1454,7 +1454,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-full-mono",
+      "id": "logos-hubble-full-mono",
       "name": "hubble-full-mono",
       "tags": [],
       "category": "logos",
@@ -1463,7 +1463,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-horizontal",
+      "id": "logos-hubble-horizontal",
       "name": "hubble-horizontal",
       "tags": [],
       "category": "logos",
@@ -1472,7 +1472,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-horizontal-dark-back",
+      "id": "logos-hubble-horizontal-dark-back",
       "name": "hubble-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -1481,7 +1481,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-horizontal-mono",
+      "id": "logos-hubble-horizontal-mono",
       "name": "hubble-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -1490,7 +1490,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-horizontal-mono-dark-back",
+      "id": "logos-hubble-horizontal-mono-dark-back",
       "name": "hubble-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -1499,7 +1499,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-mono",
+      "id": "logos-hubble-mono",
       "name": "hubble-mono",
       "tags": [],
       "category": "logos",
@@ -1508,7 +1508,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-mono-dark-back",
+      "id": "logos-hubble-mono-dark-back",
       "name": "hubble-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -1517,7 +1517,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-wordmark",
+      "id": "logos-hubble-wordmark",
       "name": "hubble-wordmark",
       "tags": [],
       "category": "logos",
@@ -1526,7 +1526,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-hubble-wordmark-dark-back",
+      "id": "logos-hubble-wordmark-dark-back",
       "name": "hubble-wordmark-dark-back",
       "tags": [],
       "category": "logos",
@@ -1535,7 +1535,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ibm-cloud",
+      "id": "logos-ibm-cloud",
       "name": "ibm-cloud",
       "tags": [],
       "category": "logos",
@@ -1544,7 +1544,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ibm-cloud-full",
+      "id": "logos-ibm-cloud-full",
       "name": "ibm-cloud-full",
       "tags": [],
       "category": "logos",
@@ -1553,7 +1553,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ibm-cloud-horizontal",
+      "id": "logos-ibm-cloud-horizontal",
       "name": "ibm-cloud-horizontal",
       "tags": [],
       "category": "logos",
@@ -1562,7 +1562,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-isovalent",
+      "id": "logos-isovalent",
       "name": "isovalent",
       "tags": [],
       "category": "logos",
@@ -1571,7 +1571,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-istio",
+      "id": "logos-istio",
       "name": "istio",
       "tags": [],
       "category": "logos",
@@ -1580,7 +1580,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-istio-horizontal",
+      "id": "logos-istio-horizontal",
       "name": "istio-horizontal",
       "tags": [],
       "category": "logos",
@@ -1589,7 +1589,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-java",
+      "id": "logos-java",
       "name": "java",
       "tags": [],
       "category": "logos",
@@ -1598,7 +1598,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-javascript",
+      "id": "logos-javascript",
       "name": "javascript",
       "tags": [],
       "category": "logos",
@@ -1607,7 +1607,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-javascript-shield",
+      "id": "logos-javascript-shield",
       "name": "javascript-shield",
       "tags": [],
       "category": "logos",
@@ -1616,7 +1616,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-json",
+      "id": "logos-json",
       "name": "json",
       "tags": [],
       "category": "logos",
@@ -1625,7 +1625,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-kafka",
+      "id": "logos-kafka",
       "name": "kafka",
       "tags": [],
       "category": "logos",
@@ -1634,7 +1634,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-kafka-horizontal",
+      "id": "logos-kafka-horizontal",
       "name": "kafka-horizontal",
       "tags": [],
       "category": "logos",
@@ -1643,7 +1643,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-katran",
+      "id": "logos-katran",
       "name": "katran",
       "tags": [],
       "category": "logos",
@@ -1652,7 +1652,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-kotlin",
+      "id": "logos-kotlin",
       "name": "kotlin",
       "tags": [],
       "category": "logos",
@@ -1661,7 +1661,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-kubernetes",
+      "id": "logos-kubernetes",
       "name": "kubernetes",
       "tags": [],
       "category": "logos",
@@ -1670,7 +1670,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-kubernetes-horizontal",
+      "id": "logos-kubernetes-horizontal",
       "name": "kubernetes-horizontal",
       "tags": [],
       "category": "logos",
@@ -1679,7 +1679,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs",
+      "id": "logos-labs",
       "name": "labs",
       "tags": [],
       "category": "logos",
@@ -1688,7 +1688,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-labs-full",
+      "id": "logos-labs-full",
       "name": "labs-full",
       "tags": [],
       "category": "logos",
@@ -1697,7 +1697,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-labs-full-centered",
+      "id": "logos-labs-full-centered",
       "name": "labs-full-centered",
       "tags": [],
       "category": "logos",
@@ -1706,7 +1706,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-labs-full-centered-dark-back",
+      "id": "logos-labs-full-centered-dark-back",
       "name": "labs-full-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -1715,7 +1715,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-labs-full-dark-back",
+      "id": "logos-labs-full-dark-back",
       "name": "labs-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -1724,7 +1724,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-labs-full-dark-back-mono",
+      "id": "logos-labs-full-dark-back-mono",
       "name": "labs-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -1733,7 +1733,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-full-dark-back-mono-centered",
+      "id": "logos-labs-full-dark-back-mono-centered",
       "name": "labs-full-dark-back-mono-centered",
       "tags": [],
       "category": "logos",
@@ -1742,7 +1742,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-full-horizontal",
+      "id": "logos-labs-full-horizontal",
       "name": "labs-full-horizontal",
       "tags": [],
       "category": "logos",
@@ -1751,7 +1751,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-labs-full-horizontal-dark-back",
+      "id": "logos-labs-full-horizontal-dark-back",
       "name": "labs-full-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -1760,7 +1760,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-labs-full-horizontal-mono",
+      "id": "logos-labs-full-horizontal-mono",
       "name": "labs-full-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -1769,7 +1769,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-full-horizontal-mono-dark-back",
+      "id": "logos-labs-full-horizontal-mono-dark-back",
       "name": "labs-full-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -1778,7 +1778,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-full-mono",
+      "id": "logos-labs-full-mono",
       "name": "labs-full-mono",
       "tags": [],
       "category": "logos",
@@ -1787,7 +1787,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-full-mono-centered",
+      "id": "logos-labs-full-mono-centered",
       "name": "labs-full-mono-centered",
       "tags": [],
       "category": "logos",
@@ -1796,7 +1796,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-mono",
+      "id": "logos-labs-mono",
       "name": "labs-mono",
       "tags": [],
       "category": "logos",
@@ -1805,7 +1805,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-mono-dark-back",
+      "id": "logos-labs-mono-dark-back",
       "name": "labs-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -1814,7 +1814,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-wordmark-centered",
+      "id": "logos-labs-wordmark-centered",
       "name": "labs-wordmark-centered",
       "tags": [],
       "category": "logos",
@@ -1823,7 +1823,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-wordmark-centered-dark-back",
+      "id": "logos-labs-wordmark-centered-dark-back",
       "name": "labs-wordmark-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -1832,7 +1832,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-wordmark-left",
+      "id": "logos-labs-wordmark-left",
       "name": "labs-wordmark-left",
       "tags": [],
       "category": "logos",
@@ -1841,7 +1841,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-labs-wordmark-left-dark-back",
+      "id": "logos-labs-wordmark-left-dark-back",
       "name": "labs-wordmark-left-dark-back",
       "tags": [],
       "category": "logos",
@@ -1850,7 +1850,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-linux-tux",
+      "id": "logos-linux-tux",
       "name": "linux-tux",
       "tags": [],
       "category": "logos",
@@ -1859,7 +1859,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-llvm",
+      "id": "logos-llvm",
       "name": "llvm",
       "tags": [],
       "category": "logos",
@@ -1868,7 +1868,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer",
+      "id": "logos-load-balancer",
       "name": "load-balancer",
       "tags": [],
       "category": "logos",
@@ -1877,7 +1877,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full",
+      "id": "logos-load-balancer-full",
       "name": "load-balancer-full",
       "tags": [],
       "category": "logos",
@@ -1886,7 +1886,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full-centered",
+      "id": "logos-load-balancer-full-centered",
       "name": "load-balancer-full-centered",
       "tags": [],
       "category": "logos",
@@ -1895,7 +1895,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full-centered-dark-back",
+      "id": "logos-load-balancer-full-centered-dark-back",
       "name": "load-balancer-full-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -1904,7 +1904,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full-dark-back",
+      "id": "logos-load-balancer-full-dark-back",
       "name": "load-balancer-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -1913,7 +1913,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full-dark-back-mono",
+      "id": "logos-load-balancer-full-dark-back-mono",
       "name": "load-balancer-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -1922,7 +1922,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full-dark-back-mono-centered",
+      "id": "logos-load-balancer-full-dark-back-mono-centered",
       "name": "load-balancer-full-dark-back-mono-centered",
       "tags": [],
       "category": "logos",
@@ -1931,7 +1931,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full-mono",
+      "id": "logos-load-balancer-full-mono",
       "name": "load-balancer-full-mono",
       "tags": [],
       "category": "logos",
@@ -1940,7 +1940,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-full-mono-centered",
+      "id": "logos-load-balancer-full-mono-centered",
       "name": "load-balancer-full-mono-centered",
       "tags": [],
       "category": "logos",
@@ -1949,7 +1949,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-horizontal",
+      "id": "logos-load-balancer-horizontal",
       "name": "load-balancer-horizontal",
       "tags": [],
       "category": "logos",
@@ -1958,7 +1958,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-horizontal-dark-back",
+      "id": "logos-load-balancer-horizontal-dark-back",
       "name": "load-balancer-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -1967,7 +1967,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-horizontal-mono",
+      "id": "logos-load-balancer-horizontal-mono",
       "name": "load-balancer-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -1976,7 +1976,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-horizontal-mono-dark-back",
+      "id": "logos-load-balancer-horizontal-mono-dark-back",
       "name": "load-balancer-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -1985,7 +1985,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-mono",
+      "id": "logos-load-balancer-mono",
       "name": "load-balancer-mono",
       "tags": [],
       "category": "logos",
@@ -1994,7 +1994,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-mono-dark-back",
+      "id": "logos-load-balancer-mono-dark-back",
       "name": "load-balancer-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -2003,7 +2003,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-wordmark-centered",
+      "id": "logos-load-balancer-wordmark-centered",
       "name": "load-balancer-wordmark-centered",
       "tags": [],
       "category": "logos",
@@ -2012,7 +2012,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-wordmark-centered-dark-back",
+      "id": "logos-load-balancer-wordmark-centered-dark-back",
       "name": "load-balancer-wordmark-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -2021,7 +2021,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-wordmark-left",
+      "id": "logos-load-balancer-wordmark-left",
       "name": "load-balancer-wordmark-left",
       "tags": [],
       "category": "logos",
@@ -2030,7 +2030,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-load-balancer-wordmark-left-dark-back",
+      "id": "logos-load-balancer-wordmark-left-dark-back",
       "name": "load-balancer-wordmark-left-dark-back",
       "tags": [],
       "category": "logos",
@@ -2039,7 +2039,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-mesos",
+      "id": "logos-mesos",
       "name": "mesos",
       "tags": [],
       "category": "logos",
@@ -2048,7 +2048,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-microsoft",
+      "id": "logos-microsoft",
       "name": "microsoft",
       "tags": [],
       "category": "logos",
@@ -2057,7 +2057,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-microsoft-full",
+      "id": "logos-microsoft-full",
       "name": "microsoft-full",
       "tags": [],
       "category": "logos",
@@ -2066,7 +2066,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-microsoft-horizontal",
+      "id": "logos-microsoft-horizontal",
       "name": "microsoft-horizontal",
       "tags": [],
       "category": "logos",
@@ -2075,7 +2075,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-minikube",
+      "id": "logos-minikube",
       "name": "minikube",
       "tags": [],
       "category": "logos",
@@ -2084,7 +2084,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-minikube-horizontal",
+      "id": "logos-minikube-horizontal",
       "name": "minikube-horizontal",
       "tags": [],
       "category": "logos",
@@ -2093,7 +2093,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-mirantis",
+      "id": "logos-mirantis",
       "name": "mirantis",
       "tags": [],
       "category": "logos",
@@ -2102,7 +2102,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-mirantis-horizontal",
+      "id": "logos-mirantis-horizontal",
       "name": "mirantis-horizontal",
       "tags": [],
       "category": "logos",
@@ -2111,7 +2111,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-mongo-forest-green",
+      "id": "logos-mongo-forest-green",
       "name": "mongo-forest-green",
       "tags": [],
       "category": "logos",
@@ -2120,7 +2120,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-mongo-forest-green-horizontal",
+      "id": "logos-mongo-forest-green-horizontal",
       "name": "mongo-forest-green-horizontal",
       "tags": [],
       "category": "logos",
@@ -2129,7 +2129,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-mongo-spring-green",
+      "id": "logos-mongo-spring-green",
       "name": "mongo-spring-green",
       "tags": [],
       "category": "logos",
@@ -2138,7 +2138,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-mongo-spring-green-horizontal",
+      "id": "logos-mongo-spring-green-horizontal",
       "name": "mongo-spring-green-horizontal",
       "tags": [],
       "category": "logos",
@@ -2147,7 +2147,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-netflix",
+      "id": "logos-netflix",
       "name": "netflix",
       "tags": [],
       "category": "logos",
@@ -2156,7 +2156,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes",
+      "id": "logos-networking-for-kubernetes",
       "name": "networking-for-kubernetes",
       "tags": [],
       "category": "logos",
@@ -2165,7 +2165,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full",
+      "id": "logos-networking-for-kubernetes-full",
       "name": "networking-for-kubernetes-full",
       "tags": [],
       "category": "logos",
@@ -2174,7 +2174,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full-centered",
+      "id": "logos-networking-for-kubernetes-full-centered",
       "name": "networking-for-kubernetes-full-centered",
       "tags": [],
       "category": "logos",
@@ -2183,7 +2183,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full-centered-dark-back",
+      "id": "logos-networking-for-kubernetes-full-centered-dark-back",
       "name": "networking-for-kubernetes-full-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -2192,7 +2192,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full-dark-back",
+      "id": "logos-networking-for-kubernetes-full-dark-back",
       "name": "networking-for-kubernetes-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -2201,7 +2201,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full-dark-back-mono",
+      "id": "logos-networking-for-kubernetes-full-dark-back-mono",
       "name": "networking-for-kubernetes-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -2210,7 +2210,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full-dark-back-mono-centered",
+      "id": "logos-networking-for-kubernetes-full-dark-back-mono-centered",
       "name": "networking-for-kubernetes-full-dark-back-mono-centered",
       "tags": [],
       "category": "logos",
@@ -2219,7 +2219,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full-mono",
+      "id": "logos-networking-for-kubernetes-full-mono",
       "name": "networking-for-kubernetes-full-mono",
       "tags": [],
       "category": "logos",
@@ -2228,7 +2228,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-full-mono-centered",
+      "id": "logos-networking-for-kubernetes-full-mono-centered",
       "name": "networking-for-kubernetes-full-mono-centered",
       "tags": [],
       "category": "logos",
@@ -2237,7 +2237,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-horizontal",
+      "id": "logos-networking-for-kubernetes-horizontal",
       "name": "networking-for-kubernetes-horizontal",
       "tags": [],
       "category": "logos",
@@ -2246,7 +2246,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-horizontal-dark-back",
+      "id": "logos-networking-for-kubernetes-horizontal-dark-back",
       "name": "networking-for-kubernetes-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -2255,7 +2255,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-horizontal-mono",
+      "id": "logos-networking-for-kubernetes-horizontal-mono",
       "name": "networking-for-kubernetes-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -2264,7 +2264,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-horizontal-mono-dark-back",
+      "id": "logos-networking-for-kubernetes-horizontal-mono-dark-back",
       "name": "networking-for-kubernetes-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -2273,7 +2273,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-mono",
+      "id": "logos-networking-for-kubernetes-mono",
       "name": "networking-for-kubernetes-mono",
       "tags": [],
       "category": "logos",
@@ -2282,7 +2282,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-mono-dark-back",
+      "id": "logos-networking-for-kubernetes-mono-dark-back",
       "name": "networking-for-kubernetes-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -2291,7 +2291,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-wordmark-centered",
+      "id": "logos-networking-for-kubernetes-wordmark-centered",
       "name": "networking-for-kubernetes-wordmark-centered",
       "tags": [],
       "category": "logos",
@@ -2300,7 +2300,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-wordmark-centered-dark-back",
+      "id": "logos-networking-for-kubernetes-wordmark-centered-dark-back",
       "name": "networking-for-kubernetes-wordmark-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -2309,7 +2309,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-wordmark-left",
+      "id": "logos-networking-for-kubernetes-wordmark-left",
       "name": "networking-for-kubernetes-wordmark-left",
       "tags": [],
       "category": "logos",
@@ -2318,7 +2318,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-networking-for-kubernetes-wordmark-left-dark-back",
+      "id": "logos-networking-for-kubernetes-wordmark-left-dark-back",
       "name": "networking-for-kubernetes-wordmark-left-dark-back",
       "tags": [],
       "category": "logos",
@@ -2327,7 +2327,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-nginx",
+      "id": "logos-nginx",
       "name": "nginx",
       "tags": [],
       "category": "logos",
@@ -2336,7 +2336,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-nginx-text",
+      "id": "logos-nginx-text",
       "name": "nginx-text",
       "tags": [],
       "category": "logos",
@@ -2345,7 +2345,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-nodejs",
+      "id": "logos-nodejs",
       "name": "nodejs",
       "tags": [],
       "category": "logos",
@@ -2354,7 +2354,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-nodejs-hexagon",
+      "id": "logos-nodejs-hexagon",
       "name": "nodejs-hexagon",
       "tags": [],
       "category": "logos",
@@ -2363,7 +2363,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-nutanix",
+      "id": "logos-nutanix",
       "name": "nutanix",
       "tags": [],
       "category": "logos",
@@ -2372,7 +2372,7 @@
       "lastUpdated": "2025-06-25"
     },
     {
-      "id": "logo-open-telemetry",
+      "id": "logos-open-telemetry",
       "name": "open-telemetry",
       "tags": [],
       "category": "logos",
@@ -2381,7 +2381,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-open-telemetry-horizontal",
+      "id": "logos-open-telemetry-horizontal",
       "name": "open-telemetry-horizontal",
       "tags": [],
       "category": "logos",
@@ -2390,7 +2390,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-oracle",
+      "id": "logos-oracle",
       "name": "oracle",
       "tags": [],
       "category": "logos",
@@ -2399,7 +2399,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-oracle-cloud",
+      "id": "logos-oracle-cloud",
       "name": "oracle-cloud",
       "tags": [],
       "category": "logos",
@@ -2408,7 +2408,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-oracle-cloud-actual",
+      "id": "logos-oracle-cloud-actual",
       "name": "oracle-cloud-actual",
       "tags": [],
       "category": "logos",
@@ -2417,7 +2417,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-oracle-cloud-wordmark",
+      "id": "logos-oracle-cloud-wordmark",
       "name": "oracle-cloud-wordmark",
       "tags": [],
       "category": "logos",
@@ -2426,7 +2426,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-php",
+      "id": "logos-php",
       "name": "php",
       "tags": [],
       "category": "logos",
@@ -2435,7 +2435,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-prometheus",
+      "id": "logos-prometheus",
       "name": "prometheus",
       "tags": [],
       "category": "logos",
@@ -2444,7 +2444,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-prometheus-full",
+      "id": "logos-prometheus-full",
       "name": "prometheus-full",
       "tags": [],
       "category": "logos",
@@ -2453,7 +2453,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-prometheus-horizontal",
+      "id": "logos-prometheus-horizontal",
       "name": "prometheus-horizontal",
       "tags": [],
       "category": "logos",
@@ -2462,7 +2462,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-python",
+      "id": "logos-python",
       "name": "python",
       "tags": [],
       "category": "logos",
@@ -2471,7 +2471,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-python-horizontal",
+      "id": "logos-python-horizontal",
       "name": "python-horizontal",
       "tags": [],
       "category": "logos",
@@ -2480,7 +2480,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-rabbitmq",
+      "id": "logos-rabbitmq",
       "name": "rabbitmq",
       "tags": [],
       "category": "logos",
@@ -2489,7 +2489,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-rabbitmq-horizontal",
+      "id": "logos-rabbitmq-horizontal",
       "name": "rabbitmq-horizontal",
       "tags": [],
       "category": "logos",
@@ -2498,7 +2498,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-rancher-full",
+      "id": "logos-rancher-full",
       "name": "rancher-full",
       "tags": [],
       "category": "logos",
@@ -2507,7 +2507,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-react",
+      "id": "logos-react",
       "name": "react",
       "tags": [],
       "category": "logos",
@@ -2516,7 +2516,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-redhat",
+      "id": "logos-redhat",
       "name": "redhat",
       "tags": [],
       "category": "logos",
@@ -2525,7 +2525,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-redhat-horizontal",
+      "id": "logos-redhat-horizontal",
       "name": "redhat-horizontal",
       "tags": [],
       "category": "logos",
@@ -2534,7 +2534,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-redhat-openshift",
+      "id": "logos-redhat-openshift",
       "name": "redhat-openshift",
       "tags": [],
       "category": "logos",
@@ -2543,7 +2543,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-redis",
+      "id": "logos-redis",
       "name": "redis",
       "tags": [],
       "category": "logos",
@@ -2552,7 +2552,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-redis-horizontal",
+      "id": "logos-redis-horizontal",
       "name": "redis-horizontal",
       "tags": [],
       "category": "logos",
@@ -2561,7 +2561,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security",
+      "id": "logos-runtime-security",
       "name": "runtime-security",
       "tags": [],
       "category": "logos",
@@ -2570,7 +2570,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full",
+      "id": "logos-runtime-security-full",
       "name": "runtime-security-full",
       "tags": [],
       "category": "logos",
@@ -2579,7 +2579,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full-centered",
+      "id": "logos-runtime-security-full-centered",
       "name": "runtime-security-full-centered",
       "tags": [],
       "category": "logos",
@@ -2588,7 +2588,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full-centered-dark-back",
+      "id": "logos-runtime-security-full-centered-dark-back",
       "name": "runtime-security-full-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -2597,7 +2597,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full-dark-back",
+      "id": "logos-runtime-security-full-dark-back",
       "name": "runtime-security-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -2606,7 +2606,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full-dark-back-mono",
+      "id": "logos-runtime-security-full-dark-back-mono",
       "name": "runtime-security-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -2615,7 +2615,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full-dark-back-mono-centered",
+      "id": "logos-runtime-security-full-dark-back-mono-centered",
       "name": "runtime-security-full-dark-back-mono-centered",
       "tags": [],
       "category": "logos",
@@ -2624,7 +2624,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full-mono",
+      "id": "logos-runtime-security-full-mono",
       "name": "runtime-security-full-mono",
       "tags": [],
       "category": "logos",
@@ -2633,7 +2633,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-full-mono-centered",
+      "id": "logos-runtime-security-full-mono-centered",
       "name": "runtime-security-full-mono-centered",
       "tags": [],
       "category": "logos",
@@ -2642,7 +2642,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-horizontal",
+      "id": "logos-runtime-security-horizontal",
       "name": "runtime-security-horizontal",
       "tags": [],
       "category": "logos",
@@ -2651,7 +2651,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-horizontal-dark-back",
+      "id": "logos-runtime-security-horizontal-dark-back",
       "name": "runtime-security-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -2660,7 +2660,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-horizontal-mono",
+      "id": "logos-runtime-security-horizontal-mono",
       "name": "runtime-security-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -2669,7 +2669,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-horizontal-mono-dark-back",
+      "id": "logos-runtime-security-horizontal-mono-dark-back",
       "name": "runtime-security-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -2678,7 +2678,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-mono",
+      "id": "logos-runtime-security-mono",
       "name": "runtime-security-mono",
       "tags": [],
       "category": "logos",
@@ -2687,7 +2687,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-mono-dark-back",
+      "id": "logos-runtime-security-mono-dark-back",
       "name": "runtime-security-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -2696,7 +2696,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-wordmark-centered",
+      "id": "logos-runtime-security-wordmark-centered",
       "name": "runtime-security-wordmark-centered",
       "tags": [],
       "category": "logos",
@@ -2705,7 +2705,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-wordmark-centered-dark-back",
+      "id": "logos-runtime-security-wordmark-centered-dark-back",
       "name": "runtime-security-wordmark-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -2714,7 +2714,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-wordmark-left",
+      "id": "logos-runtime-security-wordmark-left",
       "name": "runtime-security-wordmark-left",
       "tags": [],
       "category": "logos",
@@ -2723,7 +2723,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-runtime-security-wordmark-left-dark-back",
+      "id": "logos-runtime-security-wordmark-left-dark-back",
       "name": "runtime-security-wordmark-left-dark-back",
       "tags": [],
       "category": "logos",
@@ -2732,7 +2732,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-rust",
+      "id": "logos-rust",
       "name": "rust",
       "tags": [],
       "category": "logos",
@@ -2741,7 +2741,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-service-mesh",
+      "id": "logos-service-mesh",
       "name": "service-mesh",
       "tags": [],
       "category": "logos",
@@ -2750,7 +2750,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-service-mesh-full",
+      "id": "logos-service-mesh-full",
       "name": "service-mesh-full",
       "tags": [],
       "category": "logos",
@@ -2759,7 +2759,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-full-centered",
+      "id": "logos-service-mesh-full-centered",
       "name": "service-mesh-full-centered",
       "tags": [],
       "category": "logos",
@@ -2768,7 +2768,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-full-centered-dark-back",
+      "id": "logos-service-mesh-full-centered-dark-back",
       "name": "service-mesh-full-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -2777,7 +2777,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-full-dark-back",
+      "id": "logos-service-mesh-full-dark-back",
       "name": "service-mesh-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -2786,7 +2786,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-full-dark-back-mono",
+      "id": "logos-service-mesh-full-dark-back-mono",
       "name": "service-mesh-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -2795,7 +2795,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-full-dark-back-mono-centered",
+      "id": "logos-service-mesh-full-dark-back-mono-centered",
       "name": "service-mesh-full-dark-back-mono-centered",
       "tags": [],
       "category": "logos",
@@ -2804,7 +2804,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-full-mono",
+      "id": "logos-service-mesh-full-mono",
       "name": "service-mesh-full-mono",
       "tags": [],
       "category": "logos",
@@ -2813,7 +2813,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-full-mono-centered",
+      "id": "logos-service-mesh-full-mono-centered",
       "name": "service-mesh-full-mono-centered",
       "tags": [],
       "category": "logos",
@@ -2822,7 +2822,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-horizontal",
+      "id": "logos-service-mesh-horizontal",
       "name": "service-mesh-horizontal",
       "tags": [],
       "category": "logos",
@@ -2831,7 +2831,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-horizontal-dark-back",
+      "id": "logos-service-mesh-horizontal-dark-back",
       "name": "service-mesh-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -2840,7 +2840,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-horizontal-mono",
+      "id": "logos-service-mesh-horizontal-mono",
       "name": "service-mesh-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -2849,7 +2849,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-horizontal-mono-dark-back",
+      "id": "logos-service-mesh-horizontal-mono-dark-back",
       "name": "service-mesh-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -2858,7 +2858,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-wordmark-centered",
+      "id": "logos-service-mesh-wordmark-centered",
       "name": "service-mesh-wordmark-centered",
       "tags": [],
       "category": "logos",
@@ -2867,7 +2867,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-wordmark-centered-dark-back",
+      "id": "logos-service-mesh-wordmark-centered-dark-back",
       "name": "service-mesh-wordmark-centered-dark-back",
       "tags": [],
       "category": "logos",
@@ -2876,7 +2876,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-wordmark-left",
+      "id": "logos-service-mesh-wordmark-left",
       "name": "service-mesh-wordmark-left",
       "tags": [],
       "category": "logos",
@@ -2885,7 +2885,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mesh-wordmark-left-dark-back",
+      "id": "logos-service-mesh-wordmark-left-dark-back",
       "name": "service-mesh-wordmark-left-dark-back",
       "tags": [],
       "category": "logos",
@@ -2894,7 +2894,7 @@
       "lastUpdated": "2025-06-30"
     },
     {
-      "id": "logo-service-mono",
+      "id": "logos-service-mono",
       "name": "service-mono",
       "tags": [],
       "category": "logos",
@@ -2903,7 +2903,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-service-mono-dark-back",
+      "id": "logos-service-mono-dark-back",
       "name": "service-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -2912,7 +2912,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-slack",
+      "id": "logos-slack",
       "name": "slack",
       "tags": [],
       "category": "logos",
@@ -2921,7 +2921,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-slack-horizontal",
+      "id": "logos-slack-horizontal",
       "name": "slack-horizontal",
       "tags": [],
       "category": "logos",
@@ -2930,7 +2930,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-splunk",
+      "id": "logos-splunk",
       "name": "splunk",
       "tags": [],
       "category": "logos",
@@ -2939,7 +2939,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-terraform",
+      "id": "logos-terraform",
       "name": "terraform",
       "tags": [],
       "category": "logos",
@@ -2948,7 +2948,7 @@
       "lastUpdated": "2025-06-15"
     },
     {
-      "id": "logo-tetragon",
+      "id": "logos-tetragon",
       "name": "tetragon",
       "tags": [],
       "category": "logos",
@@ -2957,7 +2957,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-full",
+      "id": "logos-tetragon-full",
       "name": "tetragon-full",
       "tags": [],
       "category": "logos",
@@ -2966,7 +2966,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-full-dark-back",
+      "id": "logos-tetragon-full-dark-back",
       "name": "tetragon-full-dark-back",
       "tags": [],
       "category": "logos",
@@ -2975,7 +2975,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-full-dark-back-mono",
+      "id": "logos-tetragon-full-dark-back-mono",
       "name": "tetragon-full-dark-back-mono",
       "tags": [],
       "category": "logos",
@@ -2984,7 +2984,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-full-mono",
+      "id": "logos-tetragon-full-mono",
       "name": "tetragon-full-mono",
       "tags": [],
       "category": "logos",
@@ -2993,7 +2993,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-horizontal",
+      "id": "logos-tetragon-horizontal",
       "name": "tetragon-horizontal",
       "tags": [],
       "category": "logos",
@@ -3002,7 +3002,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-horizontal-dark-back",
+      "id": "logos-tetragon-horizontal-dark-back",
       "name": "tetragon-horizontal-dark-back",
       "tags": [],
       "category": "logos",
@@ -3011,7 +3011,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-horizontal-mono",
+      "id": "logos-tetragon-horizontal-mono",
       "name": "tetragon-horizontal-mono",
       "tags": [],
       "category": "logos",
@@ -3020,7 +3020,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-horizontal-mono-dark-back",
+      "id": "logos-tetragon-horizontal-mono-dark-back",
       "name": "tetragon-horizontal-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -3029,7 +3029,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-mono",
+      "id": "logos-tetragon-mono",
       "name": "tetragon-mono",
       "tags": [],
       "category": "logos",
@@ -3038,7 +3038,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-mono-dark-back",
+      "id": "logos-tetragon-mono-dark-back",
       "name": "tetragon-mono-dark-back",
       "tags": [],
       "category": "logos",
@@ -3047,7 +3047,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-wordmark",
+      "id": "logos-tetragon-wordmark",
       "name": "tetragon-wordmark",
       "tags": [],
       "category": "logos",
@@ -3056,7 +3056,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-tetragon-wordmark-dark-back",
+      "id": "logos-tetragon-wordmark-dark-back",
       "name": "tetragon-wordmark-dark-back",
       "tags": [],
       "category": "logos",
@@ -3065,7 +3065,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-typescript",
+      "id": "logos-typescript",
       "name": "typescript",
       "tags": [],
       "category": "logos",
@@ -3074,7 +3074,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ubuntu",
+      "id": "logos-ubuntu",
       "name": "ubuntu",
       "tags": [],
       "category": "logos",
@@ -3083,7 +3083,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-ubuntu-horizontal",
+      "id": "logos-ubuntu-horizontal",
       "name": "ubuntu-horizontal",
       "tags": [],
       "category": "logos",
@@ -3092,7 +3092,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-vmware",
+      "id": "logos-vmware",
       "name": "vmware",
       "tags": [],
       "category": "logos",
@@ -3101,7 +3101,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-vmware-tanzu-full",
+      "id": "logos-vmware-tanzu-full",
       "name": "vmware-tanzu-full",
       "tags": [],
       "category": "logos",
@@ -3110,7 +3110,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-windows",
+      "id": "logos-windows",
       "name": "windows",
       "tags": [],
       "category": "logos",
@@ -3119,7 +3119,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-windows-full",
+      "id": "logos-windows-full",
       "name": "windows-full",
       "tags": [],
       "category": "logos",
@@ -3128,7 +3128,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-windows-horizontal",
+      "id": "logos-windows-horizontal",
       "name": "windows-horizontal",
       "tags": [],
       "category": "logos",
@@ -3137,7 +3137,7 @@
       "lastUpdated": "2025-06-13"
     },
     {
-      "id": "logo-one-small-step-for-the-cluster",
+      "id": "stickers-one-small-step-for-the-cluster",
       "name": "one-small-step-for-the-cluster",
       "tags": [],
       "category": "stickers",
@@ -3146,7 +3146,7 @@
       "lastUpdated": "2025-06-19"
     },
     {
-      "id": "you-shall-not-pass-sticker",
+      "id": "stickers-you-shall-not-pass",
       "name": "you-shall-not-pass",
       "tags": [],
       "category": "stickers",
