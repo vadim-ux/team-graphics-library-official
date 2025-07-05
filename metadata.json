@@ -3846,7 +3846,9 @@
       "category": "stickers",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/one-small-step-for-the-cluster.png",
       "size": "",
-      "lastUpdated": "2025-06-19"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/one-small-step-for-the-cluster.svg"
     },
     {
       "id": "stickers-you-shall-not-pass",
@@ -3855,7 +3857,9 @@
       "category": "stickers",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/you-shall-not-pass-sticker.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-03"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/you-shall-not-pass.svg"
     }
   ]
 }
