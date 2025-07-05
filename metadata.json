@@ -713,7 +713,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf.png",
       "size": "",
-      "lastUpdated": "2025-07-05"
+      "lastUpdated": "2025-07-05",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf.svg"
     },
     {
       "id": "logos-ebpf-full",
