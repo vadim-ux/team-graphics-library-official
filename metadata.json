@@ -3822,7 +3822,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/vmware-v-shpere.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-08"
+      "lastUpdated": "2025-07-08",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/vmware-v-shpere.svg"
     },
     {
       "id": "logos-windows",
