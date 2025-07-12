@@ -3888,7 +3888,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-rectangle.svg"
     },
     {
       "id": "templates-load-balancer-rectangle",
@@ -3897,7 +3899,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-rectangle.svg"
     },
     {
       "id": "templates-mesh-networking-rectangle",
@@ -3906,7 +3910,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-rectangle.svg"
     },
     {
       "id": "templates-networking-for-kubernetes-rectangle",
@@ -3915,7 +3921,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle.svg"
     },
     {
       "id": "templates-runtime-security-rectangle",
@@ -3924,7 +3932,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-rectangle.svg"
     }
   ]
 }
