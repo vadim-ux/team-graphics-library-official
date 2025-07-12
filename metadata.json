@@ -2513,7 +2513,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking.svg"
     },
     {
       "id": "logos-mesh-networking-full",
@@ -2522,7 +2524,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full.svg"
     },
     {
       "id": "logos-mesh-networking-full-centered",
@@ -2531,7 +2535,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-centered.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-centered.svg"
     },
     {
       "id": "logos-mesh-networking-full-centered-dark-back",
@@ -2540,7 +2546,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-centered-dark-back.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-centered-dark-back.svg"
     },
     {
       "id": "logos-mesh-networking-full-dark-back",
@@ -2549,7 +2557,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back.svg"
     },
     {
       "id": "logos-mesh-networking-full-dark-back-mono",
@@ -2558,7 +2568,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back-mono.svg"
     },
     {
       "id": "logos-mesh-networking-full-dark-back-mono-centered",
@@ -2567,7 +2579,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back-mono-centered.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back-mono-centered.svg"
     },
     {
       "id": "logos-mesh-networking-full-mono",
@@ -2576,7 +2590,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-mono.svg"
     },
     {
       "id": "logos-mesh-networking-full-mono-centered",
@@ -2585,7 +2601,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-mono-centered.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-mono-centered.svg"
     },
     {
       "id": "logos-mesh-networking-horizontal",
@@ -2594,7 +2612,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal.svg"
     },
     {
       "id": "logos-mesh-networking-horizontal-dark-back",
@@ -2603,7 +2623,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-dark-back.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-dark-back.svg"
     },
     {
       "id": "logos-mesh-networking-horizontal-mono",
@@ -2612,7 +2634,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-mono.svg"
     },
     {
       "id": "logos-mesh-networking-horizontal-mono-dark-back",
@@ -2621,7 +2645,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-mono-dark-back.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-mono-dark-back.svg"
     },
     {
       "id": "logos-mesh-networking-mono",
@@ -2630,7 +2656,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-mono.svg"
     },
     {
       "id": "logos-mesh-networking-mono-dark-back",
@@ -2639,7 +2667,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-mono-dark-back.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-mono-dark-back.svg"
     },
     {
       "id": "logos-mesh-networking-wordmark-centered",
@@ -2648,7 +2678,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-centered.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-centered.svg"
     },
     {
       "id": "logos-mesh-networking-wordmark-centered-dark-back",
@@ -2657,7 +2689,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-centered-dark-back.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-centered-dark-back.svg"
     },
     {
       "id": "logos-mesh-networking-wordmark-left",
@@ -2666,7 +2700,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-left.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-left.svg"
     },
     {
       "id": "logos-mesh-networking-wordmark-left-dark-back",
@@ -2675,7 +2711,9 @@
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-left-dark-back.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-12"
+      "lastUpdated": "2025-07-12",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-left-dark-back.svg"
     },
     {
       "id": "logos-mesos",
