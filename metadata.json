@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-12",
-  "totalAssets": 357,
+  "totalAssets": 358,
   "categories": [
     "diagrams",
     "ebees",
@@ -3286,6 +3286,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/rancher-full.svg"
+    },
+    {
+      "id": "logos-raycast",
+      "name": "raycast",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/raycast.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-12"
     },
     {
       "id": "logos-react",
