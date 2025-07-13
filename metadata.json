@@ -5165,16 +5165,11 @@
     {
       "id": "logos-raycast",
       "name": "raycast",
-      "tags": [
-        "logos",
-        "raycast"
-      ],
+      "tags": [],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/raycast.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13",
-      "hasSvg": true,
-      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/raycast.svg"
+      "lastUpdated": "2025-07-13"
     },
     {
       "id": "logos-react",
