@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-13",
-  "totalAssets": 424,
+  "totalAssets": 425,
   "categories": [
     "diagrams",
     "ebees",
@@ -1674,6 +1674,15 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/yaml-doc-generic.svg"
+    },
+    {
+      "id": "illustrations-ebpf-cilium-iptables-kubernetes",
+      "name": "ebpf-cilium-iptables-kubernetes",
+      "tags": [],
+      "category": "illustrations",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/illustrations/ebpf-cilium-iptables-kubernetes.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-13"
     },
     {
       "id": "logos-adobe-full",
