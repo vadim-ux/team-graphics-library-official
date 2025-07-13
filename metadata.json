@@ -16,7 +16,7 @@
     {
       "id": "diagrams-connect-protect-encrypt-cilium-ebpf-tetragon",
       "name": "connect-protect-encrypt-cilium-ebpf-tetragon",
-      "tags": [],
+      "tags": ["diagrams", "connect", "protect", "encrypt", "cilium", "ebpf", "tetragon", "isovalent"],
       "category": "diagrams",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/diagrams/connect-protect-encrypt-cilium-ebpf-tetragon.png",
       "size": "",
@@ -27,7 +27,7 @@
     {
       "id": "ebees-ebee-geek",
       "name": "ebee-geek",
-      "tags": [],
+      "tags": ["ebees", "ebee", "geek", "isovalent"],
       "category": "ebees",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-ebee-geek.png",
       "size": "1024x1024",
