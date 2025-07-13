@@ -140,7 +140,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/basic-gear-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/basic-gear-gold.svg"
     },
     {
       "id": "icons-basic-gear-mono-black",
@@ -149,7 +151,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/basic-gear-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/basic-gear-mono-black.svg"
     },
     {
       "id": "icons-basic-gear-mono-white",
@@ -158,7 +162,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/basic-gear-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/basic-gear-mono-white.svg"
     },
     {
       "id": "icons-cilium-policy-doc-generic",
@@ -167,7 +173,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cilium-policy-doc-generic.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cilium-policy-doc-generic.svg"
     },
     {
       "id": "icons-cloud-on-premise-icon",
@@ -176,7 +184,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-on-premise-icon.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-on-premise-icon.svg"
     },
     {
       "id": "icons-cloud-on-premise-wordmark",
@@ -185,7 +195,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-on-premise-wordmark.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-on-premise-wordmark.svg"
     },
     {
       "id": "icons-cloud-workloads-icon",
@@ -194,7 +206,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-workloads-icon.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-workloads-icon.svg"
     },
     {
       "id": "icons-cloud-workloads-wordmark",
@@ -203,7 +217,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-workloads-wordmark.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-workloads-wordmark.svg"
     },
     {
       "id": "icons-connect-gold",
@@ -325,7 +341,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/data-access-server-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/data-access-server-blue.svg"
     },
     {
       "id": "icons-data-access-server-gold",
@@ -334,7 +352,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/data-access-server-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/data-access-server-gold.svg"
     },
     {
       "id": "icons-encrypt-gold",
@@ -376,7 +396,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/eth.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/eth.svg"
     },
     {
       "id": "icons-eth0",
@@ -385,7 +407,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/eth0.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/eth0.svg"
     },
     {
       "id": "icons-file-access-blue",
@@ -394,7 +418,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/file-access-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/file-access-blue.svg"
     },
     {
       "id": "icons-file-access-gold",
@@ -403,7 +429,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/file-access-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/file-access-gold.svg"
     },
     {
       "id": "icons-gear-process-blue",
@@ -412,7 +440,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/gear-process-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/gear-process-blue.svg"
     },
     {
       "id": "icons-gear-process-gold",
@@ -421,7 +451,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/gear-process-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/gear-process-gold.svg"
     },
     {
       "id": "icons-hash-maps--mono-black",
@@ -430,7 +462,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/hash-maps--mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/hash-maps--mono-black.svg"
     },
     {
       "id": "icons-hash-maps--mono-white",
@@ -439,7 +473,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/hash-maps--mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/hash-maps--mono-white.svg"
     },
     {
       "id": "icons-hash-maps-gold",
@@ -448,7 +484,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/hash-maps-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/hash-maps-gold.svg"
     },
     {
       "id": "icons-json-doc-generic",
@@ -457,7 +495,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/json-doc-generic.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/json-doc-generic.svg"
     },
     {
       "id": "icons-laptop",
@@ -466,7 +506,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/laptop.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/laptop.svg"
     },
     {
       "id": "icons-library-logo-ebeejedi",
@@ -491,7 +533,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/lock-opened-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/lock-opened-blue.svg"
     },
     {
       "id": "icons-lock-opened-gold",
@@ -500,7 +544,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/lock-opened-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/lock-opened-gold.svg"
     },
     {
       "id": "icons-metrics-gold",
@@ -509,7 +555,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/metrics-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/metrics-gold.svg"
     },
     {
       "id": "icons-metrics-mono-black",
@@ -518,7 +566,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/metrics-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/metrics-mono-black.svg"
     },
     {
       "id": "icons-metrics-mono-white",
@@ -527,7 +577,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/metrics-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/metrics-mono-white.svg"
     },
     {
       "id": "icons-mitigate-gold",
@@ -569,7 +621,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/namespace-pod-cube-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/namespace-pod-cube-gold.svg"
     },
     {
       "id": "icons-namespace-pod-cube-mono-black",
@@ -578,7 +632,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/namespace-pod-cube-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/namespace-pod-cube-mono-black.svg"
     },
     {
       "id": "icons-namespace-pod-cube-mono-white",
@@ -587,7 +643,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/namespace-pod-cube-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/namespace-pod-cube-mono-white.svg"
     },
     {
       "id": "icons-network-eth-gold",
@@ -596,7 +654,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-eth-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-eth-gold.svg"
     },
     {
       "id": "icons-network-eth-mono-black",
@@ -605,7 +665,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-eth-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-eth-mono-black.svg"
     },
     {
       "id": "icons-network-eth-mono-white",
@@ -614,7 +676,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-eth-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-eth-mono-white.svg"
     },
     {
       "id": "icons-network-security-ui",
@@ -642,7 +706,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ns-escape-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ns-escape-blue.svg"
     },
     {
       "id": "icons-ns-escape-gold",
@@ -651,7 +717,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ns-escape-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ns-escape-gold.svg"
     },
     {
       "id": "icons-observe-gold",
@@ -693,7 +761,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/planet-internet-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/planet-internet-blue.svg"
     },
     {
       "id": "icons-planet-internet-gold",
@@ -702,7 +772,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/planet-internet-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/planet-internet-gold.svg"
     },
     {
       "id": "icons-policies-ui",
@@ -729,7 +801,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-generic.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-generic.svg"
     },
     {
       "id": "icons-protect-gold",
@@ -771,7 +845,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ring-buffer--mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ring-buffer--mono-black.svg"
     },
     {
       "id": "icons-ring-buffer--mono-white",
@@ -780,7 +856,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ring-buffer--mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ring-buffer--mono-white.svg"
     },
     {
       "id": "icons-ring-buffer-gold",
@@ -789,7 +867,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ring-buffer-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ring-buffer-gold.svg"
     },
     {
       "id": "icons-seq-attack-blue",
@@ -798,7 +878,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/seq-attack-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/seq-attack-blue.svg"
     },
     {
       "id": "icons-seq-attack-gold",
@@ -807,7 +889,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/seq-attack-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/seq-attack-gold.svg"
     },
     {
       "id": "icons-siem-generic",
@@ -816,7 +900,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/siem-generic.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/siem-generic.svg"
     },
     {
       "id": "icons-smart-collector--mono-black",
@@ -825,7 +911,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smart-collector--mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smart-collector--mono-black.svg"
     },
     {
       "id": "icons-smart-collector--mono-white",
@@ -834,7 +922,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smart-collector--mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smart-collector--mono-white.svg"
     },
     {
       "id": "icons-smart-collector-gold",
@@ -843,7 +933,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smart-collector-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smart-collector-gold.svg"
     },
     {
       "id": "icons-stack-traces-gold",
@@ -852,7 +944,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/stack-traces-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/stack-traces-gold.svg"
     },
     {
       "id": "icons-stack-traces-mono-black",
@@ -861,7 +955,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/stack-traces-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/stack-traces-mono-black.svg"
     },
     {
       "id": "icons-stack-traces-mono-white",
@@ -870,7 +966,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/stack-traces-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/stack-traces-mono-white.svg"
     },
     {
       "id": "icons-storage-gold",
@@ -879,7 +977,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/storage-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/storage-gold.svg"
     },
     {
       "id": "icons-storage-mono-black",
@@ -888,7 +988,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/storage-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/storage-mono-black.svg"
     },
     {
       "id": "icons-storage-mono-white",
@@ -897,7 +999,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/storage-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/storage-mono-white.svg"
     },
     {
       "id": "icons-syscall-activity-blue",
@@ -906,7 +1010,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/syscall-activity-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/syscall-activity-blue.svg"
     },
     {
       "id": "icons-syscall-activity-gold",
@@ -915,7 +1021,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/syscall-activity-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/syscall-activity-gold.svg"
     },
     {
       "id": "icons-system-calls-gold",
@@ -924,7 +1032,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/system-calls-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/system-calls-gold.svg"
     },
     {
       "id": "icons-system-calls-mono-black",
@@ -933,7 +1043,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/system-calls-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/system-calls-mono-black.svg"
     },
     {
       "id": "icons-system-calls-mono-white",
@@ -942,7 +1054,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/system-calls-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/system-calls-mono-white.svg"
     },
     {
       "id": "icons-tcp-ip-network-connect-gold",
@@ -951,7 +1065,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/tcp-ip-network-connect-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/tcp-ip-network-connect-gold.svg"
     },
     {
       "id": "icons-tcp-ip-network-connect-mono-black",
@@ -960,7 +1076,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/tcp-ip-network-connect-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/tcp-ip-network-connect-mono-black.svg"
     },
     {
       "id": "icons-tcp-ip-network-connect-mono-white",
@@ -969,7 +1087,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/tcp-ip-network-connect-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/tcp-ip-network-connect-mono-white.svg"
     },
     {
       "id": "icons-troubleshoot-gold",
@@ -1011,7 +1131,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vfs-gold.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vfs-gold.svg"
     },
     {
       "id": "icons-vfs-mono-black",
@@ -1020,7 +1142,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vfs-mono-black.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vfs-mono-black.svg"
     },
     {
       "id": "icons-vfs-mono-white",
@@ -1029,7 +1153,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vfs-mono-white.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vfs-mono-white.svg"
     },
     {
       "id": "icons-vm",
@@ -1101,7 +1227,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/yaml-doc-generic.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/yaml-doc-generic.svg"
     },
     {
       "id": "logos-adobe-full",
