@@ -1678,7 +1678,14 @@
     {
       "id": "illustrations-ebpf-cilium-iptables-kubernetes",
       "name": "ebpf-cilium-iptables-kubernetes",
-      "tags": [],
+      "tags": [
+        "illustrations",
+        "ebpf",
+        "cilium",
+        "iptables",
+        "kubernetes",
+        "isovalent"
+      ],
       "category": "illustrations",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/illustrations/ebpf-cilium-iptables-kubernetes.png",
       "size": "1024x1024",
