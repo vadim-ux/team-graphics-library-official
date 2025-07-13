@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-13",
-  "totalAssets": 422,
+  "totalAssets": 424,
   "categories": [
     "diagrams",
     "ebees",
@@ -32,6 +32,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/diagrams/connect-protect-encrypt-cilium-ebpf-tetragon.svg"
+    },
+    {
+      "id": "ebees-ebee-f1-pilot",
+      "name": "ebee-f1-pilot",
+      "tags": [],
+      "category": "ebees",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-f1-pilot.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-13"
     },
     {
       "id": "ebees-ebee-geek",
@@ -65,6 +74,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-hero-wb.svg"
+    },
+    {
+      "id": "ebees-ebee-turing",
+      "name": "ebee-turing",
+      "tags": [],
+      "category": "ebees",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-turing.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-13"
     },
     {
       "id": "icons-bare-metal",
