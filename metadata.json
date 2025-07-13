@@ -16,7 +16,16 @@
     {
       "id": "diagrams-connect-protect-encrypt-cilium-ebpf-tetragon",
       "name": "connect-protect-encrypt-cilium-ebpf-tetragon",
-      "tags": ["diagrams", "connect", "protect", "encrypt", "cilium", "ebpf", "tetragon", "isovalent"],
+      "tags": [
+        "diagrams",
+        "connect",
+        "protect",
+        "encrypt",
+        "cilium",
+        "ebpf",
+        "tetragon",
+        "isovalent"
+      ],
       "category": "diagrams",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/diagrams/connect-protect-encrypt-cilium-ebpf-tetragon.png",
       "size": "",
@@ -27,7 +36,12 @@
     {
       "id": "ebees-ebee-geek",
       "name": "ebee-geek",
-      "tags": ["ebees", "ebee", "geek", "isovalent"],
+      "tags": [
+        "ebees",
+        "ebee",
+        "geek",
+        "isovalent"
+      ],
       "category": "ebees",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-ebee-geek.png",
       "size": "1024x1024",
@@ -38,7 +52,13 @@
     {
       "id": "ebees-ebee-hero-wb",
       "name": "ebee-hero-wb",
-      "tags": ["ebees", "ebee", "hero", "wb", "isovalent"],
+      "tags": [
+        "ebees",
+        "ebee",
+        "hero",
+        "wb",
+        "isovalent"
+      ],
       "category": "ebees",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-ebee-hero-wb.png",
       "size": "1024x1024",
@@ -49,7 +69,11 @@
     {
       "id": "icons-bare-metal",
       "name": "bare-metal",
-      "tags": ["icons", "bare-metal", "server"],
+      "tags": [
+        "icons",
+        "bare-metal",
+        "server"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal.png",
       "size": "1024x1024",
@@ -60,7 +84,14 @@
     {
       "id": "icons-bare-metal-dark-back-mono",
       "name": "bare-metal-dark-back-mono",
-      "tags": ["icons", "bare-metal", "server", "dark", "back", "mono"],
+      "tags": [
+        "icons",
+        "bare-metal",
+        "server",
+        "dark",
+        "back",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal-dark-back-mono.png",
       "size": "",
@@ -71,7 +102,14 @@
     {
       "id": "icons-bare-metal-k8s-color-mono",
       "name": "bare-metal-k8s-color-mono",
-      "tags": ["icons", "bare-metal", "server", "k8s", "color", "mono"],
+      "tags": [
+        "icons",
+        "bare-metal",
+        "server",
+        "k8s",
+        "color",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal-k8s-color-mono.png",
       "size": "",
@@ -82,7 +120,12 @@
     {
       "id": "icons-bare-metal-mono",
       "name": "bare-metal-mono",
-      "tags": ["icons", "bare-metal", "server", "mono"],
+      "tags": [
+        "icons",
+        "bare-metal",
+        "server",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/bare-metal-mono.png",
       "size": "",
@@ -93,7 +136,12 @@
     {
       "id": "icons-connect-gold",
       "name": "connect-gold",
-      "tags": ["icons", "connect", "gold", "isovalent"],
+      "tags": [
+        "icons",
+        "connect",
+        "gold",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connect-gold.png",
       "size": "",
@@ -104,7 +152,12 @@
     {
       "id": "icons-connect-gold-full",
       "name": "connect-gold-full",
-      "tags": ["icons", "connect", "gold", "isovalent"],
+      "tags": [
+        "icons",
+        "connect",
+        "gold",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connect-gold-full.png",
       "size": "",
@@ -115,7 +168,14 @@
     {
       "id": "icons-connections-ui",
       "name": "connections-ui",
-      "tags": ["icons", "connections", "ui", "isovalent", "hubble", "timescape"],
+      "tags": [
+        "icons",
+        "connections",
+        "ui",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui.png",
       "size": "",
@@ -126,7 +186,10 @@
     {
       "id": "icons-container",
       "name": "container",
-      "tags": ["icons", "container"],
+      "tags": [
+        "icons",
+        "container"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container.png",
       "size": "",
@@ -137,7 +200,13 @@
     {
       "id": "icons-container-dark-back-mono",
       "name": "container-dark-back-mono",
-      "tags": ["icons", "container", "dark", "back", "mono"],
+      "tags": [
+        "icons",
+        "container",
+        "dark",
+        "back",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container-dark-back-mono.png",
       "size": "",
@@ -148,7 +217,13 @@
     {
       "id": "icons-container-k8s-color-mono",
       "name": "container-k8s-color-mono",
-      "tags": ["icons", "container", "k8s", "color", "mono"],
+      "tags": [
+        "icons",
+        "container",
+        "k8s",
+        "color",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container-k8s-color-mono.png",
       "size": "",
@@ -159,7 +234,11 @@
     {
       "id": "icons-container-mono",
       "name": "container-mono",
-      "tags": ["icons", "container", "mono"],
+      "tags": [
+        "icons",
+        "container",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/container-mono.png",
       "size": "",
@@ -170,7 +249,12 @@
     {
       "id": "icons-encrypt-gold",
       "name": "encrypt-gold",
-      "tags": ["icons", "encrypt", "gold", "isovalent"],
+      "tags": [
+        "icons",
+        "encrypt",
+        "gold",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/encrypt-gold.png",
       "size": "",
@@ -181,7 +265,13 @@
     {
       "id": "icons-encrypt-gold-full",
       "name": "encrypt-gold-full",
-      "tags": ["icons", "encrypt", "gold", "isovalent", "full"],
+      "tags": [
+        "icons",
+        "encrypt",
+        "gold",
+        "isovalent",
+        "full"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/encrypt-gold-full.png",
       "size": "",
@@ -192,7 +282,14 @@
     {
       "id": "icons-library-logo-ebeejedi",
       "name": "library-logo-ebeejedi",
-      "tags": ["icons", "library", "ebeejedi", "isovalent", "logo", "raycast"],
+      "tags": [
+        "icons",
+        "library",
+        "ebeejedi",
+        "isovalent",
+        "logo",
+        "raycast"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/library-logo-ebeejedi.png",
       "size": "1024x1024",
@@ -201,7 +298,12 @@
     {
       "id": "icons-mitigate-gold",
       "name": "mitigate-gold",
-      "tags": ["icons", "mitigate", "gold", "isovalent"],
+      "tags": [
+        "icons",
+        "mitigate",
+        "gold",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/mitigate-gold.png",
       "size": "",
@@ -212,7 +314,13 @@
     {
       "id": "icons-mitigate-gold-full",
       "name": "mitigate-gold-full",
-      "tags": ["icons", "mitigate", "gold", "isovalent", "full"],
+      "tags": [
+        "icons",
+        "mitigate",
+        "gold",
+        "isovalent",
+        "full"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/mitigate-gold-full.png",
       "size": "",
@@ -223,7 +331,15 @@
     {
       "id": "icons-network-security-ui",
       "name": "network-security-ui",
-      "tags": ["icons", "network", "security", "ui", "isovalent", "hubble", "timescape"],
+      "tags": [
+        "icons",
+        "network",
+        "security",
+        "ui",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui.png",
       "size": "",
@@ -234,7 +350,12 @@
     {
       "id": "icons-observe-gold",
       "name": "observe-gold",
-      "tags": ["icons", "observe", "gold", "isovalent"],
+      "tags": [
+        "icons",
+        "observe",
+        "gold",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observe-gold.png",
       "size": "",
@@ -245,7 +366,13 @@
     {
       "id": "icons-observe-gold-full",
       "name": "observe-gold-full",
-      "tags": ["icons", "observe", "gold", "isovalent", "full"],
+      "tags": [
+        "icons",
+        "observe",
+        "gold",
+        "isovalent",
+        "full"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observe-gold-full.png",
       "size": "",
@@ -256,7 +383,14 @@
     {
       "id": "icons-policies-ui",
       "name": "policies-ui",
-      "tags": ["icons", "policies", "ui", "isovalent", "hubble", "timescape"],
+      "tags": [
+        "icons",
+        "policies",
+        "ui",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui.png",
       "size": "",
@@ -267,7 +401,12 @@
     {
       "id": "icons-protect-gold",
       "name": "protect-gold",
-      "tags": ["icons", "protect", "gold", "isovalent"],
+      "tags": [
+        "icons",
+        "protect",
+        "gold",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/protect-gold.png",
       "size": "",
@@ -278,7 +417,13 @@
     {
       "id": "icons-protect-gold-full",
       "name": "protect-gold-full",
-      "tags": ["icons", "protect", "gold", "isovalent", "full"],
+      "tags": [
+        "icons",
+        "protect",
+        "gold",
+        "isovalent",
+        "full"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/protect-gold-full.png",
       "size": "",
@@ -289,7 +434,12 @@
     {
       "id": "icons-troubleshoot-gold",
       "name": "troubleshoot-gold",
-      "tags": ["icons", "troubleshoot", "gold", "isovalent"],
+      "tags": [
+        "icons",
+        "troubleshoot",
+        "gold",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/troubleshoot-gold.png",
       "size": "",
@@ -300,7 +450,13 @@
     {
       "id": "icons-troubleshoot-gold-full",
       "name": "troubleshoot-gold-full",
-      "tags": ["icons", "troubleshoot", "gold", "isovalent", "full"],
+      "tags": [
+        "icons",
+        "troubleshoot",
+        "gold",
+        "isovalent",
+        "full"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/troubleshoot-gold-full.png",
       "size": "",
@@ -311,7 +467,11 @@
     {
       "id": "icons-vm",
       "name": "vm",
-      "tags": ["icons", "vm", "isovalent"],
+      "tags": [
+        "icons",
+        "vm",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm.png",
       "size": "",
@@ -322,7 +482,13 @@
     {
       "id": "icons-vm-dark-back-mono",
       "name": "vm-dark-back-mono",
-      "tags": ["icons", "vm", "dark", "back", "mono"],
+      "tags": [
+        "icons",
+        "vm",
+        "dark",
+        "back",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm-dark-back-mono.png",
       "size": "",
@@ -333,7 +499,12 @@
     {
       "id": "icons-vm-k8s-color-mono",
       "name": "vm-k8s-color-mono",
-      "tags": ["icons", "vm", "color", "mono"],
+      "tags": [
+        "icons",
+        "vm",
+        "color",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm-k8s-color-mono.png",
       "size": "",
@@ -344,7 +515,11 @@
     {
       "id": "icons-vm-mono",
       "name": "vm-mono",
-      "tags": ["icons", "vm", "mono"],
+      "tags": [
+        "icons",
+        "vm",
+        "mono"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm-mono.png",
       "size": "",
@@ -355,7 +530,11 @@
     {
       "id": "logos-adobe-full",
       "name": "adobe-full",
-      "tags": ["logos", "adobe", "full"],
+      "tags": [
+        "logos",
+        "adobe",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/adobe-full.png",
       "size": "",
@@ -366,7 +545,11 @@
     {
       "id": "logos-adobe-horizontal",
       "name": "adobe-horizontal",
-      "tags": ["logos", "adobe", "horizontal"],
+      "tags": [
+        "logos",
+        "adobe",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/adobe-horizontal.png",
       "size": "",
@@ -377,7 +560,10 @@
     {
       "id": "logos-alibabacloud",
       "name": "alibabacloud",
-      "tags": ["logos", "alibabacloud"],
+      "tags": [
+        "logos",
+        "alibabacloud"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/alibabacloud.png",
       "size": "",
@@ -388,7 +574,12 @@
     {
       "id": "logos-alibabacloud-color-horizontal",
       "name": "alibabacloud-color-horizontal",
-      "tags": ["logos", "alibabacloud", "color", "horizontal"],
+      "tags": [
+        "logos",
+        "alibabacloud",
+        "color",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/alibabacloud-color-horizontal.png",
       "size": "",
@@ -399,7 +590,12 @@
     {
       "id": "logos-alibabacloud-dark-horizontal",
       "name": "alibabacloud-dark-horizontal",
-      "tags": ["logos", "alibabacloud", "dark", "horizontal"],
+      "tags": [
+        "logos",
+        "alibabacloud",
+        "dark",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/alibabacloud-dark-horizontal.png",
       "size": "",
@@ -410,7 +606,10 @@
     {
       "id": "logos-amazon",
       "name": "amazon",
-      "tags": ["logos", "amazon"],
+      "tags": [
+        "logos",
+        "amazon"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/amazon.png",
       "size": "",
@@ -421,7 +620,11 @@
     {
       "id": "logos-amazon-ecs",
       "name": "amazon-ecs",
-      "tags": ["logos", "amazon", "ecs"],
+      "tags": [
+        "logos",
+        "amazon",
+        "ecs"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/logos/amazon-ecs.png",
       "size": "",
@@ -432,7 +635,11 @@
     {
       "id": "logos-amazon-eks",
       "name": "amazon-eks",
-      "tags": ["logos", "amazon", "eks"],
+      "tags": [
+        "logos",
+        "amazon",
+        "eks"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/main/logos/amazon-eks.png",
       "size": "",
@@ -443,7 +650,10 @@
     {
       "id": "logos-android",
       "name": "android",
-      "tags": ["logos", "android"],
+      "tags": [
+        "logos",
+        "android"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/android.png",
       "size": "",
@@ -454,7 +664,12 @@
     {
       "id": "logos-apache-cassandra-db",
       "name": "apache-cassandra-db",
-      "tags": ["logos", "apache", "cassandra", "db"],
+      "tags": [
+        "logos",
+        "apache",
+        "cassandra",
+        "db"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/apache-cassandra-db.png",
       "size": "",
@@ -465,7 +680,11 @@
     {
       "id": "logos-apache-zookeeper",
       "name": "apache-zookeeper",
-      "tags": ["logos", "apache", "zookeeper"],
+      "tags": [
+        "logos",
+        "apache",
+        "zookeeper"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/apache-zookeeper.png",
       "size": "",
@@ -474,7 +693,10 @@
     {
       "id": "logos-auth0",
       "name": "auth0",
-      "tags": ["logos", "auth0"],
+      "tags": [
+        "logos",
+        "auth0"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/auth0.png",
       "size": "",
@@ -485,7 +707,10 @@
     {
       "id": "logos-aws",
       "name": "aws",
-      "tags": ["logos", "aws"],
+      "tags": [
+        "logos",
+        "aws"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/aws.png",
       "size": "",
@@ -496,7 +721,10 @@
     {
       "id": "logos-azure",
       "name": "azure",
-      "tags": ["logos", "azure"],
+      "tags": [
+        "logos",
+        "azure"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/azure.png",
       "size": "",
@@ -507,7 +735,11 @@
     {
       "id": "logos-azure-full",
       "name": "azure-full",
-      "tags": ["logos", "azure", "full"],
+      "tags": [
+        "logos",
+        "azure",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/azure-full.png",
       "size": "",
@@ -518,7 +750,10 @@
     {
       "id": "logos-bash",
       "name": "bash",
-      "tags": ["logos", "bash"],
+      "tags": [
+        "logos",
+        "bash"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/bash.png",
       "size": "",
@@ -529,7 +764,10 @@
     {
       "id": "logos-bcc",
       "name": "bcc",
-      "tags": ["logos", "bcc"],
+      "tags": [
+        "logos",
+        "bcc"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/bcc.png",
       "size": "",
@@ -540,7 +778,10 @@
     {
       "id": "logos-bell",
       "name": "bell",
-      "tags": ["logos", "bell"],
+      "tags": [
+        "logos",
+        "bell"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/bell.png",
       "size": "",
@@ -551,7 +792,11 @@
     {
       "id": "logos-bpftrace",
       "name": "bpftrace",
-      "tags": ["logos", "bpftrace", "ebpf"],
+      "tags": [
+        "logos",
+        "bpftrace",
+        "ebpf"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/bpftrace.png",
       "size": "",
@@ -562,7 +807,11 @@
     {
       "id": "logos-cilium",
       "name": "cilium",
-      "tags": ["logos", "cilium", "isovalent"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium.png",
       "size": "",
@@ -573,7 +822,11 @@
     {
       "id": "logos-cilium-full",
       "name": "cilium-full",
-      "tags": ["logos", "cilium", "isovalent"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full.png",
       "size": "",
@@ -584,7 +837,11 @@
     {
       "id": "logos-cilium-full-dark-back",
       "name": "cilium-full-dark-back",
-      "tags": ["logos", "cilium", "isovalent"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-dark-back.png",
       "size": "",
@@ -595,7 +852,11 @@
     {
       "id": "logos-cilium-full-dark-back-mono",
       "name": "cilium-full-dark-back-mono",
-      "tags": ["logos", "cilium", "isovalent"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-dark-back-mono.png",
       "size": "",
@@ -606,7 +867,11 @@
     {
       "id": "logos-cilium-full-mono",
       "name": "cilium-full-mono",
-      "tags": ["logos", "cilium", "isovalent"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-full-mono.png",
       "size": "",
@@ -617,7 +882,12 @@
     {
       "id": "logos-cilium-horizontal",
       "name": "cilium-horizontal",
-      "tags": ["logos", "cilium", "isovalent", "horizontal"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal.png",
       "size": "",
@@ -628,7 +898,13 @@
     {
       "id": "logos-cilium-horizontal-dark-back",
       "name": "cilium-horizontal-dark-back",
-      "tags": ["logos", "cilium", "isovalent", "horizontal", "dark-back"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "horizontal",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-dark-back.png",
       "size": "",
@@ -639,7 +915,13 @@
     {
       "id": "logos-cilium-horizontal-mono",
       "name": "cilium-horizontal-mono",
-      "tags": ["logos", "cilium", "isovalent", "horizontal", "mono"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "horizontal",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-mono.png",
       "size": "",
@@ -650,7 +932,14 @@
     {
       "id": "logos-cilium-horizontal-mono-dark-back",
       "name": "cilium-horizontal-mono-dark-back",
-      "tags": ["logos", "cilium", "isovalent", "horizontal", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "horizontal",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-horizontal-mono-dark-back.png",
       "size": "",
@@ -661,7 +950,12 @@
     {
       "id": "logos-cilium-mono",
       "name": "cilium-mono",
-      "tags": ["logos", "cilium", "isovalent", "mono"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-mono.png",
       "size": "",
@@ -672,7 +966,13 @@
     {
       "id": "logos-cilium-mono-dark-back",
       "name": "cilium-mono-dark-back",
-      "tags": ["logos", "cilium", "isovalent", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-mono-dark-back.png",
       "size": "",
@@ -683,7 +983,12 @@
     {
       "id": "logos-cilium-wordmark",
       "name": "cilium-wordmark",
-      "tags": ["logos", "cilium", "isovalent", "wordmark"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "wordmark"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-wordmark.png",
       "size": "",
@@ -694,7 +999,13 @@
     {
       "id": "logos-cilium-wordmark-dark-back",
       "name": "cilium-wordmark-dark-back",
-      "tags": ["logos", "cilium", "isovalent", "wordmark", "dark-back"],
+      "tags": [
+        "logos",
+        "cilium",
+        "isovalent",
+        "wordmark",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cilium-wordmark-dark-back.png",
       "size": "",
@@ -705,7 +1016,12 @@
     {
       "id": "logos-cisco",
       "name": "cisco",
-      "tags": ["logos", "cisco", "isovalent", "color"],
+      "tags": [
+        "logos",
+        "cisco",
+        "isovalent",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cisco.png",
       "size": "",
@@ -716,7 +1032,12 @@
     {
       "id": "logos-cisco-mono",
       "name": "cisco-mono",
-      "tags": ["logos", "cisco", "isovalent", "mono"],
+      "tags": [
+        "logos",
+        "cisco",
+        "isovalent",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cisco-mono.png",
       "size": "",
@@ -727,7 +1048,11 @@
     {
       "id": "logos-cncf",
       "name": "cncf",
-      "tags": ["logos", "cncf", "color"],
+      "tags": [
+        "logos",
+        "cncf",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cncf.png",
       "size": "",
@@ -738,7 +1063,12 @@
     {
       "id": "logos-cncf-horizontal",
       "name": "cncf-horizontal",
-      "tags": ["logos", "cncf", "horizontal", "color"],
+      "tags": [
+        "logos",
+        "cncf",
+        "horizontal",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cncf-horizontal.png",
       "size": "",
@@ -749,7 +1079,11 @@
     {
       "id": "logos-cni",
       "name": "cni",
-      "tags": ["logos", "cni", "color"],
+      "tags": [
+        "logos",
+        "cni",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cni.png",
       "size": "",
@@ -760,7 +1094,11 @@
     {
       "id": "logos-cobol",
       "name": "cobol",
-      "tags": ["logos", "cobol", "color"],
+      "tags": [
+        "logos",
+        "cobol",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cobol.png",
       "size": "",
@@ -771,7 +1109,13 @@
     {
       "id": "logos-couch-db",
       "name": "couch-db",
-      "tags": ["logos", "couch-db", "color", "db", "database"],
+      "tags": [
+        "logos",
+        "couch-db",
+        "color",
+        "db",
+        "database"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/couch-db.png",
       "size": "",
@@ -782,7 +1126,13 @@
     {
       "id": "logos-cplusplus",
       "name": "cplusplus",
-      "tags": ["logos", "cplusplus", "color", "programming", "language"],
+      "tags": [
+        "logos",
+        "cplusplus",
+        "color",
+        "programming",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/cplusplus.png",
       "size": "",
@@ -793,7 +1143,13 @@
     {
       "id": "logos-csharp",
       "name": "csharp",
-      "tags": ["logos", "csharp", "color", "programming", "language"],
+      "tags": [
+        "logos",
+        "csharp",
+        "color",
+        "programming",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/csharp.png",
       "size": "",
@@ -804,7 +1160,13 @@
     {
       "id": "logos-dart",
       "name": "dart",
-      "tags": ["logos", "dart", "color", "programming", "language"],
+      "tags": [
+        "logos",
+        "dart",
+        "color",
+        "programming",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/dart.png",
       "size": "",
@@ -815,7 +1177,11 @@
     {
       "id": "logos-datadog",
       "name": "datadog",
-      "tags": ["logos", "datadog", "color"],
+      "tags": [
+        "logos",
+        "datadog",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/datadog.png",
       "size": "",
@@ -826,7 +1192,16 @@
     {
       "id": "logos-docker",
       "name": "docker",
-      "tags": ["logos", "docker", "color", "container", "containers", "cloud", "compute", "platform"],
+      "tags": [
+        "logos",
+        "docker",
+        "color",
+        "container",
+        "containers",
+        "cloud",
+        "compute",
+        "platform"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/docker.png",
       "size": "",
@@ -837,7 +1212,17 @@
     {
       "id": "logos-docker-horizontal",
       "name": "docker-horizontal",
-      "tags": ["logos", "docker", "color", "container", "containers", "cloud", "compute", "platform", "horizontal"],
+      "tags": [
+        "logos",
+        "docker",
+        "color",
+        "container",
+        "containers",
+        "cloud",
+        "compute",
+        "platform",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/docker-horizontal.png",
       "size": "",
@@ -848,7 +1233,18 @@
     {
       "id": "logos-docker-horizontal-wordmark",
       "name": "docker-horizontal-wordmark",
-      "tags": ["logos", "docker", "color", "container", "containers", "cloud", "compute", "platform", "horizontal", "wordmark"],
+      "tags": [
+        "logos",
+        "docker",
+        "color",
+        "container",
+        "containers",
+        "cloud",
+        "compute",
+        "platform",
+        "horizontal",
+        "wordmark"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/docker-horizontal-wordmark.png",
       "size": "",
@@ -859,7 +1255,13 @@
     {
       "id": "logos-duo",
       "name": "duo",
-      "tags": ["logos", "duo", "color", "cisco", "isovalent"],
+      "tags": [
+        "logos",
+        "duo",
+        "color",
+        "cisco",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/duo.png",
       "size": "",
@@ -870,7 +1272,13 @@
     {
       "id": "logos-ebay",
       "name": "ebay",
-      "tags": ["logos", "ebay", "color", "shopping", "commerce"],
+      "tags": [
+        "logos",
+        "ebay",
+        "color",
+        "shopping",
+        "commerce"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebay.png",
       "size": "",
@@ -881,7 +1289,12 @@
     {
       "id": "logos-ebpf",
       "name": "ebpf",
-      "tags": ["logos", "ebpf", "color", "isovalent"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf.png",
       "size": "",
@@ -892,7 +1305,13 @@
     {
       "id": "logos-ebpf-full",
       "name": "ebpf-full",
-      "tags": ["logos", "ebpf", "color", "isovalent", "full"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full.png",
       "size": "",
@@ -903,7 +1322,15 @@
     {
       "id": "logos-ebpf-full-dark-back",
       "name": "ebpf-full-dark-back",
-      "tags": ["logos", "ebpf", "color", "isovalent", "full", "dark", "back"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "full",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-dark-back.png",
       "size": "",
@@ -914,7 +1341,16 @@
     {
       "id": "logos-ebpf-full-dark-back-mono",
       "name": "ebpf-full-dark-back-mono",
-      "tags": ["logos", "ebpf", "color", "isovalent", "full", "dark", "back", "mono"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "full",
+        "dark",
+        "back",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-dark-back-mono.png",
       "size": "",
@@ -925,7 +1361,14 @@
     {
       "id": "logos-ebpf-full-mono",
       "name": "ebpf-full-mono",
-      "tags": ["logos", "ebpf", "color", "isovalent", "full", "mono"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "full",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-full-mono.png",
       "size": "",
@@ -936,7 +1379,13 @@
     {
       "id": "logos-ebpf-horizontal",
       "name": "ebpf-horizontal",
-      "tags": ["logos", "ebpf", "color", "isovalent", "horizontal"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal.png",
       "size": "",
@@ -947,7 +1396,15 @@
     {
       "id": "logos-ebpf-horizontal-dark-back",
       "name": "ebpf-horizontal-dark-back",
-      "tags": ["logos", "ebpf", "color", "isovalent", "horizontal", "dark", "back"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "horizontal",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-dark-back.png",
       "size": "",
@@ -958,7 +1415,14 @@
     {
       "id": "logos-ebpf-horizontal-mono",
       "name": "ebpf-horizontal-mono",
-      "tags": ["logos", "ebpf", "color", "isovalent", "horizontal", "mono"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "horizontal",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-mono.png",
       "size": "",
@@ -969,7 +1433,16 @@
     {
       "id": "logos-ebpf-horizontal-mono-dark-back",
       "name": "ebpf-horizontal-mono-dark-back",
-      "tags": ["logos", "ebpf", "color", "isovalent", "horizontal", "mono", "dark", "back"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "horizontal",
+        "mono",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-horizontal-mono-dark-back.png",
       "size": "",
@@ -980,7 +1453,13 @@
     {
       "id": "logos-ebpf-mono",
       "name": "ebpf-mono",
-      "tags": ["logos", "ebpf", "color", "isovalent", "mono"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-mono.png",
       "size": "",
@@ -991,7 +1470,15 @@
     {
       "id": "logos-ebpf-mono-dark-back",
       "name": "ebpf-mono-dark-back",
-      "tags": ["logos", "ebpf", "color", "isovalent", "mono", "dark", "back"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "mono",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-mono-dark-back.png",
       "size": "",
@@ -1002,7 +1489,13 @@
     {
       "id": "logos-ebpf-wordmark",
       "name": "ebpf-wordmark",
-      "tags": ["logos", "ebpf", "color", "isovalent", "wordmark"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "wordmark"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-wordmark.png",
       "size": "",
@@ -1013,7 +1506,15 @@
     {
       "id": "logos-ebpf-wordmark-dark-back",
       "name": "ebpf-wordmark-dark-back",
-      "tags": ["logos", "ebpf", "color", "isovalent", "wordmark", "dark", "back"],
+      "tags": [
+        "logos",
+        "ebpf",
+        "color",
+        "isovalent",
+        "wordmark",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ebpf-wordmark-dark-back.png",
       "size": "",
@@ -1024,7 +1525,13 @@
     {
       "id": "logos-egress-gateway",
       "name": "egress-gateway",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway.png",
       "size": "",
@@ -1035,7 +1542,14 @@
     {
       "id": "logos-egress-gateway-full",
       "name": "egress-gateway-full",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full.png",
       "size": "",
@@ -1046,7 +1560,15 @@
     {
       "id": "logos-egress-gateway-full-centered",
       "name": "egress-gateway-full-centered",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full", "centered"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full-centered.png",
       "size": "",
@@ -1057,7 +1579,17 @@
     {
       "id": "logos-egress-gateway-full-centered-dark-back",
       "name": "egress-gateway-full-centered-dark-back",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full", "centered", "dark", "back"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full",
+        "centered",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full-centered-dark-back.png",
       "size": "",
@@ -1068,7 +1600,16 @@
     {
       "id": "logos-egress-gateway-full-dark-back",
       "name": "egress-gateway-full-dark-back",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full", "dark", "back"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full-dark-back.png",
       "size": "",
@@ -1079,7 +1620,17 @@
     {
       "id": "logos-egress-gateway-full-dark-back-mono",
       "name": "egress-gateway-full-dark-back-mono",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full", "dark", "back", "mono"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full",
+        "dark",
+        "back",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full-dark-back-mono.png",
       "size": "",
@@ -1090,7 +1641,18 @@
     {
       "id": "logos-egress-gateway-full-dark-back-mono-centered",
       "name": "egress-gateway-full-dark-back-mono-centered",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full", "dark", "back", "mono", "centered"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full",
+        "dark",
+        "back",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full-dark-back-mono-centered.png",
       "size": "",
@@ -1101,7 +1663,15 @@
     {
       "id": "logos-egress-gateway-full-mono",
       "name": "egress-gateway-full-mono",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full", "mono"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full-mono.png",
       "size": "",
@@ -1112,7 +1682,16 @@
     {
       "id": "logos-egress-gateway-full-mono-centered",
       "name": "egress-gateway-full-mono-centered",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "full", "mono", "centered"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "full",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-full-mono-centered.png",
       "size": "",
@@ -1123,7 +1702,14 @@
     {
       "id": "logos-egress-gateway-horizontal",
       "name": "egress-gateway-horizontal",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "horizontal"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-horizontal.png",
       "size": "",
@@ -1134,7 +1720,16 @@
     {
       "id": "logos-egress-gateway-horizontal-dark-back",
       "name": "egress-gateway-horizontal-dark-back",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "horizontal", "dark", "back"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "horizontal",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-horizontal-dark-back.png",
       "size": "",
@@ -1145,7 +1740,15 @@
     {
       "id": "logos-egress-gateway-horizontal-mono",
       "name": "egress-gateway-horizontal-mono",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "horizontal", "mono"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "horizontal",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-horizontal-mono.png",
       "size": "",
@@ -1156,7 +1759,17 @@
     {
       "id": "logos-egress-gateway-horizontal-mono-dark-back",
       "name": "egress-gateway-horizontal-mono-dark-back",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "horizontal", "mono", "dark", "back"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "horizontal",
+        "mono",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-horizontal-mono-dark-back.png",
       "size": "",
@@ -1167,7 +1780,14 @@
     {
       "id": "logos-egress-gateway-mono",
       "name": "egress-gateway-mono",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "mono"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-mono.png",
       "size": "",
@@ -1178,7 +1798,16 @@
     {
       "id": "logos-egress-gateway-mono-dark-back",
       "name": "egress-gateway-mono-dark-back",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "mono", "dark", "back"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "mono",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-mono-dark-back.png",
       "size": "",
@@ -1189,7 +1818,15 @@
     {
       "id": "logos-egress-gateway-wordmark-centered",
       "name": "egress-gateway-wordmark-centered",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "wordmark", "centered"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "wordmark",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-wordmark-centered.png",
       "size": "",
@@ -1200,7 +1837,17 @@
     {
       "id": "logos-egress-gateway-wordmark-centered-dark-back",
       "name": "egress-gateway-wordmark-centered-dark-back",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "wordmark", "centered", "dark", "back"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "wordmark",
+        "centered",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-wordmark-centered-dark-back.png",
       "size": "",
@@ -1211,7 +1858,15 @@
     {
       "id": "logos-egress-gateway-wordmark-left",
       "name": "egress-gateway-wordmark-left",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "wordmark", "left"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "wordmark",
+        "left"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-wordmark-left.png",
       "size": "",
@@ -1222,7 +1877,17 @@
     {
       "id": "logos-egress-gateway-wordmark-left-dark-back",
       "name": "egress-gateway-wordmark-left-dark-back",
-      "tags": ["logos", "egress-gateway", "color", "isovalent", "products", "wordmark", "left", "dark", "back"],
+      "tags": [
+        "logos",
+        "egress-gateway",
+        "color",
+        "isovalent",
+        "products",
+        "wordmark",
+        "left",
+        "dark",
+        "back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/egress-gateway-wordmark-left-dark-back.png",
       "size": "",
@@ -1233,7 +1898,11 @@
     {
       "id": "logos-elastic-analyze",
       "name": "elastic-analyze",
-      "tags": ["logos", "elastic", "color"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-analyze.png",
       "size": "",
@@ -1244,7 +1913,11 @@
     {
       "id": "logos-elastic-apm",
       "name": "elastic-apm",
-      "tags": ["logos", "elastic", "color"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-apm.png",
       "size": "",
@@ -1255,7 +1928,11 @@
     {
       "id": "logos-elastic-app-search",
       "name": "elastic-app-search",
-      "tags": ["logos", "elastic", "color"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-app-search.png",
       "size": "",
@@ -1266,7 +1943,12 @@
     {
       "id": "logos-elastic-beats",
       "name": "elastic-beats",
-      "tags": ["logos", "elastic", "color","beats"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "beats"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-beats.png",
       "size": "",
@@ -1277,7 +1959,12 @@
     {
       "id": "logos-elastic-cloud",
       "name": "elastic-cloud",
-      "tags": ["logos", "elastic", "color", "cloud"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "cloud"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-cloud.png",
       "size": "",
@@ -1288,7 +1975,13 @@
     {
       "id": "logos-elastic-cloud-enterprise",
       "name": "elastic-cloud-enterprise",
-      "tags": ["logos", "elastic", "color", "cloud", "enterprise"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "cloud",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-cloud-enterprise.png",
       "size": "",
@@ -1299,7 +1992,13 @@
     {
       "id": "logos-elastic-cloud-kubernetes",
       "name": "elastic-cloud-kubernetes",
-      "tags": ["logos", "elastic", "color", "cloud", "kubernetes"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "cloud",
+        "kubernetes"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-cloud-kubernetes.png",
       "size": "",
@@ -1310,7 +2009,13 @@
     {
       "id": "logos-elastic-endpoint-security",
       "name": "elastic-endpoint-security",
-      "tags": ["logos", "elastic", "color", "endpoint", "security"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "endpoint",
+        "security"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-endpoint-security.png",
       "size": "",
@@ -1321,7 +2026,12 @@
     {
       "id": "logos-elastic-full",
       "name": "elastic-full",
-      "tags": ["logos", "elastic", "color", "full"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-full.png",
       "size": "",
@@ -1332,7 +2042,12 @@
     {
       "id": "logos-elastic-horizontal",
       "name": "elastic-horizontal",
-      "tags": ["logos", "elastic", "color", "horizontal"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-horizontal.png",
       "size": "",
@@ -1343,7 +2058,12 @@
     {
       "id": "logos-elastic-kibana",
       "name": "elastic-kibana",
-      "tags": ["logos", "elastic", "color", "kibana"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "kibana"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-kibana.png",
       "size": "",
@@ -1354,7 +2074,12 @@
     {
       "id": "logos-elastic-logs",
       "name": "elastic-logs",
-      "tags": ["logos", "elastic", "color", "logs"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "logs"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-logs.png",
       "size": "",
@@ -1365,7 +2090,12 @@
     {
       "id": "logos-elastic-logstash",
       "name": "elastic-logstash",
-      "tags": ["logos", "elastic", "color", "logstash"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "logstash"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-logstash.png",
       "size": "",
@@ -1376,7 +2106,12 @@
     {
       "id": "logos-elastic-maps",
       "name": "elastic-maps",
-      "tags": ["logos", "elastic", "color", "maps"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "maps"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-maps.png",
       "size": "",
@@ -1387,7 +2122,12 @@
     {
       "id": "logos-elastic-metrics",
       "name": "elastic-metrics",
-      "tags": ["logos", "elastic", "color", "metrics"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "metrics"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-metrics.png",
       "size": "",
@@ -1398,7 +2138,12 @@
     {
       "id": "logos-elastic-observability",
       "name": "elastic-observability",
-      "tags": ["logos", "elastic", "color", "observability"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "observability"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-observability.png",
       "size": "",
@@ -1409,7 +2154,12 @@
     {
       "id": "logos-elastic-search",
       "name": "elastic-search",
-      "tags": ["logos", "elastic", "color", "search"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "search"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-search.png",
       "size": "",
@@ -1420,7 +2170,13 @@
     {
       "id": "logos-elastic-search-enterprise",
       "name": "elastic-search-enterprise",
-      "tags": ["logos", "elastic", "color", "search", "enterprise"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "search",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-search-enterprise.png",
       "size": "",
@@ -1431,7 +2187,12 @@
     {
       "id": "logos-elastic-security",
       "name": "elastic-security",
-      "tags": ["logos", "elastic", "color", "security"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "security"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-security.png",
       "size": "",
@@ -1442,7 +2203,12 @@
     {
       "id": "logos-elastic-siem",
       "name": "elastic-siem",
-      "tags": ["logos", "elastic", "color", "siem"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "siem"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-siem.png",
       "size": "",
@@ -1453,7 +2219,13 @@
     {
       "id": "logos-elastic-site-search",
       "name": "elastic-site-search",
-      "tags": ["logos", "elastic", "color", "site", "search"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "site",
+        "search"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-site-search.png",
       "size": "",
@@ -1464,7 +2236,12 @@
     {
       "id": "logos-elastic-stack",
       "name": "elastic-stack",
-      "tags": ["logos", "elastic", "color", "stack"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "stack"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-stack.png",
       "size": "",
@@ -1475,7 +2252,12 @@
     {
       "id": "logos-elastic-uptime",
       "name": "elastic-uptime",
-      "tags": ["logos", "elastic", "color", "uptime"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "uptime"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-uptime.png",
       "size": "",
@@ -1486,7 +2268,13 @@
     {
       "id": "logos-elastic-workplace-search",
       "name": "elastic-workplace-search",
-      "tags": ["logos", "elastic", "color", "workplace", "search"],
+      "tags": [
+        "logos",
+        "elastic",
+        "color",
+        "workplace",
+        "search"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/elastic-workplace-search.png",
       "size": "",
@@ -1497,7 +2285,11 @@
     {
       "id": "logos-envoy",
       "name": "envoy",
-      "tags": ["logos", "envoy", "color"],
+      "tags": [
+        "logos",
+        "envoy",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/envoy.png",
       "size": "",
@@ -1508,7 +2300,12 @@
     {
       "id": "logos-envoy-horizontal",
       "name": "envoy-horizontal",
-      "tags": ["logos", "envoy", "color", "horizontal"],
+      "tags": [
+        "logos",
+        "envoy",
+        "color",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/envoy-horizontal.png",
       "size": "",
@@ -1519,7 +2316,11 @@
     {
       "id": "logos-falco",
       "name": "falco",
-      "tags": ["logos", "falco", "color"],
+      "tags": [
+        "logos",
+        "falco",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/falco.png",
       "size": "",
@@ -1530,7 +2331,12 @@
     {
       "id": "logos-fluentd-full",
       "name": "fluentd-full",
-      "tags": ["logos", "fluentd", "color", "full"],
+      "tags": [
+        "logos",
+        "fluentd",
+        "color",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/fluentd-full.png",
       "size": "",
@@ -1541,7 +2347,12 @@
     {
       "id": "logos-fortran",
       "name": "fortran",
-      "tags": ["logos", "fortran", "color", "language"],
+      "tags": [
+        "logos",
+        "fortran",
+        "color",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/fortran.png",
       "size": "",
@@ -1552,7 +2363,11 @@
     {
       "id": "logos-github",
       "name": "github",
-      "tags": ["logos", "github", "color"],
+      "tags": [
+        "logos",
+        "github",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/github.png",
       "size": "",
@@ -1563,7 +2378,12 @@
     {
       "id": "logos-github-octocat",
       "name": "github-octocat",
-      "tags": ["logos", "github", "color", "octocat"],
+      "tags": [
+        "logos",
+        "github",
+        "color",
+        "octocat"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/github-octocat.png",
       "size": "",
@@ -1574,7 +2394,11 @@
     {
       "id": "logos-github-wordmark",
       "name": "github-wordmark",
-      "tags": ["logos", "github", "wordmark"],
+      "tags": [
+        "logos",
+        "github",
+        "wordmark"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/github-wordmark.png",
       "size": "",
@@ -1585,7 +2409,11 @@
     {
       "id": "logos-gitlab",
       "name": "gitlab",
-      "tags": ["logos", "gitlab", "color"],
+      "tags": [
+        "logos",
+        "gitlab",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/gitlab.png",
       "size": "",
@@ -1596,7 +2424,12 @@
     {
       "id": "logos-gitlab-horizontal",
       "name": "gitlab-horizontal",
-      "tags": ["logos", "gitlab", "color", "horizontal"],
+      "tags": [
+        "logos",
+        "gitlab",
+        "color",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/gitlab-horizontal.png",
       "size": "",
@@ -1607,7 +2440,11 @@
     {
       "id": "logos-go",
       "name": "go",
-      "tags": ["logos", "go", "language"],
+      "tags": [
+        "logos",
+        "go",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/go.png",
       "size": "",
@@ -1618,7 +2455,13 @@
     {
       "id": "logos-go-gopher",
       "name": "go-gopher",
-      "tags": ["logos", "go", "gopher", "language", "mascot"],
+      "tags": [
+        "logos",
+        "go",
+        "gopher",
+        "language",
+        "mascot"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/go-gopher.png",
       "size": "",
@@ -1629,7 +2472,11 @@
     {
       "id": "logos-google",
       "name": "google",
-      "tags": ["logos", "google", "color"],
+      "tags": [
+        "logos",
+        "google",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/google.png",
       "size": "",
@@ -1640,7 +2487,12 @@
     {
       "id": "logos-google-cloud",
       "name": "google-cloud",
-      "tags": ["logos", "google", "cloud", "color"],
+      "tags": [
+        "logos",
+        "google",
+        "cloud",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/google-cloud.png",
       "size": "",
@@ -1651,7 +2503,13 @@
     {
       "id": "logos-google-cloud-full",
       "name": "google-cloud-full",
-      "tags": ["logos", "google", "cloud", "color", "full"],
+      "tags": [
+        "logos",
+        "google",
+        "cloud",
+        "color",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/google-cloud-full.png",
       "size": "",
@@ -1662,7 +2520,13 @@
     {
       "id": "logos-google-cloud-horizontal",
       "name": "google-cloud-horizontal",
-      "tags": ["logos", "google", "cloud", "color", "horizontal"],
+      "tags": [
+        "logos",
+        "google",
+        "cloud",
+        "color",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/google-cloud-horizontal.png",
       "size": "",
@@ -1673,7 +2537,12 @@
     {
       "id": "logos-google-wordmark-color",
       "name": "google-wordmark-color",
-      "tags": ["logos", "google", "color", "wordmark"],
+      "tags": [
+        "logos",
+        "google",
+        "color",
+        "wordmark"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/google-wordmark-color.png",
       "size": "",
@@ -1684,7 +2553,11 @@
     {
       "id": "logos-grafana",
       "name": "grafana",
-      "tags": ["logos", "grafana", "color"],
+      "tags": [
+        "logos",
+        "grafana",
+        "color"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/grafana.png",
       "size": "",
@@ -1695,7 +2568,11 @@
     {
       "id": "logos-grafana-full",
       "name": "grafana-full",
-      "tags": ["logos", "grafana", "full"],
+      "tags": [
+        "logos",
+        "grafana",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/grafana-full.png",
       "size": "",
@@ -1706,7 +2583,11 @@
     {
       "id": "logos-graphql",
       "name": "graphql",
-      "tags": ["logos", "graphql", "language"],
+      "tags": [
+        "logos",
+        "graphql",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/graphql.png",
       "size": "",
@@ -1717,7 +2598,11 @@
     {
       "id": "logos-grpc",
       "name": "grpc",
-      "tags": ["logos", "grpc", "language"],
+      "tags": [
+        "logos",
+        "grpc",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/grpc.png",
       "size": "",
@@ -1728,7 +2613,11 @@
     {
       "id": "logos-haskell",
       "name": "haskell",
-      "tags": ["logos", "haskell", "language"],
+      "tags": [
+        "logos",
+        "haskell",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/haskell.png",
       "size": "",
@@ -1739,7 +2628,11 @@
     {
       "id": "logos-http",
       "name": "http",
-      "tags": ["logos", "http", "protocol"],
+      "tags": [
+        "logos",
+        "http",
+        "protocol"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/http.png",
       "size": "",
@@ -1750,7 +2643,12 @@
     {
       "id": "logos-hubble",
       "name": "hubble",
-      "tags": ["logos", "hubble", "color", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "color",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble.png",
       "size": "",
@@ -1761,7 +2659,12 @@
     {
       "id": "logos-hubble-full",
       "name": "hubble-full",
-      "tags": ["logos", "hubble", "full", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "full",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full.png",
       "size": "",
@@ -1772,7 +2675,14 @@
     {
       "id": "logos-hubble-full-dark-back",
       "name": "hubble-full-dark-back",
-      "tags": ["logos", "hubble", "full", "dark", "back", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "full",
+        "dark",
+        "back",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-dark-back.png",
       "size": "",
@@ -1783,7 +2693,15 @@
     {
       "id": "logos-hubble-full-dark-back-mono",
       "name": "hubble-full-dark-back-mono",
-      "tags": ["logos", "hubble", "full", "dark", "back", "mono", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "full",
+        "dark",
+        "back",
+        "mono",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-dark-back-mono.png",
       "size": "",
@@ -1794,7 +2712,13 @@
     {
       "id": "logos-hubble-full-mono",
       "name": "hubble-full-mono",
-      "tags": ["logos", "hubble", "full", "mono", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "full",
+        "mono",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-full-mono.png",
       "size": "",
@@ -1805,7 +2729,12 @@
     {
       "id": "logos-hubble-horizontal",
       "name": "hubble-horizontal",
-      "tags": ["logos", "hubble", "horizontal", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "horizontal",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal.png",
       "size": "",
@@ -1816,7 +2745,14 @@
     {
       "id": "logos-hubble-horizontal-dark-back",
       "name": "hubble-horizontal-dark-back",
-      "tags": ["logos", "hubble", "horizontal", "dark", "back", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "horizontal",
+        "dark",
+        "back",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-dark-back.png",
       "size": "",
@@ -1827,7 +2763,13 @@
     {
       "id": "logos-hubble-horizontal-mono",
       "name": "hubble-horizontal-mono",
-      "tags": ["logos", "hubble", "horizontal", "mono", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "horizontal",
+        "mono",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-mono.png",
       "size": "",
@@ -1838,7 +2780,15 @@
     {
       "id": "logos-hubble-horizontal-mono-dark-back",
       "name": "hubble-horizontal-mono-dark-back",
-      "tags": ["logos", "hubble", "horizontal", "mono", "dark", "back", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "horizontal",
+        "mono",
+        "dark",
+        "back",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-horizontal-mono-dark-back.png",
       "size": "",
@@ -1849,7 +2799,12 @@
     {
       "id": "logos-hubble-mono",
       "name": "hubble-mono",
-      "tags": ["logos", "hubble", "mono", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "mono",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-mono.png",
       "size": "",
@@ -1860,7 +2815,14 @@
     {
       "id": "logos-hubble-mono-dark-back",
       "name": "hubble-mono-dark-back",
-      "tags": ["logos", "hubble", "mono", "dark", "back", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "mono",
+        "dark",
+        "back",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-mono-dark-back.png",
       "size": "",
@@ -1871,7 +2833,12 @@
     {
       "id": "logos-hubble-wordmark",
       "name": "hubble-wordmark",
-      "tags": ["logos", "hubble", "wordmark", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "wordmark",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-wordmark.png",
       "size": "",
@@ -1882,7 +2849,14 @@
     {
       "id": "logos-hubble-wordmark-dark-back",
       "name": "hubble-wordmark-dark-back",
-      "tags": ["logos", "hubble", "wordmark", "dark", "back", "isovalent"],
+      "tags": [
+        "logos",
+        "hubble",
+        "wordmark",
+        "dark",
+        "back",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/hubble-wordmark-dark-back.png",
       "size": "",
@@ -1893,7 +2867,10 @@
     {
       "id": "logos-ibm-cloud",
       "name": "ibm-cloud",
-      "tags": ["logos", "ibm-cloud"],
+      "tags": [
+        "logos",
+        "ibm-cloud"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ibm-cloud.png",
       "size": "",
@@ -1904,7 +2881,11 @@
     {
       "id": "logos-ibm-cloud-full",
       "name": "ibm-cloud-full",
-      "tags": ["logos", "ibm-cloud", "full"],
+      "tags": [
+        "logos",
+        "ibm-cloud",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ibm-cloud-full.png",
       "size": "",
@@ -1915,7 +2896,11 @@
     {
       "id": "logos-ibm-cloud-horizontal",
       "name": "ibm-cloud-horizontal",
-      "tags": ["logos", "ibm-cloud", "horizontal"],
+      "tags": [
+        "logos",
+        "ibm-cloud",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ibm-cloud-horizontal.png",
       "size": "",
@@ -1926,7 +2911,12 @@
     {
       "id": "logos-isovalent",
       "name": "isovalent",
-      "tags": ["logos", "isovalent", "cisco", "part"],
+      "tags": [
+        "logos",
+        "isovalent",
+        "cisco",
+        "part"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/isovalent.png",
       "size": "",
@@ -1937,7 +2927,10 @@
     {
       "id": "logos-istio",
       "name": "istio",
-      "tags": ["logos", "istio"],
+      "tags": [
+        "logos",
+        "istio"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/istio.png",
       "size": "",
@@ -1948,7 +2941,11 @@
     {
       "id": "logos-istio-horizontal",
       "name": "istio-horizontal",
-      "tags": ["logos", "istio", "horizontal"],
+      "tags": [
+        "logos",
+        "istio",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/istio-horizontal.png",
       "size": "",
@@ -1959,7 +2956,11 @@
     {
       "id": "logos-java",
       "name": "java",
-      "tags": ["logos", "java", "language"],
+      "tags": [
+        "logos",
+        "java",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/java.png",
       "size": "",
@@ -1970,7 +2971,11 @@
     {
       "id": "logos-javascript",
       "name": "javascript",
-      "tags": ["logos", "javascript", "language"],
+      "tags": [
+        "logos",
+        "javascript",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/javascript.png",
       "size": "",
@@ -1981,7 +2986,12 @@
     {
       "id": "logos-javascript-shield",
       "name": "javascript-shield",
-      "tags": ["logos", "javascript", "language", "shield"],
+      "tags": [
+        "logos",
+        "javascript",
+        "language",
+        "shield"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/javascript-shield.png",
       "size": "",
@@ -1992,7 +3002,11 @@
     {
       "id": "logos-json",
       "name": "json",
-      "tags": ["logos", "json", "language"],
+      "tags": [
+        "logos",
+        "json",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/json.png",
       "size": "",
@@ -2003,7 +3017,10 @@
     {
       "id": "logos-kafka",
       "name": "kafka",
-      "tags": ["logos", "kafka"],
+      "tags": [
+        "logos",
+        "kafka"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/kafka.png",
       "size": "",
@@ -2014,7 +3031,11 @@
     {
       "id": "logos-kafka-horizontal",
       "name": "kafka-horizontal",
-      "tags": ["logos", "kafka", "horizontal"],
+      "tags": [
+        "logos",
+        "kafka",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/kafka-horizontal.png",
       "size": "",
@@ -2025,7 +3046,11 @@
     {
       "id": "logos-katran",
       "name": "katran",
-      "tags": ["logos", "katran", "language"],
+      "tags": [
+        "logos",
+        "katran",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/katran.png",
       "size": "",
@@ -2036,7 +3061,11 @@
     {
       "id": "logos-kotlin",
       "name": "kotlin",
-      "tags": ["logos", "kotlin", "language"],
+      "tags": [
+        "logos",
+        "kotlin",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/kotlin.png",
       "size": "",
@@ -2047,7 +3076,17 @@
     {
       "id": "logos-kubernetes",
       "name": "kubernetes",
-      "tags": ["logos", "kubernetes", "orchestration", "container", "k8s", "cloud", "platform", "containerization", "pod"],
+      "tags": [
+        "logos",
+        "kubernetes",
+        "orchestration",
+        "container",
+        "k8s",
+        "cloud",
+        "platform",
+        "containerization",
+        "pod"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/kubernetes.png",
       "size": "",
@@ -2058,7 +3097,18 @@
     {
       "id": "logos-kubernetes-horizontal",
       "name": "kubernetes-horizontal",
-      "tags": ["logos", "kubernetes", "orchestration", "container", "k8s", "cloud", "platform", "containerization", "pod", "horizontal"],
+      "tags": [
+        "logos",
+        "kubernetes",
+        "orchestration",
+        "container",
+        "k8s",
+        "cloud",
+        "platform",
+        "containerization",
+        "pod",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/kubernetes-horizontal.png",
       "size": "",
@@ -2069,7 +3119,11 @@
     {
       "id": "logos-labs",
       "name": "labs",
-      "tags": ["logos", "labs", "isovalent"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs.png",
       "size": "",
@@ -2080,7 +3134,12 @@
     {
       "id": "logos-labs-full",
       "name": "labs-full",
-      "tags": ["logos", "labs", "isovalent", "full"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full.png",
       "size": "",
@@ -2091,7 +3150,13 @@
     {
       "id": "logos-labs-full-centered",
       "name": "labs-full-centered",
-      "tags": ["logos", "labs", "isovalent", "full", "centered"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-centered.png",
       "size": "",
@@ -2102,7 +3167,14 @@
     {
       "id": "logos-labs-full-centered-dark-back",
       "name": "labs-full-centered-dark-back",
-      "tags": ["logos", "labs", "isovalent", "full", "centered", "dark-back"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "centered",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-centered-dark-back.png",
       "size": "",
@@ -2113,7 +3185,13 @@
     {
       "id": "logos-labs-full-dark-back",
       "name": "labs-full-dark-back",
-      "tags": ["logos", "labs", "isovalent", "full", "dark-back"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-dark-back.png",
       "size": "",
@@ -2124,7 +3202,14 @@
     {
       "id": "logos-labs-full-dark-back-mono",
       "name": "labs-full-dark-back-mono",
-      "tags": ["logos", "labs", "isovalent", "full", "dark-back", "mono"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "dark-back",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-dark-back-mono.png",
       "size": "",
@@ -2135,7 +3220,15 @@
     {
       "id": "logos-labs-full-dark-back-mono-centered",
       "name": "labs-full-dark-back-mono-centered",
-      "tags": ["logos", "labs", "isovalent", "full", "dark-back", "mono", "centered"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "dark-back",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-dark-back-mono-centered.png",
       "size": "",
@@ -2146,7 +3239,13 @@
     {
       "id": "logos-labs-full-horizontal",
       "name": "labs-full-horizontal",
-      "tags": ["logos", "labs", "isovalent", "full", "horizontal"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-horizontal.png",
       "size": "",
@@ -2157,7 +3256,14 @@
     {
       "id": "logos-labs-full-horizontal-dark-back",
       "name": "labs-full-horizontal-dark-back",
-      "tags": ["logos", "labs", "isovalent", "full", "horizontal", "dark-back"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "horizontal",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-horizontal-dark-back.png",
       "size": "",
@@ -2168,7 +3274,14 @@
     {
       "id": "logos-labs-full-horizontal-mono",
       "name": "labs-full-horizontal-mono",
-      "tags": ["logos", "labs", "isovalent", "full", "horizontal", "mono"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "horizontal",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-horizontal-mono.png",
       "size": "",
@@ -2179,7 +3292,15 @@
     {
       "id": "logos-labs-full-horizontal-mono-dark-back",
       "name": "labs-full-horizontal-mono-dark-back",
-      "tags": ["logos", "labs", "isovalent", "full", "horizontal", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "horizontal",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-horizontal-mono-dark-back.png",
       "size": "",
@@ -2190,7 +3311,13 @@
     {
       "id": "logos-labs-full-mono",
       "name": "labs-full-mono",
-      "tags": ["logos", "labs", "isovalent", "full", "mono"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-mono.png",
       "size": "",
@@ -2201,7 +3328,14 @@
     {
       "id": "logos-labs-full-mono-centered",
       "name": "labs-full-mono-centered",
-      "tags": ["logos", "labs", "isovalent", "full", "mono", "centered"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "full",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-full-mono-centered.png",
       "size": "",
@@ -2212,7 +3346,12 @@
     {
       "id": "logos-labs-mono",
       "name": "labs-mono",
-      "tags": ["logos", "labs", "isovalent", "mono"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-mono.png",
       "size": "",
@@ -2223,7 +3362,13 @@
     {
       "id": "logos-labs-mono-dark-back",
       "name": "labs-mono-dark-back",
-      "tags": ["logos", "labs", "isovalent", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-mono-dark-back.png",
       "size": "",
@@ -2234,7 +3379,13 @@
     {
       "id": "logos-labs-wordmark-centered",
       "name": "labs-wordmark-centered",
-      "tags": ["logos", "labs", "isovalent", "wordmark", "centered"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "wordmark",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-wordmark-centered.png",
       "size": "",
@@ -2245,7 +3396,14 @@
     {
       "id": "logos-labs-wordmark-centered-dark-back",
       "name": "labs-wordmark-centered-dark-back",
-      "tags": ["logos", "labs", "isovalent", "wordmark", "centered", "dark-back"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "wordmark",
+        "centered",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-wordmark-centered-dark-back.png",
       "size": "",
@@ -2256,7 +3414,13 @@
     {
       "id": "logos-labs-wordmark-left",
       "name": "labs-wordmark-left",
-      "tags": ["logos", "labs", "isovalent", "wordmark", "left"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "wordmark",
+        "left"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-wordmark-left.png",
       "size": "",
@@ -2267,7 +3431,14 @@
     {
       "id": "logos-labs-wordmark-left-dark-back",
       "name": "labs-wordmark-left-dark-back",
-      "tags": ["logos", "labs", "isovalent", "wordmark", "left", "dark-back"],
+      "tags": [
+        "logos",
+        "labs",
+        "isovalent",
+        "wordmark",
+        "left",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/labs-wordmark-left-dark-back.png",
       "size": "",
@@ -2278,7 +3449,11 @@
     {
       "id": "logos-linux-tux",
       "name": "linux-tux",
-      "tags": ["logos", "linux", "tux"],
+      "tags": [
+        "logos",
+        "linux",
+        "tux"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/linux-tux.png",
       "size": "",
@@ -2289,7 +3464,10 @@
     {
       "id": "logos-llvm",
       "name": "llvm",
-      "tags": ["logos", "llvm"],
+      "tags": [
+        "logos",
+        "llvm"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/llvm.png",
       "size": "",
@@ -2300,7 +3478,13 @@
     {
       "id": "logos-load-balancer",
       "name": "load-balancer",
-      "tags": ["logos", "load-balancer", "isovalent", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer.png",
       "size": "",
@@ -2311,7 +3495,14 @@
     {
       "id": "logos-load-balancer-full",
       "name": "load-balancer-full",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full.png",
       "size": "",
@@ -2322,7 +3513,15 @@
     {
       "id": "logos-load-balancer-full-centered",
       "name": "load-balancer-full-centered",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full-centered.png",
       "size": "",
@@ -2333,7 +3532,16 @@
     {
       "id": "logos-load-balancer-full-centered-dark-back",
       "name": "load-balancer-full-centered-dark-back",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "centered", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "centered",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full-centered-dark-back.png",
       "size": "",
@@ -2344,7 +3552,15 @@
     {
       "id": "logos-load-balancer-full-dark-back",
       "name": "load-balancer-full-dark-back",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full-dark-back.png",
       "size": "",
@@ -2355,7 +3571,16 @@
     {
       "id": "logos-load-balancer-full-dark-back-mono",
       "name": "load-balancer-full-dark-back-mono",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "dark-back", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "dark-back",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full-dark-back-mono.png",
       "size": "",
@@ -2366,7 +3591,17 @@
     {
       "id": "logos-load-balancer-full-dark-back-mono-centered",
       "name": "load-balancer-full-dark-back-mono-centered",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "dark-back", "mono", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "dark-back",
+        "mono",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full-dark-back-mono-centered.png",
       "size": "",
@@ -2377,7 +3612,15 @@
     {
       "id": "logos-load-balancer-full-mono",
       "name": "load-balancer-full-mono",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full-mono.png",
       "size": "",
@@ -2388,7 +3631,16 @@
     {
       "id": "logos-load-balancer-full-mono-centered",
       "name": "load-balancer-full-mono-centered",
-      "tags": ["logos", "load-balancer", "isovalent", "full", "mono", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "full",
+        "mono",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-full-mono-centered.png",
       "size": "",
@@ -2399,7 +3651,14 @@
     {
       "id": "logos-load-balancer-horizontal",
       "name": "load-balancer-horizontal",
-      "tags": ["logos", "load-balancer", "isovalent", "horizontal", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "horizontal",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-horizontal.png",
       "size": "",
@@ -2410,7 +3669,15 @@
     {
       "id": "logos-load-balancer-horizontal-dark-back",
       "name": "load-balancer-horizontal-dark-back",
-      "tags": ["logos", "load-balancer", "isovalent", "horizontal", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "horizontal",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-horizontal-dark-back.png",
       "size": "",
@@ -2421,7 +3688,15 @@
     {
       "id": "logos-load-balancer-horizontal-mono",
       "name": "load-balancer-horizontal-mono",
-      "tags": ["logos", "load-balancer", "isovalent", "horizontal", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "horizontal",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-horizontal-mono.png",
       "size": "",
@@ -2432,7 +3707,16 @@
     {
       "id": "logos-load-balancer-horizontal-mono-dark-back",
       "name": "load-balancer-horizontal-mono-dark-back",
-      "tags": ["logos", "load-balancer", "isovalent", "horizontal", "mono", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "horizontal",
+        "mono",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-horizontal-mono-dark-back.png",
       "size": "",
@@ -2443,7 +3727,14 @@
     {
       "id": "logos-load-balancer-mono",
       "name": "load-balancer-mono",
-      "tags": ["logos", "load-balancer", "isovalent", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-mono.png",
       "size": "",
@@ -2454,7 +3745,15 @@
     {
       "id": "logos-load-balancer-mono-dark-back",
       "name": "load-balancer-mono-dark-back",
-      "tags": ["logos", "load-balancer", "isovalent", "mono", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "mono",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-mono-dark-back.png",
       "size": "",
@@ -2465,7 +3764,15 @@
     {
       "id": "logos-load-balancer-wordmark-centered",
       "name": "load-balancer-wordmark-centered",
-      "tags": ["logos", "load-balancer", "isovalent", "wordmark", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "wordmark",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-wordmark-centered.png",
       "size": "",
@@ -2476,7 +3783,16 @@
     {
       "id": "logos-load-balancer-wordmark-centered-dark-back",
       "name": "load-balancer-wordmark-centered-dark-back",
-      "tags": ["logos", "load-balancer", "isovalent", "wordmark", "centered", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "wordmark",
+        "centered",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-wordmark-centered-dark-back.png",
       "size": "",
@@ -2487,7 +3803,15 @@
     {
       "id": "logos-load-balancer-wordmark-left",
       "name": "load-balancer-wordmark-left",
-      "tags": ["logos", "load-balancer", "isovalent", "wordmark", "left", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "wordmark",
+        "left",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-wordmark-left.png",
       "size": "",
@@ -2498,7 +3822,16 @@
     {
       "id": "logos-load-balancer-wordmark-left-dark-back",
       "name": "load-balancer-wordmark-left-dark-back",
-      "tags": ["logos", "load-balancer", "isovalent", "wordmark", "left", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "load-balancer",
+        "isovalent",
+        "wordmark",
+        "left",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/load-balancer-wordmark-left-dark-back.png",
       "size": "",
@@ -2509,7 +3842,13 @@
     {
       "id": "logos-mesh-networking",
       "name": "mesh-networking",
-      "tags": ["logos", "mesh-networking", "isovalent", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking.png",
       "size": "1024x1024",
@@ -2520,7 +3859,14 @@
     {
       "id": "logos-mesh-networking-full",
       "name": "mesh-networking-full",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full.png",
       "size": "1024x1024",
@@ -2531,7 +3877,15 @@
     {
       "id": "logos-mesh-networking-full-centered",
       "name": "mesh-networking-full-centered",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-centered.png",
       "size": "1024x1024",
@@ -2542,7 +3896,16 @@
     {
       "id": "logos-mesh-networking-full-centered-dark-back",
       "name": "mesh-networking-full-centered-dark-back",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "centered", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "centered",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-centered-dark-back.png",
       "size": "1024x1024",
@@ -2553,7 +3916,15 @@
     {
       "id": "logos-mesh-networking-full-dark-back",
       "name": "mesh-networking-full-dark-back",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back.png",
       "size": "1024x1024",
@@ -2564,7 +3935,16 @@
     {
       "id": "logos-mesh-networking-full-dark-back-mono",
       "name": "mesh-networking-full-dark-back-mono",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "dark-back", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "dark-back",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back-mono.png",
       "size": "1024x1024",
@@ -2575,7 +3955,17 @@
     {
       "id": "logos-mesh-networking-full-dark-back-mono-centered",
       "name": "mesh-networking-full-dark-back-mono-centered",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "dark-back", "mono", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "dark-back",
+        "mono",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-dark-back-mono-centered.png",
       "size": "1024x1024",
@@ -2586,7 +3976,15 @@
     {
       "id": "logos-mesh-networking-full-mono",
       "name": "mesh-networking-full-mono",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-mono.png",
       "size": "1024x1024",
@@ -2597,7 +3995,16 @@
     {
       "id": "logos-mesh-networking-full-mono-centered",
       "name": "mesh-networking-full-mono-centered",
-      "tags": ["logos", "mesh-networking", "isovalent", "full", "mono", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "full",
+        "mono",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-full-mono-centered.png",
       "size": "1024x1024",
@@ -2608,7 +4015,14 @@
     {
       "id": "logos-mesh-networking-horizontal",
       "name": "mesh-networking-horizontal",
-      "tags": ["logos", "mesh-networking", "isovalent", "horizontal", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "horizontal",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal.png",
       "size": "1024x1024",
@@ -2619,7 +4033,15 @@
     {
       "id": "logos-mesh-networking-horizontal-dark-back",
       "name": "mesh-networking-horizontal-dark-back",
-      "tags": ["logos", "mesh-networking", "isovalent", "horizontal", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "horizontal",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-dark-back.png",
       "size": "1024x1024",
@@ -2630,7 +4052,15 @@
     {
       "id": "logos-mesh-networking-horizontal-mono",
       "name": "mesh-networking-horizontal-mono",
-      "tags": ["logos", "mesh-networking", "isovalent", "horizontal", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "horizontal",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-mono.png",
       "size": "1024x1024",
@@ -2641,7 +4071,16 @@
     {
       "id": "logos-mesh-networking-horizontal-mono-dark-back",
       "name": "mesh-networking-horizontal-mono-dark-back",
-      "tags": ["logos", "mesh-networking", "isovalent", "horizontal", "mono", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "horizontal",
+        "mono",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-horizontal-mono-dark-back.png",
       "size": "1024x1024",
@@ -2652,7 +4091,14 @@
     {
       "id": "logos-mesh-networking-mono",
       "name": "mesh-networking-mono",
-      "tags": ["logos", "mesh-networking", "isovalent", "mono", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "mono",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-mono.png",
       "size": "1024x1024",
@@ -2663,7 +4109,15 @@
     {
       "id": "logos-mesh-networking-mono-dark-back",
       "name": "mesh-networking-mono-dark-back",
-      "tags": ["logos", "mesh-networking", "isovalent", "mono", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "mono",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-mono-dark-back.png",
       "size": "1024x1024",
@@ -2674,7 +4128,15 @@
     {
       "id": "logos-mesh-networking-wordmark-centered",
       "name": "mesh-networking-wordmark-centered",
-      "tags": ["logos", "mesh-networking", "isovalent", "wordmark", "centered", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "wordmark",
+        "centered",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-centered.png",
       "size": "1024x1024",
@@ -2685,7 +4147,16 @@
     {
       "id": "logos-mesh-networking-wordmark-centered-dark-back",
       "name": "mesh-networking-wordmark-centered-dark-back",
-      "tags": ["logos", "mesh-networking", "isovalent", "wordmark", "centered", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "wordmark",
+        "centered",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-centered-dark-back.png",
       "size": "1024x1024",
@@ -2696,7 +4167,15 @@
     {
       "id": "logos-mesh-networking-wordmark-left",
       "name": "mesh-networking-wordmark-left",
-      "tags": ["logos", "mesh-networking", "isovalent", "wordmark", "left", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "wordmark",
+        "left",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-left.png",
       "size": "1024x1024",
@@ -2707,7 +4186,16 @@
     {
       "id": "logos-mesh-networking-wordmark-left-dark-back",
       "name": "mesh-networking-wordmark-left-dark-back",
-      "tags": ["logos", "mesh-networking", "isovalent", "wordmark", "left", "dark-back", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "mesh-networking",
+        "isovalent",
+        "wordmark",
+        "left",
+        "dark-back",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesh-networking-wordmark-left-dark-back.png",
       "size": "1024x1024",
@@ -2718,7 +4206,11 @@
     {
       "id": "logos-mesos",
       "name": "mesos",
-      "tags": ["logos", "mesos", "apache"],
+      "tags": [
+        "logos",
+        "mesos",
+        "apache"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mesos.png",
       "size": "",
@@ -2729,7 +4221,10 @@
     {
       "id": "logos-microsoft",
       "name": "microsoft",
-      "tags": ["logos", "microsoft"],
+      "tags": [
+        "logos",
+        "microsoft"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/microsoft.png",
       "size": "",
@@ -2740,7 +4235,11 @@
     {
       "id": "logos-microsoft-full",
       "name": "microsoft-full",
-      "tags": ["logos", "microsoft", "full"],
+      "tags": [
+        "logos",
+        "microsoft",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/microsoft-full.png",
       "size": "",
@@ -2751,7 +4250,11 @@
     {
       "id": "logos-microsoft-horizontal",
       "name": "microsoft-horizontal",
-      "tags": ["logos", "microsoft", "horizontal"],
+      "tags": [
+        "logos",
+        "microsoft",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/microsoft-horizontal.png",
       "size": "",
@@ -2762,7 +4265,11 @@
     {
       "id": "logos-minikube",
       "name": "minikube",
-      "tags": ["logos", "minikube", "kubernetes"],
+      "tags": [
+        "logos",
+        "minikube",
+        "kubernetes"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/minikube.png",
       "size": "",
@@ -2773,7 +4280,12 @@
     {
       "id": "logos-minikube-horizontal",
       "name": "minikube-horizontal",
-      "tags": ["logos", "minikube", "kubernetes", "horizontal"],
+      "tags": [
+        "logos",
+        "minikube",
+        "kubernetes",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/minikube-horizontal.png",
       "size": "",
@@ -2784,7 +4296,10 @@
     {
       "id": "logos-mirantis",
       "name": "mirantis",
-      "tags": ["logos", "mirantis"],
+      "tags": [
+        "logos",
+        "mirantis"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mirantis.png",
       "size": "",
@@ -2795,7 +4310,11 @@
     {
       "id": "logos-mirantis-horizontal",
       "name": "mirantis-horizontal",
-      "tags": ["logos", "mirantis", "horizontal"],
+      "tags": [
+        "logos",
+        "mirantis",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mirantis-horizontal.png",
       "size": "",
@@ -2806,7 +4325,12 @@
     {
       "id": "logos-mongo-forest-green",
       "name": "mongo-forest-green",
-      "tags": ["logos", "mongo", "db", "database"],
+      "tags": [
+        "logos",
+        "mongo",
+        "db",
+        "database"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mongo-forest-green.png",
       "size": "",
@@ -2817,7 +4341,13 @@
     {
       "id": "logos-mongo-forest-green-horizontal",
       "name": "mongo-forest-green-horizontal",
-      "tags": ["logos", "mongo", "db", "database", "horizontal"],
+      "tags": [
+        "logos",
+        "mongo",
+        "db",
+        "database",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mongo-forest-green-horizontal.png",
       "size": "",
@@ -2828,7 +4358,13 @@
     {
       "id": "logos-mongo-spring-green",
       "name": "mongo-spring-green",
-      "tags": ["logos", "mongo", "db", "database", "spring-green"],
+      "tags": [
+        "logos",
+        "mongo",
+        "db",
+        "database",
+        "spring-green"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mongo-spring-green.png",
       "size": "",
@@ -2839,7 +4375,14 @@
     {
       "id": "logos-mongo-spring-green-horizontal",
       "name": "mongo-spring-green-horizontal",
-      "tags": ["logos", "mongo", "db", "database", "spring-green", "horizontal"],
+      "tags": [
+        "logos",
+        "mongo",
+        "db",
+        "database",
+        "spring-green",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/mongo-spring-green-horizontal.png",
       "size": "",
@@ -2850,7 +4393,10 @@
     {
       "id": "logos-netflix",
       "name": "netflix",
-      "tags": ["logos", "netflix"],
+      "tags": [
+        "logos",
+        "netflix"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/netflix.png",
       "size": "",
@@ -2861,7 +4407,16 @@
     {
       "id": "logos-networking-for-kubernetes",
       "name": "networking-for-kubernetes",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes.png",
       "size": "",
@@ -2872,7 +4427,17 @@
     {
       "id": "logos-networking-for-kubernetes-full",
       "name": "networking-for-kubernetes-full",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full.png",
       "size": "",
@@ -2883,7 +4448,18 @@
     {
       "id": "logos-networking-for-kubernetes-full-centered",
       "name": "networking-for-kubernetes-full-centered",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full", "centered"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full-centered.png",
       "size": "",
@@ -2894,7 +4470,19 @@
     {
       "id": "logos-networking-for-kubernetes-full-centered-dark-back",
       "name": "networking-for-kubernetes-full-centered-dark-back",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full", "centered", "dark-back"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full",
+        "centered",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full-centered-dark-back.png",
       "size": "",
@@ -2905,7 +4493,18 @@
     {
       "id": "logos-networking-for-kubernetes-full-dark-back",
       "name": "networking-for-kubernetes-full-dark-back",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full", "dark-back"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full-dark-back.png",
       "size": "",
@@ -2916,7 +4515,19 @@
     {
       "id": "logos-networking-for-kubernetes-full-dark-back-mono",
       "name": "networking-for-kubernetes-full-dark-back-mono",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full", "dark-back", "mono"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full",
+        "dark-back",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full-dark-back-mono.png",
       "size": "",
@@ -2927,7 +4538,20 @@
     {
       "id": "logos-networking-for-kubernetes-full-dark-back-mono-centered",
       "name": "networking-for-kubernetes-full-dark-back-mono-centered",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full", "dark-back", "mono", "centered"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full",
+        "dark-back",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full-dark-back-mono-centered.png",
       "size": "",
@@ -2938,7 +4562,18 @@
     {
       "id": "logos-networking-for-kubernetes-full-mono",
       "name": "networking-for-kubernetes-full-mono",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full", "mono"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full-mono.png",
       "size": "",
@@ -2949,7 +4584,19 @@
     {
       "id": "logos-networking-for-kubernetes-full-mono-centered",
       "name": "networking-for-kubernetes-full-mono-centered",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "full", "mono", "centered"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "full",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-full-mono-centered.png",
       "size": "",
@@ -2960,7 +4607,17 @@
     {
       "id": "logos-networking-for-kubernetes-horizontal",
       "name": "networking-for-kubernetes-horizontal",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "horizontal"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-horizontal.png",
       "size": "",
@@ -2971,7 +4628,18 @@
     {
       "id": "logos-networking-for-kubernetes-horizontal-dark-back",
       "name": "networking-for-kubernetes-horizontal-dark-back",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "horizontal", "dark-back"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "horizontal",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-horizontal-dark-back.png",
       "size": "",
@@ -2982,7 +4650,18 @@
     {
       "id": "logos-networking-for-kubernetes-horizontal-mono",
       "name": "networking-for-kubernetes-horizontal-mono",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "horizontal", "mono"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "horizontal",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-horizontal-mono.png",
       "size": "",
@@ -2993,7 +4672,19 @@
     {
       "id": "logos-networking-for-kubernetes-horizontal-mono-dark-back",
       "name": "networking-for-kubernetes-horizontal-mono-dark-back",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "horizontal", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "horizontal",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-horizontal-mono-dark-back.png",
       "size": "",
@@ -3004,7 +4695,17 @@
     {
       "id": "logos-networking-for-kubernetes-mono",
       "name": "networking-for-kubernetes-mono",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "mono"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-mono.png",
       "size": "",
@@ -3015,7 +4716,18 @@
     {
       "id": "logos-networking-for-kubernetes-mono-dark-back",
       "name": "networking-for-kubernetes-mono-dark-back",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-mono-dark-back.png",
       "size": "",
@@ -3026,7 +4738,18 @@
     {
       "id": "logos-networking-for-kubernetes-wordmark-centered",
       "name": "networking-for-kubernetes-wordmark-centered",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "wordmark", "centered"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "wordmark",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-wordmark-centered.png",
       "size": "",
@@ -3037,7 +4760,19 @@
     {
       "id": "logos-networking-for-kubernetes-wordmark-centered-dark-back",
       "name": "networking-for-kubernetes-wordmark-centered-dark-back",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "wordmark", "centered", "dark-back"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "wordmark",
+        "centered",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-wordmark-centered-dark-back.png",
       "size": "",
@@ -3048,7 +4783,18 @@
     {
       "id": "logos-networking-for-kubernetes-wordmark-left",
       "name": "networking-for-kubernetes-wordmark-left",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "wordmark", "left"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "wordmark",
+        "left"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-wordmark-left.png",
       "size": "",
@@ -3059,7 +4805,19 @@
     {
       "id": "logos-networking-for-kubernetes-wordmark-left-dark-back",
       "name": "networking-for-kubernetes-wordmark-left-dark-back",
-      "tags": ["logos", "networking-for-kubernetes", "kubernetes", "isovalent", "products", "enterprise", "cloud", "networking", "wordmark", "left", "dark-back"],
+      "tags": [
+        "logos",
+        "networking-for-kubernetes",
+        "kubernetes",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "wordmark",
+        "left",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/networking-for-kubernetes-wordmark-left-dark-back.png",
       "size": "",
@@ -3070,7 +4828,10 @@
     {
       "id": "logos-nginx",
       "name": "nginx",
-      "tags": ["logos", "nginx"],
+      "tags": [
+        "logos",
+        "nginx"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nginx.png",
       "size": "",
@@ -3081,7 +4842,11 @@
     {
       "id": "logos-nginx-text",
       "name": "nginx-text",
-      "tags": ["logos", "nginx", "text"],
+      "tags": [
+        "logos",
+        "nginx",
+        "text"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nginx-text.png",
       "size": "",
@@ -3092,7 +4857,10 @@
     {
       "id": "logos-nodejs",
       "name": "nodejs",
-      "tags": ["logos", "nodejs"],
+      "tags": [
+        "logos",
+        "nodejs"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nodejs.png",
       "size": "",
@@ -3103,7 +4871,11 @@
     {
       "id": "logos-nodejs-hexagon",
       "name": "nodejs-hexagon",
-      "tags": ["logos", "nodejs", "hexagon"],
+      "tags": [
+        "logos",
+        "nodejs",
+        "hexagon"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nodejs-hexagon.png",
       "size": "",
@@ -3114,7 +4886,10 @@
     {
       "id": "logos-nutanix",
       "name": "nutanix",
-      "tags": ["logos", "nutanix"],
+      "tags": [
+        "logos",
+        "nutanix"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/nutanix.png",
       "size": "",
@@ -3125,7 +4900,10 @@
     {
       "id": "logos-open-telemetry",
       "name": "open-telemetry",
-      "tags": ["logos", "open-telemetry"],
+      "tags": [
+        "logos",
+        "open-telemetry"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/open-telemetry.png",
       "size": "",
@@ -3136,7 +4914,11 @@
     {
       "id": "logos-open-telemetry-horizontal",
       "name": "open-telemetry-horizontal",
-      "tags": ["logos", "open-telemetry", "horizontal"],
+      "tags": [
+        "logos",
+        "open-telemetry",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/open-telemetry-horizontal.png",
       "size": "",
@@ -3147,7 +4929,10 @@
     {
       "id": "logos-oracle",
       "name": "oracle",
-      "tags": ["logos", "oracle"],
+      "tags": [
+        "logos",
+        "oracle"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/oracle.png",
       "size": "",
@@ -3158,7 +4943,12 @@
     {
       "id": "logos-oracle-cloud",
       "name": "oracle-cloud",
-      "tags": ["logos", "oracle", "cloud", "provider"],
+      "tags": [
+        "logos",
+        "oracle",
+        "cloud",
+        "provider"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/oracle-cloud.png",
       "size": "",
@@ -3169,7 +4959,13 @@
     {
       "id": "logos-oracle-cloud-actual",
       "name": "oracle-cloud-actual",
-      "tags": ["logos", "oracle", "cloud", "provider", "actual"],
+      "tags": [
+        "logos",
+        "oracle",
+        "cloud",
+        "provider",
+        "actual"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/oracle-cloud-actual.png",
       "size": "",
@@ -3180,7 +4976,13 @@
     {
       "id": "logos-oracle-cloud-wordmark",
       "name": "oracle-cloud-wordmark",
-      "tags": ["logos", "oracle", "cloud", "provider", "wordmark"],
+      "tags": [
+        "logos",
+        "oracle",
+        "cloud",
+        "provider",
+        "wordmark"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/oracle-cloud-wordmark.png",
       "size": "",
@@ -3191,7 +4993,12 @@
     {
       "id": "logos-php",
       "name": "php",
-      "tags": ["logos", "php", "programming", "language"],
+      "tags": [
+        "logos",
+        "php",
+        "programming",
+        "language"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/php.png",
       "size": "",
@@ -3202,7 +5009,15 @@
     {
       "id": "logos-prometheus",
       "name": "prometheus",
-      "tags": ["logos", "prometheus", "monitoring", "metrics", "observability", "open-source", "time-series"],
+      "tags": [
+        "logos",
+        "prometheus",
+        "monitoring",
+        "metrics",
+        "observability",
+        "open-source",
+        "time-series"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/prometheus.png",
       "size": "",
@@ -3213,7 +5028,16 @@
     {
       "id": "logos-prometheus-full",
       "name": "prometheus-full",
-      "tags": ["logos", "prometheus", "monitoring", "metrics", "observability", "open-source", "time-series", "full"],
+      "tags": [
+        "logos",
+        "prometheus",
+        "monitoring",
+        "metrics",
+        "observability",
+        "open-source",
+        "time-series",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/prometheus-full.png",
       "size": "",
@@ -3224,7 +5048,16 @@
     {
       "id": "logos-prometheus-horizontal",
       "name": "prometheus-horizontal",
-      "tags": ["logos", "prometheus", "monitoring", "metrics", "observability", "open-source", "time-series", "horizontal"],
+      "tags": [
+        "logos",
+        "prometheus",
+        "monitoring",
+        "metrics",
+        "observability",
+        "open-source",
+        "time-series",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/prometheus-horizontal.png",
       "size": "",
@@ -3235,7 +5068,16 @@
     {
       "id": "logos-python",
       "name": "python",
-      "tags": ["logos", "python", "programming", "language", "open-source", "interpreted", "high-level", "general-purpose"],
+      "tags": [
+        "logos",
+        "python",
+        "programming",
+        "language",
+        "open-source",
+        "interpreted",
+        "high-level",
+        "general-purpose"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/python.png",
       "size": "",
@@ -3246,7 +5088,17 @@
     {
       "id": "logos-python-horizontal",
       "name": "python-horizontal",
-      "tags": ["logos", "python", "programming", "language", "open-source", "interpreted", "high-level", "general-purpose", "horizontal"],
+      "tags": [
+        "logos",
+        "python",
+        "programming",
+        "language",
+        "open-source",
+        "interpreted",
+        "high-level",
+        "general-purpose",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/python-horizontal.png",
       "size": "",
@@ -3257,7 +5109,16 @@
     {
       "id": "logos-rabbitmq",
       "name": "rabbitmq",
-      "tags": ["logos", "rabbitmq", "messaging", "queue", "broker", "open-source", "amqp", "rmq"],
+      "tags": [
+        "logos",
+        "rabbitmq",
+        "messaging",
+        "queue",
+        "broker",
+        "open-source",
+        "amqp",
+        "rmq"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/rabbitmq.png",
       "size": "",
@@ -3268,7 +5129,17 @@
     {
       "id": "logos-rabbitmq-horizontal",
       "name": "rabbitmq-horizontal",
-      "tags": ["logos", "rabbitmq", "messaging", "queue", "broker", "open-source", "amqp", "rmq", "horizontal"],
+      "tags": [
+        "logos",
+        "rabbitmq",
+        "messaging",
+        "queue",
+        "broker",
+        "open-source",
+        "amqp",
+        "rmq",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/rabbitmq-horizontal.png",
       "size": "",
@@ -3279,7 +5150,11 @@
     {
       "id": "logos-rancher-full",
       "name": "rancher-full",
-      "tags": ["logos", "rancher", "full"],
+      "tags": [
+        "logos",
+        "rancher",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/rancher-full.png",
       "size": "",
@@ -3290,16 +5165,32 @@
     {
       "id": "logos-raycast",
       "name": "raycast",
-      "tags": ["logos", "raycast"],
+      "tags": [
+        "logos",
+        "raycast"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/raycast.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13"
+      "lastUpdated": "2025-07-13",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/raycast.svg"
     },
     {
       "id": "logos-react",
       "name": "react",
-      "tags": ["logos", "react", "javascript", "ui", "library", "framework", "component", "library", "framework", "component"],
+      "tags": [
+        "logos",
+        "react",
+        "javascript",
+        "ui",
+        "library",
+        "framework",
+        "component",
+        "library",
+        "framework",
+        "component"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/react.png",
       "size": "",
@@ -3310,7 +5201,10 @@
     {
       "id": "logos-redhat",
       "name": "redhat",
-      "tags": ["logos", "redhat"],
+      "tags": [
+        "logos",
+        "redhat"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/redhat.png",
       "size": "",
@@ -3321,7 +5215,11 @@
     {
       "id": "logos-redhat-horizontal",
       "name": "redhat-horizontal",
-      "tags": ["logos", "redhat", "horizontal"],
+      "tags": [
+        "logos",
+        "redhat",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/redhat-horizontal.png",
       "size": "",
@@ -3332,7 +5230,15 @@
     {
       "id": "logos-redhat-openshift",
       "name": "redhat-openshift",
-      "tags": ["logos", "redhat", "openshift", "cloud", "container", "platform", "provider" ],
+      "tags": [
+        "logos",
+        "redhat",
+        "openshift",
+        "cloud",
+        "container",
+        "platform",
+        "provider"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/redhat-openshift.png",
       "size": "",
@@ -3343,7 +5249,19 @@
     {
       "id": "logos-redis",
       "name": "redis",
-      "tags": ["logos", "redis", "database", "key-value", "in-memory", "data-structure", "data-store", "data-management", "data-storage", "data-management", "data-storage"],
+      "tags": [
+        "logos",
+        "redis",
+        "database",
+        "key-value",
+        "in-memory",
+        "data-structure",
+        "data-store",
+        "data-management",
+        "data-storage",
+        "data-management",
+        "data-storage"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/redis.png",
       "size": "",
@@ -3354,7 +5272,21 @@
     {
       "id": "logos-redis-horizontal",
       "name": "redis-horizontal",
-      "tags": ["logos", "redis", "horizontal", "database", "key-value", "in-memory", "data-structure", "data-store", "data-management", "data-storage", "data-management", "data-storage", "horizontal"],
+      "tags": [
+        "logos",
+        "redis",
+        "horizontal",
+        "database",
+        "key-value",
+        "in-memory",
+        "data-structure",
+        "data-store",
+        "data-management",
+        "data-storage",
+        "data-management",
+        "data-storage",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/redis-horizontal.png",
       "size": "",
@@ -3365,7 +5297,16 @@
     {
       "id": "logos-runtime-security",
       "name": "runtime-security",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security.png",
       "size": "",
@@ -3376,7 +5317,17 @@
     {
       "id": "logos-runtime-security-full",
       "name": "runtime-security-full",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full.png",
       "size": "",
@@ -3387,7 +5338,18 @@
     {
       "id": "logos-runtime-security-full-centered",
       "name": "runtime-security-full-centered",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "centered"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full-centered.png",
       "size": "",
@@ -3398,7 +5360,19 @@
     {
       "id": "logos-runtime-security-full-centered-dark-back",
       "name": "runtime-security-full-centered-dark-back",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "centered", "dark-back"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "centered",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full-centered-dark-back.png",
       "size": "",
@@ -3409,7 +5383,18 @@
     {
       "id": "logos-runtime-security-full-dark-back",
       "name": "runtime-security-full-dark-back",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "dark-back"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full-dark-back.png",
       "size": "",
@@ -3420,7 +5405,19 @@
     {
       "id": "logos-runtime-security-full-dark-back-mono",
       "name": "runtime-security-full-dark-back-mono",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "dark-back", "mono"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "dark-back",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full-dark-back-mono.png",
       "size": "",
@@ -3431,7 +5428,20 @@
     {
       "id": "logos-runtime-security-full-dark-back-mono-centered",
       "name": "runtime-security-full-dark-back-mono-centered",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "dark-back", "mono", "centered"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "dark-back",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full-dark-back-mono-centered.png",
       "size": "",
@@ -3442,7 +5452,18 @@
     {
       "id": "logos-runtime-security-full-mono",
       "name": "runtime-security-full-mono",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "mono"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full-mono.png",
       "size": "",
@@ -3453,7 +5474,19 @@
     {
       "id": "logos-runtime-security-full-mono-centered",
       "name": "runtime-security-full-mono-centered",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "mono", "centered"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "mono",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-full-mono-centered.png",
       "size": "",
@@ -3464,7 +5497,17 @@
     {
       "id": "logos-runtime-security-horizontal",
       "name": "runtime-security-horizontal",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-horizontal.png",
       "size": "",
@@ -3475,7 +5518,18 @@
     {
       "id": "logos-runtime-security-horizontal-dark-back",
       "name": "runtime-security-horizontal-dark-back",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal", "dark-back"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-horizontal-dark-back.png",
       "size": "",
@@ -3486,7 +5540,18 @@
     {
       "id": "logos-runtime-security-horizontal-mono",
       "name": "runtime-security-horizontal-mono",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal", "mono"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-horizontal-mono.png",
       "size": "",
@@ -3497,7 +5562,19 @@
     {
       "id": "logos-runtime-security-horizontal-mono-dark-back",
       "name": "runtime-security-horizontal-mono-dark-back",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-horizontal-mono-dark-back.png",
       "size": "",
@@ -3508,7 +5585,17 @@
     {
       "id": "logos-runtime-security-mono",
       "name": "runtime-security-mono",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "mono"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-mono.png",
       "size": "",
@@ -3519,7 +5606,18 @@
     {
       "id": "logos-runtime-security-mono-dark-back",
       "name": "runtime-security-mono-dark-back",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-mono-dark-back.png",
       "size": "",
@@ -3530,7 +5628,18 @@
     {
       "id": "logos-runtime-security-wordmark-centered",
       "name": "runtime-security-wordmark-centered",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "wordmark", "centered"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "wordmark",
+        "centered"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-wordmark-centered.png",
       "size": "",
@@ -3541,7 +5650,19 @@
     {
       "id": "logos-runtime-security-wordmark-centered-dark-back",
       "name": "runtime-security-wordmark-centered-dark-back",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "wordmark", "centered", "dark-back"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "wordmark",
+        "centered",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-wordmark-centered-dark-back.png",
       "size": "",
@@ -3552,7 +5673,18 @@
     {
       "id": "logos-runtime-security-wordmark-left",
       "name": "runtime-security-wordmark-left",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "wordmark", "left"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "wordmark",
+        "left"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-wordmark-left.png",
       "size": "",
@@ -3563,7 +5695,19 @@
     {
       "id": "logos-runtime-security-wordmark-left-dark-back",
       "name": "runtime-security-wordmark-left-dark-back",
-      "tags": ["logos", "runtime-security", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "wordmark", "left", "dark-back"],
+      "tags": [
+        "logos",
+        "runtime-security",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "wordmark",
+        "left",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/runtime-security-wordmark-left-dark-back.png",
       "size": "",
@@ -3574,7 +5718,10 @@
     {
       "id": "logos-rust",
       "name": "rust",
-      "tags": ["logos", "rust"],
+      "tags": [
+        "logos",
+        "rust"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/rust.png",
       "size": "",
@@ -3585,7 +5732,10 @@
     {
       "id": "logos-slack",
       "name": "slack",
-      "tags": ["logos", "slack"],
+      "tags": [
+        "logos",
+        "slack"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/slack.png",
       "size": "",
@@ -3596,7 +5746,11 @@
     {
       "id": "logos-slack-horizontal",
       "name": "slack-horizontal",
-      "tags": ["logos", "slack", "horizontal"],
+      "tags": [
+        "logos",
+        "slack",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/slack-horizontal.png",
       "size": "",
@@ -3607,7 +5761,11 @@
     {
       "id": "logos-splunk",
       "name": "splunk",
-      "tags": ["logos", "splunk", "cisco"],
+      "tags": [
+        "logos",
+        "splunk",
+        "cisco"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/splunk.png",
       "size": "",
@@ -3618,7 +5776,12 @@
     {
       "id": "logos-terraform",
       "name": "terraform",
-      "tags": ["logos", "terraform", "hashicorp", "cloud"],
+      "tags": [
+        "logos",
+        "terraform",
+        "hashicorp",
+        "cloud"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/terraform.png",
       "size": "",
@@ -3629,7 +5792,18 @@
     {
       "id": "logos-tetragon",
       "name": "tetragon",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "mono"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon.png",
       "size": "",
@@ -3640,7 +5814,18 @@
     {
       "id": "logos-tetragon-full",
       "name": "tetragon-full",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full.png",
       "size": "",
@@ -3651,7 +5836,19 @@
     {
       "id": "logos-tetragon-full-dark-back",
       "name": "tetragon-full-dark-back",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "dark-back"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-dark-back.png",
       "size": "",
@@ -3662,7 +5859,20 @@
     {
       "id": "logos-tetragon-full-dark-back-mono",
       "name": "tetragon-full-dark-back-mono",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "dark-back", "mono"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "dark-back",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-dark-back-mono.png",
       "size": "",
@@ -3673,7 +5883,19 @@
     {
       "id": "logos-tetragon-full-mono",
       "name": "tetragon-full-mono",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "full", "mono"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "full",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-full-mono.png",
       "size": "",
@@ -3684,7 +5906,18 @@
     {
       "id": "logos-tetragon-horizontal",
       "name": "tetragon-horizontal",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal.png",
       "size": "",
@@ -3695,7 +5928,19 @@
     {
       "id": "logos-tetragon-horizontal-dark-back",
       "name": "tetragon-horizontal-dark-back",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal", "dark-back"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-dark-back.png",
       "size": "",
@@ -3706,7 +5951,19 @@
     {
       "id": "logos-tetragon-horizontal-mono",
       "name": "tetragon-horizontal-mono",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal", "mono"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-mono.png",
       "size": "",
@@ -3717,7 +5974,20 @@
     {
       "id": "logos-tetragon-horizontal-mono-dark-back",
       "name": "tetragon-horizontal-mono-dark-back",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "horizontal", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "horizontal",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-horizontal-mono-dark-back.png",
       "size": "",
@@ -3728,7 +5998,18 @@
     {
       "id": "logos-tetragon-mono",
       "name": "tetragon-mono",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "mono"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "mono"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-mono.png",
       "size": "",
@@ -3739,7 +6020,19 @@
     {
       "id": "logos-tetragon-mono-dark-back",
       "name": "tetragon-mono-dark-back",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "mono", "dark-back"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "mono",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-mono-dark-back.png",
       "size": "",
@@ -3750,7 +6043,18 @@
     {
       "id": "logos-tetragon-wordmark",
       "name": "tetragon-wordmark",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "wordmark"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "wordmark"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-wordmark.png",
       "size": "",
@@ -3761,7 +6065,19 @@
     {
       "id": "logos-tetragon-wordmark-dark-back",
       "name": "tetragon-wordmark-dark-back",
-      "tags": ["logos", "tetragon", "open-source", "security", "runtime", "runtime-security", "isovalent", "products", "enterprise", "wordmark", "dark-back"],
+      "tags": [
+        "logos",
+        "tetragon",
+        "open-source",
+        "security",
+        "runtime",
+        "runtime-security",
+        "isovalent",
+        "products",
+        "enterprise",
+        "wordmark",
+        "dark-back"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/tetragon-wordmark-dark-back.png",
       "size": "",
@@ -3772,7 +6088,10 @@
     {
       "id": "logos-typescript",
       "name": "typescript",
-      "tags": ["logos", "typescript"],
+      "tags": [
+        "logos",
+        "typescript"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/typescript.png",
       "size": "",
@@ -3783,7 +6102,14 @@
     {
       "id": "logos-ubuntu",
       "name": "ubuntu",
-      "tags": ["logos", "ubuntu", "os", "linux", "distribution", "ubuntu"],
+      "tags": [
+        "logos",
+        "ubuntu",
+        "os",
+        "linux",
+        "distribution",
+        "ubuntu"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ubuntu.png",
       "size": "",
@@ -3794,7 +6120,15 @@
     {
       "id": "logos-ubuntu-horizontal",
       "name": "ubuntu-horizontal",
-      "tags": ["logos", "ubuntu", "os", "linux", "distribution", "ubuntu", "horizontal"],
+      "tags": [
+        "logos",
+        "ubuntu",
+        "os",
+        "linux",
+        "distribution",
+        "ubuntu",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/ubuntu-horizontal.png",
       "size": "",
@@ -3805,7 +6139,13 @@
     {
       "id": "logos-vmware",
       "name": "vmware",
-      "tags": ["logos", "vmware", "cloud", "enterprise", "vmware"],
+      "tags": [
+        "logos",
+        "vmware",
+        "cloud",
+        "enterprise",
+        "vmware"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/vmware.png",
       "size": "",
@@ -3816,7 +6156,15 @@
     {
       "id": "logos-vmware-tanzu-full",
       "name": "vmware-tanzu-full",
-      "tags": ["logos", "vmware", "cloud", "enterprise", "vmware", "tanzu", "full"],
+      "tags": [
+        "logos",
+        "vmware",
+        "cloud",
+        "enterprise",
+        "vmware",
+        "tanzu",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/vmware-tanzu-full.png",
       "size": "",
@@ -3827,7 +6175,14 @@
     {
       "id": "logos-vmware-v-shpere",
       "name": "vmware-v-shpere",
-      "tags": ["logos", "vmware", "cloud", "enterprise", "vmware", "v-shpere"],
+      "tags": [
+        "logos",
+        "vmware",
+        "cloud",
+        "enterprise",
+        "vmware",
+        "v-shpere"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/vmware-v-shpere.png",
       "size": "1024x1024",
@@ -3838,7 +6193,12 @@
     {
       "id": "logos-windows",
       "name": "windows",
-      "tags": ["logos", "windows", "os", "windows"],
+      "tags": [
+        "logos",
+        "windows",
+        "os",
+        "windows"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/windows.png",
       "size": "",
@@ -3849,7 +6209,13 @@
     {
       "id": "logos-windows-full",
       "name": "windows-full",
-      "tags": ["logos", "windows", "os", "windows", "full"],
+      "tags": [
+        "logos",
+        "windows",
+        "os",
+        "windows",
+        "full"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/windows-full.png",
       "size": "",
@@ -3860,7 +6226,13 @@
     {
       "id": "logos-windows-horizontal",
       "name": "windows-horizontal",
-      "tags": ["logos", "windows", "os", "windows", "horizontal"],
+      "tags": [
+        "logos",
+        "windows",
+        "os",
+        "windows",
+        "horizontal"
+      ],
       "category": "logos",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/windows-horizontal.png",
       "size": "",
@@ -3871,7 +6243,12 @@
     {
       "id": "stickers-one-small-step-for-the-cluster",
       "name": "one-small-step-for-the-cluster",
-      "tags": ["stickers", "one-small-step-for-the-cluster", "ebees", "ebee"],
+      "tags": [
+        "stickers",
+        "one-small-step-for-the-cluster",
+        "ebees",
+        "ebee"
+      ],
       "category": "stickers",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/one-small-step-for-the-cluster.png",
       "size": "",
@@ -3882,7 +6259,12 @@
     {
       "id": "stickers-you-shall-not-pass",
       "name": "you-shall-not-pass",
-      "tags": ["stickers", "you-shall-not-pass", "ebees", "ebee"],
+      "tags": [
+        "stickers",
+        "you-shall-not-pass",
+        "ebees",
+        "ebee"
+      ],
       "category": "stickers",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/stickers/you-shall-not-pass-sticker.png",
       "size": "1024x1024",
@@ -3893,7 +6275,16 @@
     {
       "id": "templates-egress-gateway-rectangle",
       "name": "egress-gateway-rectangle",
-      "tags": ["templates", "egress-gateway-rectangle", "isovalent", "products", "enterprise", "cloud", "networking", "rectangle"],
+      "tags": [
+        "templates",
+        "egress-gateway-rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-rectangle.png",
       "size": "1024x1024",
@@ -3904,7 +6295,16 @@
     {
       "id": "templates-load-balancer-rectangle",
       "name": "load-balancer-rectangle",
-      "tags": ["templates", "load-balancer-rectangle", "isovalent", "products", "enterprise", "cloud", "networking", "rectangle"],
+      "tags": [
+        "templates",
+        "load-balancer-rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-rectangle.png",
       "size": "1024x1024",
@@ -3915,7 +6315,16 @@
     {
       "id": "templates-mesh-networking-rectangle",
       "name": "mesh-networking-rectangle",
-      "tags": ["templates", "mesh-networking-rectangle", "isovalent", "products", "enterprise", "cloud", "networking", "rectangle"],
+      "tags": [
+        "templates",
+        "mesh-networking-rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-rectangle.png",
       "size": "1024x1024",
@@ -3926,7 +6335,16 @@
     {
       "id": "templates-networking-for-kubernetes-rectangle",
       "name": "networking-for-kubernetes-rectangle",
-      "tags": ["templates", "networking-for-kubernetes-rectangle", "isovalent", "products", "enterprise", "cloud", "networking", "rectangle"],
+      "tags": [
+        "templates",
+        "networking-for-kubernetes-rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle.png",
       "size": "1024x1024",
@@ -3937,7 +6355,16 @@
     {
       "id": "templates-runtime-security-rectangle",
       "name": "runtime-security-rectangle",
-      "tags": ["templates", "runtime-security-rectangle", "isovalent", "products", "enterprise", "cloud", "networking", "rectangle"],
+      "tags": [
+        "templates",
+        "runtime-security-rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-rectangle.png",
       "size": "1024x1024",
