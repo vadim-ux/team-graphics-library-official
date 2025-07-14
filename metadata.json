@@ -2232,7 +2232,15 @@
     {
       "id": "icons-web-ui-interface-window-user-frontend-client",
       "name": "web-ui-interface-window-user-frontend-client",
-      "tags": [],
+      "tags": ["icons",
+        "web",
+        "ui",
+        "interface",
+        "window",
+        "user",
+        "frontend",
+        "client",
+        "isovalent"],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/web-ui-interface-window-user-frontend-client.png",
       "size": "1024x1024",
@@ -8023,7 +8031,12 @@
     {
       "id": "templates-api-rectangle-green",
       "name": "api-rectangle-green",
-      "tags": [],
+      "tags": [
+        "templates",
+        "api rectangle green",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/api-rectangle-green.png",
       "size": "1024x1024",
@@ -8038,10 +8051,6 @@
         "templates",
         "cluster area dashed line horizontal",
         "isovalent",
-        "products",
-        "enterprise",
-        "cloud",
-        "networking",
         "rectangle"
       ],
       "category": "templates",
@@ -8117,7 +8126,11 @@
     {
       "id": "templates-ebpf-symbol-yellow-light-square",
       "name": "ebpf-symbol-yellow-light-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ebpf symbol yellow light square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-symbol-yellow-light-square.png",
       "size": "1024x1024",
@@ -8128,7 +8141,11 @@
     {
       "id": "templates-ebpf-symbol-yellow-square",
       "name": "ebpf-symbol-yellow-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ebpf symbol yellow square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-symbol-yellow-square.png",
       "size": "1024x1024",
@@ -8139,7 +8156,11 @@
     {
       "id": "templates-ebpf-yellow-light-rectangle",
       "name": "ebpf-yellow-light-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ebpf yellow light rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-rectangle.png",
       "size": "1024x1024",
@@ -8150,7 +8171,11 @@
     {
       "id": "templates-ebpf-yellow-light-rectangle-tapered",
       "name": "ebpf-yellow-light-rectangle-tapered",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ebpf yellow light rectangle tapered",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-rectangle-tapered.png",
       "size": "1024x1024",
@@ -8161,7 +8186,11 @@
     {
       "id": "templates-ebpf-yellow-light-square",
       "name": "ebpf-yellow-light-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ebpf yellow light square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-square.png",
       "size": "1024x1024",
@@ -8355,7 +8384,11 @@
     {
       "id": "templates-k8s-app-empty",
       "name": "k8s-app-empty",
-      "tags": [],
+      "tags": [
+        "templates",
+        "k8s app empty",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-empty.png",
       "size": "1024x1024",
@@ -8366,7 +8399,11 @@
     {
       "id": "templates-k8s-app-rectangle",
       "name": "k8s-app-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "k8s app rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-rectangle.png",
       "size": "1024x1024",
@@ -8377,7 +8414,11 @@
     {
       "id": "templates-k8s-app1-ip",
       "name": "k8s-app1-ip",
-      "tags": [],
+      "tags": [
+        "templates",
+        "k8s app1 ip",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app1-ip.png",
       "size": "1024x1024",
@@ -8388,7 +8429,11 @@
     {
       "id": "templates-k8s-app2-ip",
       "name": "k8s-app2-ip",
-      "tags": [],
+      "tags": [
+        "templates",
+        "k8s app2 ip",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app2-ip.png",
       "size": "1024x1024",
@@ -8399,7 +8444,11 @@
     {
       "id": "templates-k8s-app3-ip",
       "name": "k8s-app3-ip",
-      "tags": [],
+      "tags": [
+        "templates",
+        "k8s app3 ip",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app3-ip.png",
       "size": "1024x1024",
@@ -8425,7 +8474,11 @@
     {
       "id": "templates-kubernetes-rectangle",
       "name": "kubernetes-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "kubernetes rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-rectangle.png",
       "size": "1024x1024",
@@ -8511,7 +8564,11 @@
     {
       "id": "templates-load-balancer-general-square",
       "name": "load-balancer-general-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "load balancer general square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-general-square.png",
       "size": "1024x1024",
@@ -8612,7 +8669,11 @@
     {
       "id": "templates-note-area-rectangle",
       "name": "note-area-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "note area rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/note-area-rectangle.png",
       "size": "1024x1024",
@@ -8623,7 +8684,11 @@
     {
       "id": "templates-note-area-square",
       "name": "note-area-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "note area square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/note-area-square.png",
       "size": "1024x1024",
@@ -8714,7 +8779,11 @@
     {
       "id": "templates-ui-rectangle-green",
       "name": "ui-rectangle-green",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ui rectangle green",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ui-rectangle-green.png",
       "size": "1024x1024",
@@ -8725,7 +8794,11 @@
     {
       "id": "templates-vmware-cloud",
       "name": "vmware-cloud",
-      "tags": [],
+      "tags": [
+        "templates",
+        "vmware cloud",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/vmware-cloud.png",
       "size": "1024x1024",
