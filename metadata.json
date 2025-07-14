@@ -319,7 +319,12 @@
     {
       "id": "icons-cloud-generic-gray",
       "name": "cloud-generic-gray",
-      "tags": [],
+      "tags": [
+        "icons",
+        "cloud",
+        "generic",
+        "gray"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-generic-gray.png",
       "size": "1024x1024",
