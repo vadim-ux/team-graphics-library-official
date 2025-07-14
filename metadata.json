@@ -103,7 +103,10 @@
     {
       "id": "icons-accept-green-circle",
       "name": "accept-green-circle",
-      "tags": [],
+      "tags": [
+        "icons",
+        "accept green circle"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/accept-green-circle.png",
       "size": "1024x1024",
@@ -1628,7 +1631,10 @@
     {
       "id": "icons-reject-red-circle",
       "name": "reject-red-circle",
-      "tags": [],
+      "tags": [
+        "icons",
+        "reject red circle"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/reject-red-circle.png",
       "size": "1024x1024",
