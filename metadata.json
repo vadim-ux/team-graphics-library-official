@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-14",
-  "totalAssets": 483,
+  "totalAssets": 484,
   "categories": [
     "diagrams",
     "ebees",
@@ -2217,6 +2217,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/vm-mono.svg"
+    },
+    {
+      "id": "icons-web-ui-interface-window-user-frontend-client",
+      "name": "web-ui-interface-window-user-frontend-client",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/web-ui-interface-window-user-frontend-client.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-yaml-doc-generic",
