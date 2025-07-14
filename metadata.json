@@ -1,8 +1,8 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-07-13",
-  "totalAssets": 425,
+  "updated": "2025-07-14",
+  "totalAssets": 430,
   "categories": [
     "diagrams",
     "ebees",
@@ -294,6 +294,15 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-workloads-wordmark.svg"
+    },
+    {
+      "id": "icons-cluster-abstract",
+      "name": "cluster-abstract",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-abstract.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-connect-gold",
@@ -964,6 +973,15 @@
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ns-escape-gold.svg"
     },
     {
+      "id": "icons-observability-search-with-lens",
+      "name": "observability-search-with-lens",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observability-search-with-lens.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
       "id": "icons-observe-gold",
       "name": "observe-gold",
       "tags": [
@@ -1064,6 +1082,24 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-generic.svg"
+    },
+    {
+      "id": "icons-policy-doc-with-binoculars",
+      "name": "policy-doc-with-binoculars",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-binoculars.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-policy-doc-with-gavel",
+      "name": "policy-doc-with-gavel",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-gavel.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-protect-gold",
@@ -1184,6 +1220,15 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/seq-attack-gold.svg"
+    },
+    {
+      "id": "icons-settings-with-arrows",
+      "name": "settings-with-arrows",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/settings-with-arrows.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-siem-generic",
