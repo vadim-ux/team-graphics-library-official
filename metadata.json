@@ -298,7 +298,12 @@
     {
       "id": "icons-cluster-abstract",
       "name": "cluster-abstract",
-      "tags": [],
+      "tags": [
+        "icons",
+        "cluster",
+        "abstract",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-abstract.png",
       "size": "1024x1024",
@@ -977,7 +982,13 @@
     {
       "id": "icons-observability-search-with-lens",
       "name": "observability-search-with-lens",
-      "tags": [],
+      "tags": [
+        "icons",
+        "observability",
+        "search",
+        "lens",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observability-search-with-lens.png",
       "size": "1024x1024",
@@ -1090,7 +1101,13 @@
     {
       "id": "icons-policy-doc-with-binoculars",
       "name": "policy-doc-with-binoculars",
-      "tags": [],
+      "tags": [
+        "icons",
+        "policy",
+        "doc",
+        "binoculars",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-binoculars.png",
       "size": "1024x1024",
@@ -1101,7 +1118,13 @@
     {
       "id": "icons-policy-doc-with-gavel",
       "name": "policy-doc-with-gavel",
-      "tags": [],
+      "tags": [
+        "icons",
+        "policy",
+        "doc",
+        "gavel",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-gavel.png",
       "size": "1024x1024",
@@ -1232,7 +1255,12 @@
     {
       "id": "icons-settings-with-arrows",
       "name": "settings-with-arrows",
-      "tags": [],
+      "tags": [
+        "icons",
+        "settings",
+        "arrows",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/settings-with-arrows.png",
       "size": "1024x1024",
