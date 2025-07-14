@@ -8027,7 +8027,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/api-rectangle-green.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/api-rectangle-green.svg"
     },
     {
       "id": "templates-cluster-area-dashed-line-horizontal",
@@ -8119,7 +8121,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-symbol-yellow-light-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-symbol-yellow-light-square.svg"
     },
     {
       "id": "templates-ebpf-symbol-yellow-square",
@@ -8128,7 +8132,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-symbol-yellow-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-symbol-yellow-square.svg"
     },
     {
       "id": "templates-ebpf-yellow-light-rectangle",
@@ -8137,7 +8143,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-rectangle.svg"
     },
     {
       "id": "templates-ebpf-yellow-light-rectangle-tapered",
@@ -8146,7 +8154,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-rectangle-tapered.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-rectangle-tapered.svg"
     },
     {
       "id": "templates-ebpf-yellow-light-square",
@@ -8155,7 +8165,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-light-square.svg"
     },
     {
       "id": "templates-ebpf-yellow-rectangle",
@@ -8347,7 +8359,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-empty.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-empty.svg"
     },
     {
       "id": "templates-k8s-app-rectangle",
@@ -8356,7 +8370,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-rectangle.svg"
     },
     {
       "id": "templates-k8s-app1-ip",
@@ -8365,7 +8381,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app1-ip.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app1-ip.svg"
     },
     {
       "id": "templates-k8s-app2-ip",
@@ -8374,7 +8392,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app2-ip.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app2-ip.svg"
     },
     {
       "id": "templates-k8s-app3-ip",
@@ -8383,7 +8403,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app3-ip.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app3-ip.svg"
     },
     {
       "id": "templates-kubernetes-pod-icon",
@@ -8407,7 +8429,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-rectangle.svg"
     },
     {
       "id": "templates-kubernetes-svc-icon",
@@ -8491,7 +8515,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-general-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-general-square.svg"
     },
     {
       "id": "templates-load-balancer-rectangle",
@@ -8590,7 +8616,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/note-area-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/note-area-rectangle.svg"
     },
     {
       "id": "templates-note-area-square",
@@ -8599,7 +8627,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/note-area-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/note-area-square.svg"
     },
     {
       "id": "templates-pod-simple-blue-k8s-rectangle",
@@ -8688,7 +8718,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ui-rectangle-green.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ui-rectangle-green.svg"
     },
     {
       "id": "templates-vmware-cloud",
@@ -8697,7 +8729,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/vmware-cloud.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/vmware-cloud.svg"
     }
   ]
 }
