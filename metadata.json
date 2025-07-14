@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-14",
-  "totalAssets": 453,
+  "totalAssets": 454,
   "categories": [
     "diagrams",
     "ebees",
@@ -315,6 +315,15 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cilium-policy-doc-generic.svg"
+    },
+    {
+      "id": "icons-cloud-generic-gray",
+      "name": "cloud-generic-gray",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cloud-generic-gray.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-cloud-on-premise-icon",
