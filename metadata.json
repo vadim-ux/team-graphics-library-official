@@ -302,7 +302,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-abstract.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-abstract.svg"
     },
     {
       "id": "icons-connect-gold",
@@ -979,7 +981,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observability-search-with-lens.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/observability-search-with-lens.svg"
     },
     {
       "id": "icons-observe-gold",
@@ -1090,7 +1094,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-binoculars.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-binoculars.svg"
     },
     {
       "id": "icons-policy-doc-with-gavel",
@@ -1099,7 +1105,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-gavel.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policy-doc-with-gavel.svg"
     },
     {
       "id": "icons-protect-gold",
@@ -1228,7 +1236,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/settings-with-arrows.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/settings-with-arrows.svg"
     },
     {
       "id": "icons-siem-generic",
