@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-14",
-  "totalAssets": 441,
+  "totalAssets": 453,
   "categories": [
     "diagrams",
     "ebees",
@@ -495,6 +495,24 @@
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui.svg"
     },
     {
+      "id": "icons-connections-ui-clear-blue",
+      "name": "connections-ui-clear-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-clear-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-connections-ui-mono",
+      "name": "connections-ui-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-mono.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
       "id": "icons-container",
       "name": "container",
       "tags": [
@@ -838,6 +856,60 @@
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/hash-maps-gold.svg"
     },
     {
+      "id": "icons-ilb-backend-ui-clear-blue",
+      "name": "ilb-backend-ui-clear-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-clear-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-ilb-backend-ui-mono",
+      "name": "ilb-backend-ui-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-mono.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-ilb-services-ui-clear-blue",
+      "name": "ilb-services-ui-clear-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-clear-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-ilb-services-ui-mono",
+      "name": "ilb-services-ui-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-mono.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-ilb-virtualip-ui-clear-blue",
+      "name": "ilb-virtualip-ui-clear-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-clear-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-ilb-virtualip-ui-mono",
+      "name": "ilb-virtualip-ui-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-mono.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
       "id": "icons-json-doc-generic",
       "name": "json-doc-generic",
       "tags": [
@@ -1131,6 +1203,24 @@
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui.svg"
     },
     {
+      "id": "icons-network-security-ui-clear-blue",
+      "name": "network-security-ui-clear-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-clear-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-network-security-ui-mono",
+      "name": "network-security-ui-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-mono.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
       "id": "icons-ns-escape-blue",
       "name": "ns-escape-blue",
       "tags": [
@@ -1265,6 +1355,24 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui.svg"
+    },
+    {
+      "id": "icons-policies-ui-clear-blue",
+      "name": "policies-ui-clear-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-clear-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-policies-ui-mono",
+      "name": "policies-ui-mono",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-mono.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-policy-doc-generic",
