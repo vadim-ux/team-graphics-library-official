@@ -103,7 +103,12 @@
     {
       "id": "icons-array-of-cubs-blue",
       "name": "array-of-cubs-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "array",
+        "cubs",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-blue.png",
       "size": "1024x1024",
@@ -112,7 +117,12 @@
     {
       "id": "icons-array-of-cubs-gray",
       "name": "array-of-cubs-gray",
-      "tags": [],
+      "tags": [
+        "icons",
+        "array",
+        "cubs",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-gray.png",
       "size": "1024x1024",
@@ -121,7 +131,13 @@
     {
       "id": "icons-array-of-cubs-in-circle-blue",
       "name": "array-of-cubs-in-circle-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "array",
+        "cubs",
+        "circle",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-in-circle-blue.png",
       "size": "1024x1024",
@@ -130,7 +146,13 @@
     {
       "id": "icons-array-of-cubs-in-circle-blue-center",
       "name": "array-of-cubs-in-circle-blue-center",
-      "tags": [],
+      "tags": [
+        "icons",
+        "array",
+        "cubs",
+        "circle",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-in-circle-blue-center.png",
       "size": "1024x1024",
@@ -139,7 +161,13 @@
     {
       "id": "icons-array-of-cubs-in-circle-gray",
       "name": "array-of-cubs-in-circle-gray",
-      "tags": [],
+      "tags": [
+        "icons",
+        "array",
+        "cubs",
+        "circle",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-in-circle-gray.png",
       "size": "1024x1024",
@@ -359,7 +387,13 @@
     {
       "id": "icons-cluster-key-keychain",
       "name": "cluster-key-keychain",
-      "tags": [],
+      "tags": [
+        "icons",
+        "cluster",
+        "key",
+        "keychain",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-key-keychain.png",
       "size": "1024x1024",
@@ -368,7 +402,13 @@
     {
       "id": "icons-cluster-node-internet",
       "name": "cluster-node-internet",
-      "tags": [],
+      "tags": [
+        "icons",
+        "cluster",
+        "node",
+        "internet",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-node-internet.png",
       "size": "1024x1024",
@@ -377,7 +417,12 @@
     {
       "id": "icons-cluster-scaling",
       "name": "cluster-scaling",
-      "tags": [],
+      "tags": [
+        "icons",
+        "cluster",
+        "scaling",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-scaling.png",
       "size": "1024x1024",
@@ -535,7 +580,14 @@
     {
       "id": "icons-ecosystem-diversity-abstract-color",
       "name": "ecosystem-diversity-abstract-color",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ecosystem",
+        "diversity",
+        "abstract",
+        "color",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ecosystem-diversity-abstract-color.png",
       "size": "1024x1024",
@@ -544,7 +596,14 @@
     {
       "id": "icons-ecosystem-diversity-abstract-gray",
       "name": "ecosystem-diversity-abstract-gray",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ecosystem",
+        "diversity",
+        "abstract",
+        "gray",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ecosystem-diversity-abstract-gray.png",
       "size": "1024x1024",
@@ -658,7 +717,12 @@
     {
       "id": "icons-fingerprint-gray",
       "name": "fingerprint-gray",
-      "tags": [],
+      "tags": [
+        "icons",
+        "fingerprint",
+        "gray",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/fingerprint-gray.png",
       "size": "1024x1024",
