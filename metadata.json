@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-14",
-  "totalAssets": 481,
+  "totalAssets": 483,
   "categories": [
     "diagrams",
     "ebees",
@@ -99,6 +99,15 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-turing.svg"
+    },
+    {
+      "id": "icons-accept-green-circle",
+      "name": "accept-green-circle",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/accept-green-circle.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-array-of-cubs-blue",
@@ -1613,6 +1622,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/protect-gold-full.svg"
+    },
+    {
+      "id": "icons-reject-red-circle",
+      "name": "reject-red-circle",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/reject-red-circle.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-ring-buffer--mono-black",
@@ -7973,14 +7991,16 @@
     {
       "id": "templates-cluster-area-dashed-line-horizontal",
       "name": "cluster-area-dashed-line-horizontal",
-      "tags": ["templates",
-      "cluster area dashed line horizontal",
-      "isovalent",
-      "products",
-      "enterprise",
-      "cloud",
-      "networking",
-      "rectangle"],
+      "tags": [
+        "templates",
+        "cluster area dashed line horizontal",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-dashed-line-horizontal.png",
       "size": "1024x1024",
@@ -7991,10 +8011,12 @@
     {
       "id": "templates-cluster-area-dashed-line-vertical",
       "name": "cluster-area-dashed-line-vertical",
-      "tags": ["templates",
-      "cluster area dashed line vertical",
-      "isovalent",
-      "rectangle"],
+      "tags": [
+        "templates",
+        "cluster area dashed line vertical",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-dashed-line-vertical.png",
       "size": "1024x1024",
@@ -8005,10 +8027,12 @@
     {
       "id": "templates-cluster-area-horizontal",
       "name": "cluster-area-horizontal",
-      "tags": ["templates",
-      "cluster area horizontal",
-      "isovalent",
-      "rectangle"],
+      "tags": [
+        "templates",
+        "cluster area horizontal",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-horizontal.png",
       "size": "1024x1024",
@@ -8019,10 +8043,12 @@
     {
       "id": "templates-cluster-area-vertical",
       "name": "cluster-area-vertical",
-      "tags": ["templates",
-      "cluster area vertical",
-      "isovalent",
-      "rectangle"],
+      "tags": [
+        "templates",
+        "cluster area vertical",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-vertical.png",
       "size": "1024x1024",
@@ -8033,9 +8059,11 @@
     {
       "id": "templates-ebpf-native",
       "name": "ebpf-native",
-      "tags": ["templates",
-      "ebpf native",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "ebpf native",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-native.png",
       "size": "1024x1024",
@@ -8046,9 +8074,11 @@
     {
       "id": "templates-ebpf-yellow-rectangle",
       "name": "ebpf-yellow-rectangle",
-      "tags": ["templates",
-      "ebpf yellow rectangle",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "ebpf yellow rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-rectangle.png",
       "size": "1024x1024",
@@ -8059,9 +8089,11 @@
     {
       "id": "templates-ebpf-yellow-rectangle-tapered",
       "name": "ebpf-yellow-rectangle-tapered",
-      "tags": ["templates",
-      "ebpf yellow rectangle tapered",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "ebpf yellow rectangle tapered",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-rectangle-tapered.png",
       "size": "1024x1024",
@@ -8072,9 +8104,11 @@
     {
       "id": "templates-ebpf-yellow-square",
       "name": "ebpf-yellow-square",
-      "tags": ["templates",
-      "ebpf yellow square",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "ebpf yellow square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-square.png",
       "size": "1024x1024",
@@ -8105,14 +8139,16 @@
     {
       "id": "templates-egress-rectangle",
       "name": "egress-rectangle",
-      "tags": ["templates",
-      "egress rectangle",
-      "isovalent",
-      "products",
-      "enterprise",
-      "cloud",
-      "networking",
-      "rectangle"],
+      "tags": [
+        "templates",
+        "egress rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-rectangle.png",
       "size": "1024x1024",
@@ -8123,9 +8159,11 @@
     {
       "id": "templates-envoy-sidecar",
       "name": "envoy-sidecar",
-      "tags": ["templates",
-      "envoy sidecar",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "envoy sidecar",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/envoy-sidecar.png",
       "size": "1024x1024",
@@ -8136,9 +8174,11 @@
     {
       "id": "templates-envoy-sidecar-free",
       "name": "envoy-sidecar-free",
-      "tags": ["templates",
-      "envoy sidecar free",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "envoy sidecar free",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/envoy-sidecar-free.png",
       "size": "1024x1024",
@@ -8149,10 +8189,12 @@
     {
       "id": "templates-eth-horizontal",
       "name": "eth-horizontal",
-      "tags": ["templates",
-      "eth horizontal",
-      "isovalent",
-      "hardware"],
+      "tags": [
+        "templates",
+        "eth horizontal",
+        "isovalent",
+        "hardware"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth-horizontal.png",
       "size": "1024x1024",
@@ -8163,10 +8205,12 @@
     {
       "id": "templates-eth-rectangle",
       "name": "eth-rectangle",
-      "tags": ["templates",
-      "eth rectangle",
-      "isovalent",
-      "hardware"],
+      "tags": [
+        "templates",
+        "eth rectangle",
+        "isovalent",
+        "hardware"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth-rectangle.png",
       "size": "1024x1024",
@@ -8177,10 +8221,12 @@
     {
       "id": "templates-eth0-horizontal",
       "name": "eth0-horizontal",
-      "tags": ["templates",
-      "eth0 horizontal",
-      "isovalent",
-      "hardware"],
+      "tags": [
+        "templates",
+        "eth0 horizontal",
+        "isovalent",
+        "hardware"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth0-horizontal.png",
       "size": "1024x1024",
@@ -8191,14 +8237,16 @@
     {
       "id": "templates-ingress-rectangle",
       "name": "ingress-rectangle",
-      "tags": ["templates",
-      "ingress rectangle",
-      "isovalent",
-      "products",
-      "enterprise",
-      "cloud",
-      "networking",
-      "rectangle"],
+      "tags": [
+        "templates",
+        "ingress rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ingress-rectangle.png",
       "size": "1024x1024",
@@ -8209,9 +8257,11 @@
     {
       "id": "templates-kubernetes-pod-icon",
       "name": "kubernetes-pod-icon",
-      "tags": ["templates",
-      "kubernetes pod icon",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "kubernetes pod icon",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-pod-icon.png",
       "size": "1024x1024",
@@ -8222,9 +8272,11 @@
     {
       "id": "templates-kubernetes-svc-icon",
       "name": "kubernetes-svc-icon",
-      "tags": ["templates",
-      "kubernetes svc icon",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "kubernetes svc icon",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-svc-icon.png",
       "size": "1024x1024",
@@ -8235,9 +8287,11 @@
     {
       "id": "templates-laptop-curl-http-foo-command",
       "name": "laptop-curl-http-foo-command",
-      "tags": ["templates",
-      "laptop curl http foo command",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "laptop curl http foo command",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/laptop-curl-http-foo-command.png",
       "size": "1024x1024",
@@ -8248,9 +8302,11 @@
     {
       "id": "templates-linux-kernel-horizontal-big",
       "name": "linux-kernel-horizontal-big",
-      "tags": ["templates",
-      "linux kernel horizontal big",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "linux kernel horizontal big",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-horizontal-big.png",
       "size": "1024x1024",
@@ -8261,9 +8317,11 @@
     {
       "id": "templates-linux-kernel-horizontal-small",
       "name": "linux-kernel-horizontal-small",
-      "tags": ["templates",
-      "linux kernel horizontal small",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "linux kernel horizontal small",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-horizontal-small.png",
       "size": "1024x1024",
@@ -8274,9 +8332,11 @@
     {
       "id": "templates-linux-kernel-vertical",
       "name": "linux-kernel-vertical",
-      "tags": ["templates",
-      "linux kernel vertical",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "linux kernel vertical",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-vertical.png",
       "size": "1024x1024",
@@ -8347,9 +8407,11 @@
     {
       "id": "templates-node-area-horizontal",
       "name": "node-area-horizontal",
-      "tags": ["templates",
-      "node area horizontal",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "node area horizontal",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/node-area-horizontal.png",
       "size": "1024x1024",
@@ -8360,9 +8422,11 @@
     {
       "id": "templates-node-area-vertical",
       "name": "node-area-vertical",
-      "tags": ["templates",
-      "node area vertical",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "node area vertical",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/node-area-vertical.png",
       "size": "1024x1024",
@@ -8373,9 +8437,11 @@
     {
       "id": "templates-pod-simple-blue-k8s-rectangle",
       "name": "pod-simple-blue-k8s-rectangle",
-      "tags": ["templates",
-      "pod simple blue k8s rectangle",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "pod simple blue k8s rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-blue-k8s-rectangle.png",
       "size": "1024x1024",
@@ -8386,9 +8452,11 @@
     {
       "id": "templates-pod-simple-rectangle",
       "name": "pod-simple-rectangle",
-      "tags": ["templates",
-      "pod simple rectangle",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "pod simple rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-rectangle.png",
       "size": "1024x1024",
@@ -8399,9 +8467,11 @@
     {
       "id": "templates-pod-simple-rectangle-array",
       "name": "pod-simple-rectangle-array",
-      "tags": ["templates",
-      "pod simple rectangle array",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "pod simple rectangle array",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-rectangle-array.png",
       "size": "1024x1024",
@@ -8412,9 +8482,11 @@
     {
       "id": "templates-pods-namespace-array",
       "name": "pods-namespace-array",
-      "tags": ["templates",
-      "pods namespace array",
-      "isovalent"],
+      "tags": [
+        "templates",
+        "pods namespace array",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pods-namespace-array.png",
       "size": "1024x1024",
