@@ -2225,7 +2225,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/web-ui-interface-window-user-frontend-client.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/web-ui-interface-window-user-frontend-client.svg"
     },
     {
       "id": "icons-yaml-doc-generic",
