@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-14",
-  "totalAssets": 430,
+  "totalAssets": 441,
   "categories": [
     "diagrams",
     "ebees",
@@ -99,6 +99,51 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/ebees/ebee-turing.svg"
+    },
+    {
+      "id": "icons-array-of-cubs-blue",
+      "name": "array-of-cubs-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-array-of-cubs-gray",
+      "name": "array-of-cubs-gray",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-gray.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-array-of-cubs-in-circle-blue",
+      "name": "array-of-cubs-in-circle-blue",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-in-circle-blue.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-array-of-cubs-in-circle-blue-center",
+      "name": "array-of-cubs-in-circle-blue-center",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-in-circle-blue-center.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-array-of-cubs-in-circle-gray",
+      "name": "array-of-cubs-in-circle-gray",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/array-of-cubs-in-circle-gray.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-bare-metal",
@@ -312,6 +357,33 @@
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-abstract.svg"
     },
     {
+      "id": "icons-cluster-key-keychain",
+      "name": "cluster-key-keychain",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-key-keychain.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-cluster-node-internet",
+      "name": "cluster-node-internet",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-node-internet.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-cluster-scaling",
+      "name": "cluster-scaling",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/cluster-scaling.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
       "id": "icons-connect-gold",
       "name": "connect-gold",
       "tags": [
@@ -461,6 +533,24 @@
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/data-access-server-gold.svg"
     },
     {
+      "id": "icons-ecosystem-diversity-abstract-color",
+      "name": "ecosystem-diversity-abstract-color",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ecosystem-diversity-abstract-color.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
+      "id": "icons-ecosystem-diversity-abstract-gray",
+      "name": "ecosystem-diversity-abstract-gray",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ecosystem-diversity-abstract-gray.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
+    },
+    {
       "id": "icons-encrypt-gold",
       "name": "encrypt-gold",
       "tags": [
@@ -564,6 +654,15 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/file-access-gold.svg"
+    },
+    {
+      "id": "icons-fingerprint-gray",
+      "name": "fingerprint-gray",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/fingerprint-gray.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-14"
     },
     {
       "id": "icons-gear-process-blue",
