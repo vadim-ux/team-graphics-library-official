@@ -510,7 +510,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-clear-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-clear-blue.svg"
     },
     {
       "id": "icons-connections-ui-mono",
@@ -527,7 +529,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-mono.svg"
     },
     {
       "id": "icons-container",
@@ -890,7 +894,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-clear-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-clear-blue.svg"
     },
     {
       "id": "icons-ilb-backend-ui-mono",
@@ -909,7 +915,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-mono.svg"
     },
     {
       "id": "icons-ilb-services-ui-clear-blue",
@@ -929,7 +937,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-clear-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-clear-blue.svg"
     },
     {
       "id": "icons-ilb-services-ui-mono",
@@ -948,7 +958,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-mono.svg"
     },
     {
       "id": "icons-ilb-virtualip-ui-clear-blue",
@@ -968,7 +980,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-clear-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-clear-blue.svg"
     },
     {
       "id": "icons-ilb-virtualip-ui-mono",
@@ -987,7 +1001,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-mono.svg"
     },
     {
       "id": "icons-json-doc-generic",
@@ -1299,7 +1315,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-clear-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-clear-blue.svg"
     },
     {
       "id": "icons-network-security-ui-mono",
@@ -1317,7 +1335,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-mono.svg"
     },
     {
       "id": "icons-ns-escape-blue",
@@ -1471,7 +1491,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-clear-blue.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-clear-blue.svg"
     },
     {
       "id": "icons-policies-ui-mono",
@@ -1488,7 +1510,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-mono.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-mono.svg"
     },
     {
       "id": "icons-policy-doc-generic",
