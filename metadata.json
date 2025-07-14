@@ -497,7 +497,16 @@
     {
       "id": "icons-connections-ui-clear-blue",
       "name": "connections-ui-clear-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "connections",
+        "ui",
+        "clear",
+        "blue",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-clear-blue.png",
       "size": "1024x1024",
@@ -506,7 +515,15 @@
     {
       "id": "icons-connections-ui-mono",
       "name": "connections-ui-mono",
-      "tags": [],
+      "tags": [
+        "icons",
+        "connections",
+        "ui",
+        "mono",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/connections-ui-mono.png",
       "size": "1024x1024",
@@ -858,7 +875,18 @@
     {
       "id": "icons-ilb-backend-ui-clear-blue",
       "name": "ilb-backend-ui-clear-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ilb",
+        "load balancer",
+        "backend",
+        "ui",
+        "clear",
+        "blue",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-clear-blue.png",
       "size": "1024x1024",
@@ -867,7 +895,17 @@
     {
       "id": "icons-ilb-backend-ui-mono",
       "name": "ilb-backend-ui-mono",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ilb",
+        "load balancer",
+        "backend",
+        "ui",
+        "mono",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-backend-ui-mono.png",
       "size": "1024x1024",
@@ -876,7 +914,18 @@
     {
       "id": "icons-ilb-services-ui-clear-blue",
       "name": "ilb-services-ui-clear-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ilb",
+        "load balancer",
+        "services",
+        "ui",
+        "clear",
+        "blue",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-clear-blue.png",
       "size": "1024x1024",
@@ -885,7 +934,17 @@
     {
       "id": "icons-ilb-services-ui-mono",
       "name": "ilb-services-ui-mono",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ilb",
+        "load balancer",
+        "services",
+        "ui",
+        "mono",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-services-ui-mono.png",
       "size": "1024x1024",
@@ -894,7 +953,18 @@
     {
       "id": "icons-ilb-virtualip-ui-clear-blue",
       "name": "ilb-virtualip-ui-clear-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ilb",
+        "load balancer",
+        "virtualip",
+        "ui",
+        "clear",
+        "blue",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-clear-blue.png",
       "size": "1024x1024",
@@ -903,7 +973,17 @@
     {
       "id": "icons-ilb-virtualip-ui-mono",
       "name": "ilb-virtualip-ui-mono",
-      "tags": [],
+      "tags": [
+        "icons",
+        "ilb",
+        "load balancer",
+        "virtualip",
+        "ui",
+        "mono",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/ilb-virtualip-ui-mono.png",
       "size": "1024x1024",
@@ -1205,7 +1285,17 @@
     {
       "id": "icons-network-security-ui-clear-blue",
       "name": "network-security-ui-clear-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "network",
+        "security",
+        "ui",
+        "clear",
+        "blue",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-clear-blue.png",
       "size": "1024x1024",
@@ -1214,7 +1304,16 @@
     {
       "id": "icons-network-security-ui-mono",
       "name": "network-security-ui-mono",
-      "tags": [],
+      "tags": [
+        "icons",
+        "network",
+        "security",
+        "ui",
+        "mono",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/network-security-ui-mono.png",
       "size": "1024x1024",
@@ -1359,7 +1458,16 @@
     {
       "id": "icons-policies-ui-clear-blue",
       "name": "policies-ui-clear-blue",
-      "tags": [],
+      "tags": [
+        "icons",
+        "policies",
+        "ui",
+        "clear",
+        "blue",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-clear-blue.png",
       "size": "1024x1024",
@@ -1368,7 +1476,15 @@
     {
       "id": "icons-policies-ui-mono",
       "name": "policies-ui-mono",
-      "tags": [],
+      "tags": [
+        "icons",
+        "policies",
+        "ui",
+        "mono",
+        "isovalent",
+        "hubble",
+        "timescape"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/policies-ui-mono.png",
       "size": "1024x1024",
