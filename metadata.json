@@ -7977,7 +7977,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-dashed-line-horizontal.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-dashed-line-horizontal.svg"
     },
     {
       "id": "templates-cluster-area-dashed-line-vertical",
@@ -7986,7 +7988,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-dashed-line-vertical.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-dashed-line-vertical.svg"
     },
     {
       "id": "templates-cluster-area-horizontal",
@@ -7995,7 +7999,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-horizontal.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-horizontal.svg"
     },
     {
       "id": "templates-cluster-area-vertical",
@@ -8004,7 +8010,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-vertical.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/cluster-area-vertical.svg"
     },
     {
       "id": "templates-ebpf-native",
@@ -8013,7 +8021,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-native.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-native.svg"
     },
     {
       "id": "templates-ebpf-yellow-rectangle",
@@ -8022,7 +8032,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-rectangle.svg"
     },
     {
       "id": "templates-ebpf-yellow-rectangle-tapered",
@@ -8031,7 +8043,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-rectangle-tapered.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-rectangle-tapered.svg"
     },
     {
       "id": "templates-ebpf-yellow-square",
@@ -8040,7 +8054,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-yellow-square.svg"
     },
     {
       "id": "templates-egress-gateway-rectangle",
@@ -8069,7 +8085,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-rectangle.svg"
     },
     {
       "id": "templates-envoy-sidecar",
@@ -8078,7 +8096,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/envoy-sidecar.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/envoy-sidecar.svg"
     },
     {
       "id": "templates-envoy-sidecar-free",
@@ -8087,7 +8107,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/envoy-sidecar-free.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/envoy-sidecar-free.svg"
     },
     {
       "id": "templates-eth-horizontal",
@@ -8096,7 +8118,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth-horizontal.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth-horizontal.svg"
     },
     {
       "id": "templates-eth-rectangle",
@@ -8105,7 +8129,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth-rectangle.svg"
     },
     {
       "id": "templates-eth0-horizontal",
@@ -8114,7 +8140,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth0-horizontal.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/eth0-horizontal.svg"
     },
     {
       "id": "templates-ingress-rectangle",
@@ -8123,7 +8151,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ingress-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ingress-rectangle.svg"
     },
     {
       "id": "templates-kubernetes-pod-icon",
@@ -8132,7 +8162,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-pod-icon.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-pod-icon.svg"
     },
     {
       "id": "templates-kubernetes-svc-icon",
@@ -8141,7 +8173,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-svc-icon.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/kubernetes-svc-icon.svg"
     },
     {
       "id": "templates-laptop-curl-http-foo-command",
@@ -8150,7 +8184,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/laptop-curl-http-foo-command.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/laptop-curl-http-foo-command.svg"
     },
     {
       "id": "templates-linux-kernel-horizontal-big",
@@ -8159,7 +8195,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-horizontal-big.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-horizontal-big.svg"
     },
     {
       "id": "templates-linux-kernel-horizontal-small",
@@ -8168,7 +8206,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-horizontal-small.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-horizontal-small.svg"
     },
     {
       "id": "templates-linux-kernel-vertical",
@@ -8177,7 +8217,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-vertical.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/linux-kernel-vertical.svg"
     },
     {
       "id": "templates-load-balancer-rectangle",
@@ -8246,7 +8288,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/node-area-horizontal.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/node-area-horizontal.svg"
     },
     {
       "id": "templates-node-area-vertical",
@@ -8255,7 +8299,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/node-area-vertical.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/node-area-vertical.svg"
     },
     {
       "id": "templates-pod-simple-blue-k8s-rectangle",
@@ -8264,7 +8310,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-blue-k8s-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-blue-k8s-rectangle.svg"
     },
     {
       "id": "templates-pod-simple-rectangle",
@@ -8273,7 +8321,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-rectangle.svg"
     },
     {
       "id": "templates-pod-simple-rectangle-array",
@@ -8282,7 +8332,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-rectangle-array.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-simple-rectangle-array.svg"
     },
     {
       "id": "templates-pods-namespace-array",
@@ -8291,7 +8343,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pods-namespace-array.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-14"
+      "lastUpdated": "2025-07-14",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pods-namespace-array.svg"
     },
     {
       "id": "templates-runtime-security-rectangle",
