@@ -822,7 +822,11 @@
     {
       "id": "icons-firewall",
       "name": "firewall",
-      "tags": [],
+      "tags": [
+        "icons",
+        "firewall",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/firewall.png",
       "size": "1024x1024",
