@@ -1085,7 +1085,11 @@
     {
       "id": "icons-laptop-generic",
       "name": "laptop-generic",
-      "tags": [],
+      "tags": [
+        "icons",
+        "laptop generic",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/laptop-generic.png",
       "size": "1024x1024",
@@ -1843,7 +1847,12 @@
     {
       "id": "icons-smartphone-generic",
       "name": "smartphone-generic",
-      "tags": [],
+      "tags": [
+        "icons",
+        "smartphone",
+        "generic",
+        "isovalent"
+      ],
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smartphone-generic.png",
       "size": "1024x1024",
@@ -8322,7 +8331,13 @@
     {
       "id": "templates-egress-gateway-horizontal-rectangle",
       "name": "egress-gateway-horizontal-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "egress gateway horizontal rectangle",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-horizontal-rectangle.png",
       "size": "1024x1024",
@@ -8333,7 +8348,13 @@
     {
       "id": "templates-egress-gateway-logoin-square",
       "name": "egress-gateway-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "egress gateway logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-logoin-square.png",
       "size": "1024x1024",
@@ -8344,7 +8365,13 @@
     {
       "id": "templates-egress-gateway-onlylogoin-square",
       "name": "egress-gateway-onlylogoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "egress gateway only logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-onlylogoin-square.png",
       "size": "1024x1024",
@@ -8375,7 +8402,13 @@
     {
       "id": "templates-egress-gateway-square",
       "name": "egress-gateway-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "egress gateway square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-square.png",
       "size": "1024x1024",
@@ -8386,7 +8419,13 @@
     {
       "id": "templates-egress-gateway-wordmark-side-logoin-square",
       "name": "egress-gateway-wordmark-side-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "egress gateway wordmark side logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-wordmark-side-logoin-square.png",
       "size": "1024x1024",
@@ -8776,7 +8815,11 @@
     {
       "id": "templates-load-balancer-horizontal-rectangle",
       "name": "load-balancer-horizontal-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "load balancer horizontal rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-horizontal-rectangle.png",
       "size": "1024x1024",
@@ -8787,7 +8830,11 @@
     {
       "id": "templates-load-balancer-logoin-square",
       "name": "load-balancer-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "load balancer logo in square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-logoin-square.png",
       "size": "1024x1024",
@@ -8798,7 +8845,11 @@
     {
       "id": "templates-load-balancer-onlylogoin-square",
       "name": "load-balancer-onlylogoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "load balancer only logo in square",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-onlylogoin-square.png",
       "size": "1024x1024",
@@ -8829,7 +8880,13 @@
     {
       "id": "templates-load-balancer-square",
       "name": "load-balancer-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "load balancer square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-square.png",
       "size": "1024x1024",
@@ -8840,7 +8897,13 @@
     {
       "id": "templates-load-balancer-wordmark-side-logoin-square",
       "name": "load-balancer-wordmark-side-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "load balancer wordmark side logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-wordmark-side-logoin-square.png",
       "size": "1024x1024",
@@ -8851,7 +8914,13 @@
     {
       "id": "templates-mesh-networking-horizontal-rectangle",
       "name": "mesh-networking-horizontal-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "mesh networking horizontal rectangle",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-horizontal-rectangle.png",
       "size": "1024x1024",
@@ -8862,7 +8931,13 @@
     {
       "id": "templates-mesh-networking-logoin-square",
       "name": "mesh-networking-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "mesh networking logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-logoin-square.png",
       "size": "1024x1024",
@@ -8873,7 +8948,13 @@
     {
       "id": "templates-mesh-networking-onlylogoin-square",
       "name": "mesh-networking-onlylogoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "mesh networking only logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-onlylogoin-square.png",
       "size": "1024x1024",
@@ -8904,7 +8985,13 @@
     {
       "id": "templates-mesh-networking-square",
       "name": "mesh-networking-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "mesh networking square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-square.png",
       "size": "1024x1024",
@@ -8915,7 +9002,13 @@
     {
       "id": "templates-mesh-networking-wordmark-side-logoin-square",
       "name": "mesh-networking-wordmark-side-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "mesh networking wordmark side logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-wordmark-side-logoin-square.png",
       "size": "1024x1024",
@@ -8971,7 +9064,13 @@
     {
       "id": "templates-networking-for-kubernetes-horizontal-rectangle",
       "name": "networking-for-kubernetes-horizontal-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "networking for kubernetes horizontal rectangle",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-horizontal-rectangle.png",
       "size": "1024x1024",
@@ -8982,7 +9081,13 @@
     {
       "id": "templates-networking-for-kubernetes-logoin-square",
       "name": "networking-for-kubernetes-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "networking for kubernetes logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-logoin-square.png",
       "size": "1024x1024",
@@ -8993,7 +9098,13 @@
     {
       "id": "templates-networking-for-kubernetes-onlylogoin-square",
       "name": "networking-for-kubernetes-onlylogoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "networking for kubernetes only logo in square",
+        "isovalent",
+        "products",
+        "enterprise"
+        ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-onlylogoin-square.png",
       "size": "1024x1024",
@@ -9064,7 +9175,16 @@
     {
       "id": "templates-networking-for-kubernetes-square",
       "name": "networking-for-kubernetes-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "networking for kubernetes square",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "square"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-square.png",
       "size": "1024x1024",
@@ -9075,7 +9195,16 @@
     {
       "id": "templates-networking-for-kubernetes-wordmark-side-logoin-square",
       "name": "networking-for-kubernetes-wordmark-side-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "networking for kubernetes wordmark side logo in square",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "square"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-wordmark-side-logoin-square.png",
       "size": "1024x1024",
@@ -9476,7 +9605,16 @@
     {
       "id": "templates-runtime-security-horizontal-rectangle",
       "name": "runtime-security-horizontal-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security horizontal rectangle",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "runtime security",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-horizontal-rectangle.png",
       "size": "1024x1024",
@@ -9487,7 +9625,16 @@
     {
       "id": "templates-runtime-security-logoin-square",
       "name": "runtime-security-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security logo in square",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "runtime security",
+        "square"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-logoin-square.png",
       "size": "1024x1024",
@@ -9498,7 +9645,16 @@
     {
       "id": "templates-runtime-security-onlylogoin-square",
       "name": "runtime-security-onlylogoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security only logo in square",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "runtime security",
+        "square"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-onlylogoin-square.png",
       "size": "1024x1024",
@@ -9529,7 +9685,16 @@
     {
       "id": "templates-runtime-security-square",
       "name": "runtime-security-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security square",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "runtime security",
+        "square"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-square.png",
       "size": "1024x1024",
@@ -9540,7 +9705,16 @@
     {
       "id": "templates-runtime-security-wordmark-side-logoin-square",
       "name": "runtime-security-wordmark-side-logoin-square",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security wordmark side logo in square",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "runtime security",
+        "square"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-wordmark-side-logoin-square.png",
       "size": "1024x1024",
