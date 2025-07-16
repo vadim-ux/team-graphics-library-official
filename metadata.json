@@ -8117,7 +8117,12 @@
     {
       "id": "templates-data-access-gold-rectangle",
       "name": "data-access-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "data access gold rectangle",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/data-access-gold-rectangle.png",
       "size": "1024x1024",
@@ -8128,7 +8133,12 @@
     {
       "id": "templates-data-access-rectangle",
       "name": "data-access-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "data access rectangle",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/data-access-rectangle.png",
       "size": "1024x1024",
@@ -8139,7 +8149,12 @@
     {
       "id": "templates-ebpf-kernel-runtime-yellow-light-rectangle",
       "name": "ebpf-kernel-runtime-yellow-light-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ebpf kernel runtime yellow light rectangle",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-kernel-runtime-yellow-light-rectangle.png",
       "size": "1024x1024",
@@ -8403,7 +8418,12 @@
     {
       "id": "templates-file-access-gold-rectangle",
       "name": "file-access-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "file access gold rectangle",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/file-access-gold-rectangle.png",
       "size": "1024x1024",
@@ -8414,7 +8434,12 @@
     {
       "id": "templates-file-access-rectangle",
       "name": "file-access-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "file access rectangle",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/file-access-rectangle.png",
       "size": "1024x1024",
@@ -8425,7 +8450,12 @@
     {
       "id": "templates-http-dns-tls-gold-rectangle",
       "name": "http-dns-tls-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "http dns tls gold rectangle",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/http-dns-tls-gold-rectangle.png",
       "size": "1024x1024",
@@ -8436,7 +8466,12 @@
     {
       "id": "templates-http-dns-tls-rectangle",
       "name": "http-dns-tls-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "http dns tls rectangle",
+        "isovalent",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/http-dns-tls-rectangle.png",
       "size": "1024x1024",
@@ -8470,7 +8505,8 @@
       "tags": [
         "templates",
         "k8s app empty",
-        "isovalent"
+        "isovalent",
+        "rectangle"
       ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-empty.png",
@@ -8485,7 +8521,8 @@
       "tags": [
         "templates",
         "k8s app rectangle",
-        "isovalent"
+        "isovalent",
+        "rectangle"
       ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/k8s-app-rectangle.png",
@@ -8702,7 +8739,11 @@
     {
       "id": "templates-metrics-events-logs-traces-logos",
       "name": "metrics-events-logs-traces-logos",
-      "tags": [],
+      "tags": [
+        "templates",
+        "metrics events logs traces logos",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/metrics-events-logs-traces-logos.png",
       "size": "1024x1024",
@@ -8713,7 +8754,11 @@
     {
       "id": "templates-namespaces-group-title",
       "name": "namespaces-group-title",
-      "tags": [],
+      "tags": [
+        "templates",
+        "namespaces-group-title",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/namespaces-group-title.png",
       "size": "1024x1024",
@@ -8724,7 +8769,11 @@
     {
       "id": "templates-network-group-title",
       "name": "network-group-title",
-      "tags": [],
+      "tags": [
+        "templates",
+        "network-group-title",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/network-group-title.png",
       "size": "1024x1024",
@@ -8755,7 +8804,16 @@
     {
       "id": "templates-networking-for-kubernetes-rectangle-horizontal-illustrated",
       "name": "networking-for-kubernetes-rectangle-horizontal-illustrated",
-      "tags": [],
+      "tags": [
+        "templates",
+        "networking-for-kubernetes-rectangle-horizontal-illustrated",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle-horizontal-illustrated.png",
       "size": "1024x1024",
@@ -8766,7 +8824,16 @@
     {
       "id": "templates-networking-for-kubernetes-rectangle-horizontal-illustrated-tapered",
       "name": "networking-for-kubernetes-rectangle-horizontal-illustrated-tapered",
-      "tags": [],
+      "tags": [
+        "templates",
+        "networking-for-kubernetes-rectangle-horizontal-illustrated-tapered",
+        "isovalent",
+        "products",
+        "enterprise",
+        "cloud",
+        "networking",
+        "rectangle"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle-horizontal-illustrated-tapered.png",
       "size": "1024x1024",
@@ -8837,7 +8904,11 @@
     {
       "id": "templates-ns-escapes-gold-rectangle",
       "name": "ns-escapes-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ns escapes gold rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-gold-rectangle.png",
       "size": "1024x1024",
@@ -8848,7 +8919,11 @@
     {
       "id": "templates-ns-escapes-priv-escalations-gold-group-rectangle",
       "name": "ns-escapes-priv-escalations-gold-group-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ns escapes priv escalations gold group rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-priv-escalations-gold-group-rectangle.png",
       "size": "1024x1024",
@@ -8859,7 +8934,11 @@
     {
       "id": "templates-ns-escapes-priv-escalations-group-rectangle",
       "name": "ns-escapes-priv-escalations-group-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ns escapes priv escalations group rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-priv-escalations-group-rectangle.png",
       "size": "1024x1024",
@@ -8870,7 +8949,11 @@
     {
       "id": "templates-ns-escapes-rectangle",
       "name": "ns-escapes-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "ns escapes rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-rectangle.png",
       "size": "1024x1024",
@@ -8881,7 +8964,11 @@
     {
       "id": "templates-pod-k8s-blue-container-rectangle",
       "name": "pod-k8s-blue-container-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "pod k8s blue container rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-blue-container-rectangle.png",
       "size": "1024x1024",
@@ -8892,7 +8979,11 @@
     {
       "id": "templates-pod-k8s-go-app-rectangle",
       "name": "pod-k8s-go-app-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "pod k8s go app rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-go-app-rectangle.png",
       "size": "1024x1024",
@@ -8903,7 +8994,11 @@
     {
       "id": "templates-pod-k8s-python-app-rectangle",
       "name": "pod-k8s-python-app-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "pod k8s python app rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-python-app-rectangle.png",
       "size": "1024x1024",
@@ -8959,7 +9054,11 @@
     {
       "id": "templates-pods-cluster-k8s-nfk-inside-array",
       "name": "pods-cluster-k8s-nfk-inside-array",
-      "tags": [],
+      "tags": [
+        "templates",
+        "pods cluster k8s nfk inside array",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pods-cluster-k8s-nfk-inside-array.png",
       "size": "1024x1024",
@@ -8985,7 +9084,11 @@
     {
       "id": "templates-priv-escalations-gold-rectangle",
       "name": "priv-escalations-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "priv escalations gold rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/priv-escalations-gold-rectangle.png",
       "size": "1024x1024",
@@ -8996,7 +9099,11 @@
     {
       "id": "templates-priv-escalations-rectangle",
       "name": "priv-escalations-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "priv escalations rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/priv-escalations-rectangle.png",
       "size": "1024x1024",
@@ -9007,7 +9114,11 @@
     {
       "id": "templates-process-execution-gold-rectangle",
       "name": "process-execution-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "process execution gold rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-gold-rectangle.png",
       "size": "1024x1024",
@@ -9018,7 +9129,11 @@
     {
       "id": "templates-process-execution-rectangle",
       "name": "process-execution-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "process execution rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-rectangle.png",
       "size": "1024x1024",
@@ -9029,7 +9144,11 @@
     {
       "id": "templates-process-execution-syscall-activity-gold-group-rectangle",
       "name": "process-execution-syscall-activity-gold-group-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "process execution syscall activity gold group rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-syscall-activity-gold-group-rectangle.png",
       "size": "1024x1024",
@@ -9040,7 +9159,11 @@
     {
       "id": "templates-process-execution-syscall-activity-group-rectangle",
       "name": "process-execution-syscall-activity-group-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "process execution syscall activity group rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-syscall-activity-group-rectangle.png",
       "size": "1024x1024",
@@ -9051,7 +9174,11 @@
     {
       "id": "templates-runtime-security-agent-rectangle",
       "name": "runtime-security-agent-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security agent rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-agent-rectangle.png",
       "size": "1024x1024",
@@ -9062,7 +9189,11 @@
     {
       "id": "templates-runtime-security-code-exec-rectangle",
       "name": "runtime-security-code-exec-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security code exec rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-code-exec-rectangle.png",
       "size": "1024x1024",
@@ -9073,7 +9204,11 @@
     {
       "id": "templates-runtime-security-features-rectangle-yellow",
       "name": "runtime-security-features-rectangle-yellow",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security features rectangle yellow",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-features-rectangle-yellow.png",
       "size": "1024x1024",
@@ -9084,7 +9219,11 @@
     {
       "id": "templates-runtime-security-func-calls-rectangle",
       "name": "runtime-security-func-calls-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "runtime security func calls rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-func-calls-rectangle.png",
       "size": "1024x1024",
@@ -9115,7 +9254,11 @@
     {
       "id": "templates-seq-attack-gold-rectangle",
       "name": "seq-attack-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "seq attack gold rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/seq-attack-gold-rectangle.png",
       "size": "1024x1024",
@@ -9126,7 +9269,11 @@
     {
       "id": "templates-seq-attack-rectangle",
       "name": "seq-attack-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "seq attack rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/seq-attack-rectangle.png",
       "size": "1024x1024",
@@ -9137,7 +9284,11 @@
     {
       "id": "templates-storage-group-title",
       "name": "storage-group-title",
-      "tags": [],
+      "tags": [
+        "templates",
+        "storage group title",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/storage-group-title.png",
       "size": "1024x1024",
@@ -9148,7 +9299,11 @@
     {
       "id": "templates-syscall-activity-gold-rectangle",
       "name": "syscall-activity-gold-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "syscall activity gold rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/syscall-activity-gold-rectangle.png",
       "size": "1024x1024",
@@ -9159,7 +9314,11 @@
     {
       "id": "templates-syscall-activity-rectangle",
       "name": "syscall-activity-rectangle",
-      "tags": [],
+      "tags": [
+        "templates",
+        "syscall activity rectangle",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/syscall-activity-rectangle.png",
       "size": "1024x1024",
@@ -9170,7 +9329,11 @@
     {
       "id": "templates-system-calls-group-title",
       "name": "system-calls-group-title",
-      "tags": [],
+      "tags": [
+        "templates",
+        "system calls group title",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/system-calls-group-title.png",
       "size": "1024x1024",
@@ -9181,7 +9344,11 @@
     {
       "id": "templates-tcp-ip-group-title",
       "name": "tcp-ip-group-title",
-      "tags": [],
+      "tags": [
+        "templates",
+        "tcp ip group title",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/tcp-ip-group-title.png",
       "size": "1024x1024",
@@ -9207,7 +9374,11 @@
     {
       "id": "templates-vfs-group-title",
       "name": "vfs-group-title",
-      "tags": [],
+      "tags": [
+        "templates",
+        "vfs group title",
+        "isovalent"
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/vfs-group-title.png",
       "size": "1024x1024",
