@@ -8326,7 +8326,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-horizontal-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-horizontal-rectangle.svg"
     },
     {
       "id": "templates-egress-gateway-logoin-square",
@@ -8335,7 +8337,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-logoin-square.svg"
     },
     {
       "id": "templates-egress-gateway-onlylogoin-square",
@@ -8344,7 +8348,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-onlylogoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-onlylogoin-square.svg"
     },
     {
       "id": "templates-egress-gateway-rectangle",
@@ -8373,7 +8379,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-square.svg"
     },
     {
       "id": "templates-egress-gateway-wordmark-side-logoin-square",
@@ -8382,7 +8390,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-wordmark-side-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/egress-gateway-wordmark-side-logoin-square.svg"
     },
     {
       "id": "templates-egress-rectangle",
@@ -8770,7 +8780,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-horizontal-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-horizontal-rectangle.svg"
     },
     {
       "id": "templates-load-balancer-logoin-square",
@@ -8779,7 +8791,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-logoin-square.svg"
     },
     {
       "id": "templates-load-balancer-onlylogoin-square",
@@ -8788,7 +8802,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-onlylogoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-onlylogoin-square.svg"
     },
     {
       "id": "templates-load-balancer-rectangle",
@@ -8817,7 +8833,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-square.svg"
     },
     {
       "id": "templates-load-balancer-wordmark-side-logoin-square",
@@ -8826,7 +8844,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-wordmark-side-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/load-balancer-wordmark-side-logoin-square.svg"
     },
     {
       "id": "templates-mesh-networking-horizontal-rectangle",
@@ -8835,7 +8855,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-horizontal-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-horizontal-rectangle.svg"
     },
     {
       "id": "templates-mesh-networking-logoin-square",
@@ -8844,7 +8866,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-logoin-square.svg"
     },
     {
       "id": "templates-mesh-networking-onlylogoin-square",
@@ -8853,7 +8877,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-onlylogoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-onlylogoin-square.svg"
     },
     {
       "id": "templates-mesh-networking-rectangle",
@@ -8882,7 +8908,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-square.svg"
     },
     {
       "id": "templates-mesh-networking-wordmark-side-logoin-square",
@@ -8891,7 +8919,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-wordmark-side-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/mesh-networking-wordmark-side-logoin-square.svg"
     },
     {
       "id": "templates-metrics-events-logs-traces-logos",
@@ -8945,7 +8975,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-horizontal-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-horizontal-rectangle.svg"
     },
     {
       "id": "templates-networking-for-kubernetes-logoin-square",
@@ -8954,7 +8986,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-logoin-square.svg"
     },
     {
       "id": "templates-networking-for-kubernetes-onlylogoin-square",
@@ -8963,7 +8997,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-onlylogoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-onlylogoin-square.svg"
     },
     {
       "id": "templates-networking-for-kubernetes-rectangle",
@@ -9032,7 +9068,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-square.svg"
     },
     {
       "id": "templates-networking-for-kubernetes-wordmark-side-logoin-square",
@@ -9041,7 +9079,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-wordmark-side-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-wordmark-side-logoin-square.svg"
     },
     {
       "id": "templates-node-area-horizontal",
@@ -9440,7 +9480,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-horizontal-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-horizontal-rectangle.svg"
     },
     {
       "id": "templates-runtime-security-logoin-square",
@@ -9449,7 +9491,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-logoin-square.svg"
     },
     {
       "id": "templates-runtime-security-onlylogoin-square",
@@ -9458,7 +9502,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-onlylogoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-onlylogoin-square.svg"
     },
     {
       "id": "templates-runtime-security-rectangle",
@@ -9487,7 +9533,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-square.svg"
     },
     {
       "id": "templates-runtime-security-wordmark-side-logoin-square",
@@ -9496,7 +9544,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-wordmark-side-logoin-square.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-wordmark-side-logoin-square.svg"
     },
     {
       "id": "templates-seq-attack-gold-rectangle",
