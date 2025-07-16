@@ -1089,7 +1089,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/laptop-generic.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/laptop-generic.svg"
     },
     {
       "id": "icons-library-logo-ebeejedi",
@@ -1845,7 +1847,9 @@
       "category": "icons",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smartphone-generic.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smartphone-generic.svg"
     },
     {
       "id": "icons-stack-traces-gold",
