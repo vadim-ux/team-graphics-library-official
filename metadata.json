@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-07-16",
-  "totalAssets": 540,
+  "totalAssets": 542,
   "categories": [
     "diagrams",
     "ebees",
@@ -1083,6 +1083,15 @@
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/laptop.svg"
     },
     {
+      "id": "icons-laptop-generic",
+      "name": "laptop-generic",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/laptop-generic.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-16"
+    },
+    {
       "id": "icons-library-logo-ebeejedi",
       "name": "library-logo-ebeejedi",
       "tags": [
@@ -1828,6 +1837,15 @@
       "lastUpdated": "2025-07-13",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smart-collector-gold.svg"
+    },
+    {
+      "id": "icons-smartphone-generic",
+      "name": "smartphone-generic",
+      "tags": [],
+      "category": "icons",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/icons/smartphone-generic.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-07-16"
     },
     {
       "id": "icons-stack-traces-gold",
