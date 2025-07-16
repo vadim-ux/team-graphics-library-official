@@ -8121,7 +8121,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/data-access-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/data-access-gold-rectangle.svg"
     },
     {
       "id": "templates-data-access-rectangle",
@@ -8130,7 +8132,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/data-access-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/data-access-rectangle.svg"
     },
     {
       "id": "templates-ebpf-kernel-runtime-yellow-light-rectangle",
@@ -8139,7 +8143,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-kernel-runtime-yellow-light-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ebpf-kernel-runtime-yellow-light-rectangle.svg"
     },
     {
       "id": "templates-ebpf-native",
@@ -8401,7 +8407,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/file-access-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/file-access-gold-rectangle.svg"
     },
     {
       "id": "templates-file-access-rectangle",
@@ -8410,7 +8418,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/file-access-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/file-access-rectangle.svg"
     },
     {
       "id": "templates-http-dns-tls-gold-rectangle",
@@ -8419,7 +8429,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/http-dns-tls-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/http-dns-tls-gold-rectangle.svg"
     },
     {
       "id": "templates-http-dns-tls-rectangle",
@@ -8428,7 +8440,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/http-dns-tls-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/http-dns-tls-rectangle.svg"
     },
     {
       "id": "templates-ingress-rectangle",
@@ -8692,7 +8706,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/metrics-events-logs-traces-logos.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/metrics-events-logs-traces-logos.svg"
     },
     {
       "id": "templates-namespaces-group-title",
@@ -8701,7 +8717,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/namespaces-group-title.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/namespaces-group-title.svg"
     },
     {
       "id": "templates-network-group-title",
@@ -8710,7 +8728,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/network-group-title.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/network-group-title.svg"
     },
     {
       "id": "templates-networking-for-kubernetes-rectangle",
@@ -8739,7 +8759,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle-horizontal-illustrated.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle-horizontal-illustrated.svg"
     },
     {
       "id": "templates-networking-for-kubernetes-rectangle-horizontal-illustrated-tapered",
@@ -8748,7 +8770,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle-horizontal-illustrated-tapered.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-rectangle-horizontal-illustrated-tapered.svg"
     },
     {
       "id": "templates-node-area-horizontal",
@@ -8817,7 +8841,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-gold-rectangle.svg"
     },
     {
       "id": "templates-ns-escapes-priv-escalations-gold-group-rectangle",
@@ -8826,7 +8852,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-priv-escalations-gold-group-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-priv-escalations-gold-group-rectangle.svg"
     },
     {
       "id": "templates-ns-escapes-priv-escalations-group-rectangle",
@@ -8835,7 +8863,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-priv-escalations-group-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-priv-escalations-group-rectangle.svg"
     },
     {
       "id": "templates-ns-escapes-rectangle",
@@ -8844,7 +8874,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/ns-escapes-rectangle.svg"
     },
     {
       "id": "templates-pod-k8s-blue-container-rectangle",
@@ -8853,7 +8885,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-blue-container-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-blue-container-rectangle.svg"
     },
     {
       "id": "templates-pod-k8s-go-app-rectangle",
@@ -8862,7 +8896,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-go-app-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-go-app-rectangle.svg"
     },
     {
       "id": "templates-pod-k8s-python-app-rectangle",
@@ -8871,7 +8907,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-python-app-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pod-k8s-python-app-rectangle.svg"
     },
     {
       "id": "templates-pod-simple-blue-k8s-rectangle",
@@ -8925,7 +8963,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pods-cluster-k8s-nfk-inside-array.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/pods-cluster-k8s-nfk-inside-array.svg"
     },
     {
       "id": "templates-pods-namespace-array",
@@ -8949,7 +8989,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/priv-escalations-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/priv-escalations-gold-rectangle.svg"
     },
     {
       "id": "templates-priv-escalations-rectangle",
@@ -8958,7 +9000,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/priv-escalations-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/priv-escalations-rectangle.svg"
     },
     {
       "id": "templates-process-execution-gold-rectangle",
@@ -8967,7 +9011,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-gold-rectangle.svg"
     },
     {
       "id": "templates-process-execution-rectangle",
@@ -8976,7 +9022,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-rectangle.svg"
     },
     {
       "id": "templates-process-execution-syscall-activity-gold-group-rectangle",
@@ -8985,7 +9033,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-syscall-activity-gold-group-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-syscall-activity-gold-group-rectangle.svg"
     },
     {
       "id": "templates-process-execution-syscall-activity-group-rectangle",
@@ -8994,7 +9044,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-syscall-activity-group-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/process-execution-syscall-activity-group-rectangle.svg"
     },
     {
       "id": "templates-runtime-security-agent-rectangle",
@@ -9003,7 +9055,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-agent-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-agent-rectangle.svg"
     },
     {
       "id": "templates-runtime-security-code-exec-rectangle",
@@ -9012,7 +9066,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-code-exec-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-code-exec-rectangle.svg"
     },
     {
       "id": "templates-runtime-security-features-rectangle-yellow",
@@ -9021,7 +9077,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-features-rectangle-yellow.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-features-rectangle-yellow.svg"
     },
     {
       "id": "templates-runtime-security-func-calls-rectangle",
@@ -9030,7 +9088,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-func-calls-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/runtime-security-func-calls-rectangle.svg"
     },
     {
       "id": "templates-runtime-security-rectangle",
@@ -9059,7 +9119,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/seq-attack-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/seq-attack-gold-rectangle.svg"
     },
     {
       "id": "templates-seq-attack-rectangle",
@@ -9068,7 +9130,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/seq-attack-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/seq-attack-rectangle.svg"
     },
     {
       "id": "templates-storage-group-title",
@@ -9077,7 +9141,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/storage-group-title.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/storage-group-title.svg"
     },
     {
       "id": "templates-syscall-activity-gold-rectangle",
@@ -9086,7 +9152,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/syscall-activity-gold-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/syscall-activity-gold-rectangle.svg"
     },
     {
       "id": "templates-syscall-activity-rectangle",
@@ -9095,7 +9163,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/syscall-activity-rectangle.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/syscall-activity-rectangle.svg"
     },
     {
       "id": "templates-system-calls-group-title",
@@ -9104,7 +9174,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/system-calls-group-title.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/system-calls-group-title.svg"
     },
     {
       "id": "templates-tcp-ip-group-title",
@@ -9113,7 +9185,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/tcp-ip-group-title.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/tcp-ip-group-title.svg"
     },
     {
       "id": "templates-ui-rectangle-green",
@@ -9137,7 +9211,9 @@
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/vfs-group-title.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-16"
+      "lastUpdated": "2025-07-16",
+      "hasSvg": true,
+      "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/vfs-group-title.svg"
     },
     {
       "id": "templates-vmware-cloud",
