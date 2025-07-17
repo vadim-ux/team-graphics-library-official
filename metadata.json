@@ -1,7 +1,7 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-07-16",
+  "updated": "2025-07-17",
   "totalAssets": 567,
   "categories": [
     "diagrams",
@@ -2316,7 +2316,7 @@
       "category": "illustrations",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/illustrations/ebpf-cilium-iptables-kubernetes.png",
       "size": "1024x1024",
-      "lastUpdated": "2025-07-13",
+      "lastUpdated": "2025-07-17",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/illustrations/ebpf-cilium-iptables-kubernetes.svg"
     },
@@ -9104,7 +9104,7 @@
         "isovalent",
         "products",
         "enterprise"
-        ],
+      ],
       "category": "templates",
       "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/templates/networking-for-kubernetes-onlylogoin-square.png",
       "size": "1024x1024",
