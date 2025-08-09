@@ -1,8 +1,8 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-08-08",
-  "totalAssets": 568,
+  "updated": "2025-08-09",
+  "totalAssets": 569,
   "categories": [
     "diagrams",
     "ebees",
@@ -2496,6 +2496,15 @@
       "lastUpdated": "2025-07-05",
       "hasSvg": true,
       "svgUrl": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/auth0.svg"
+    },
+    {
+      "id": "logos-authy",
+      "name": "authy",
+      "tags": [],
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/vadim-ux/team-graphics-library-official/export-from-figma/logos/authy.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-08-09"
     },
     {
       "id": "logos-aws",
