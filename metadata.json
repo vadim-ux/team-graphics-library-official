@@ -22,7 +22,7 @@
       "pngpath": "logos/fast-api.png",
       "size": "1024x1024",
       "lastUpdated": "2025-08-10",
-      "hasSvg": false,
+      "hasSvg": true,
       "visibility": "public"
     }
   ]
