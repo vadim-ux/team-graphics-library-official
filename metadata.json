@@ -2670,18 +2670,6 @@
       "visibility": "public"
     },
     {
-      "id": "logos-aws-dark-back",
-      "name": "aws-dark-back",
-      "tags": [],
-      "category": "logos",
-      "svgpath": "logos/aws-dark-back.svg",
-      "pngpath": "logos/aws-dark-back.png",
-      "size": "1024x1024",
-      "lastUpdated": "2025-08-11",
-      "hasSvg": true,
-      "visibility": "public"
-    },
-    {
       "id": "logos-azure",
       "name": "azure",
       "tags": [
