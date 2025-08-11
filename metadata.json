@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-08-11",
-  "totalAssets": 569,
+  "totalAssets": 570,
   "categories": [
     "diagrams",
     "ebees",
@@ -2667,6 +2667,18 @@
       "hasSvg": true,
       "pngpath": "logos/aws.png",
       "svgpath": "logos/aws.svg",
+      "visibility": "public"
+    },
+    {
+      "id": "logos-aws-dark-back",
+      "name": "aws-dark-back",
+      "tags": [],
+      "category": "logos",
+      "svgpath": "logos/aws-dark-back.svg",
+      "pngpath": "logos/aws-dark-back.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-08-11",
+      "hasSvg": false,
       "visibility": "public"
     },
     {
