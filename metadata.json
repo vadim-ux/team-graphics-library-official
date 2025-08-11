@@ -8548,7 +8548,7 @@
       "pngpath": "stickers/test-delete-1.png",
       "size": "1024x1024",
       "lastUpdated": "2025-08-11",
-      "hasSvg": false,
+      "hasSvg": true,
       "visibility": "public"
     },
     {
@@ -8560,7 +8560,7 @@
       "pngpath": "stickers/test-delete-2.png",
       "size": "1024x1024",
       "lastUpdated": "2025-08-11",
-      "hasSvg": false,
+      "hasSvg": true,
       "visibility": "public"
     },
     {
@@ -8572,7 +8572,7 @@
       "pngpath": "stickers/test-delete-3.png",
       "size": "1024x1024",
       "lastUpdated": "2025-08-11",
-      "hasSvg": false,
+      "hasSvg": true,
       "visibility": "public"
     },
     {
@@ -8584,7 +8584,7 @@
       "pngpath": "stickers/test-delete-4.png",
       "size": "1024x1024",
       "lastUpdated": "2025-08-11",
-      "hasSvg": false,
+      "hasSvg": true,
       "visibility": "public"
     },
     {
