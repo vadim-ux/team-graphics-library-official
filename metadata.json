@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-08-11",
-  "totalAssets": 570,
+  "totalAssets": 574,
   "categories": [
     "diagrams",
     "ebees",
@@ -8537,6 +8537,54 @@
       "hasSvg": true,
       "pngpath": "stickers/one-small-step-for-the-cluster.png",
       "svgpath": "stickers/one-small-step-for-the-cluster.svg",
+      "visibility": "public"
+    },
+    {
+      "id": "stickers-test-delete-1",
+      "name": "test-delete-1",
+      "tags": [],
+      "category": "stickers",
+      "svgpath": "stickers/test-delete-1.svg",
+      "pngpath": "stickers/test-delete-1.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-08-11",
+      "hasSvg": false,
+      "visibility": "public"
+    },
+    {
+      "id": "stickers-test-delete-2",
+      "name": "test-delete-2",
+      "tags": [],
+      "category": "stickers",
+      "svgpath": "stickers/test-delete-2.svg",
+      "pngpath": "stickers/test-delete-2.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-08-11",
+      "hasSvg": false,
+      "visibility": "public"
+    },
+    {
+      "id": "stickers-test-delete-3",
+      "name": "test-delete-3",
+      "tags": [],
+      "category": "stickers",
+      "svgpath": "stickers/test-delete-3.svg",
+      "pngpath": "stickers/test-delete-3.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-08-11",
+      "hasSvg": false,
+      "visibility": "public"
+    },
+    {
+      "id": "stickers-test-delete-4",
+      "name": "test-delete-4",
+      "tags": [],
+      "category": "stickers",
+      "svgpath": "stickers/test-delete-4.svg",
+      "pngpath": "stickers/test-delete-4.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-08-11",
+      "hasSvg": false,
       "visibility": "public"
     },
     {
