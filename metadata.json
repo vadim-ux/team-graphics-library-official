@@ -2,7 +2,7 @@
   "name": "Team Graphics Library",
   "version": "1.0.0",
   "updated": "2025-08-13",
-  "totalAssets": 570,
+  "totalAssets": 571,
   "categories": [
     "diagrams",
     "ebees",
@@ -7425,6 +7425,18 @@
       "hasSvg": true,
       "pngpath": "logos/rancher-full.png",
       "svgpath": "logos/rancher-full.svg",
+      "visibility": "public"
+    },
+    {
+      "id": "logos-rancher-horizontal",
+      "name": "rancher-horizontal",
+      "tags": [],
+      "category": "logos",
+      "svgpath": "logos/rancher-horizontal.svg",
+      "pngpath": "logos/rancher-horizontal.png",
+      "size": "1024x1024",
+      "lastUpdated": "2025-08-13",
+      "hasSvg": false,
       "visibility": "public"
     },
     {
