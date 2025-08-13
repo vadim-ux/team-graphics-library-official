@@ -1,7 +1,7 @@
 {
   "name": "Team Graphics Library",
   "version": "1.0.0",
-  "updated": "2025-08-11",
+  "updated": "2025-08-13",
   "totalAssets": 570,
   "categories": [
     "diagrams",
@@ -7421,7 +7421,7 @@
       ],
       "category": "logos",
       "size": "",
-      "lastUpdated": "2025-07-05",
+      "lastUpdated": "2025-08-13",
       "hasSvg": true,
       "pngpath": "logos/rancher-full.png",
       "svgpath": "logos/rancher-full.svg",
