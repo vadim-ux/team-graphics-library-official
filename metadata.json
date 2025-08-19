@@ -7430,7 +7430,10 @@
     {
       "id": "logos-rancher-horizontal",
       "name": "rancher-horizontal",
-      "tags": [],
+      "tags": ["rancher",
+              "horizontal",
+              "logos",
+              "container"],
       "category": "logos",
       "svgpath": "logos/rancher-horizontal.svg",
       "pngpath": "logos/rancher-horizontal.png",
