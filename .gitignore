@@ -7,6 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
+# Node dependencies
+node_modules/
+
 # Windows
 Thumbs.db
 ehthumbs.db
@@ -19,6 +22,6 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.temp
-
+*-thumbnails.js
 
 *.mjs

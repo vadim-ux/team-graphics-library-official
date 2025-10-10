@@ -1,0 +1,16 @@
+{
+  "name": "team-graphics-library-official",
+  "version": "1.0.0",
+  "description": "A curated collection of logos, icons, and graphics for our team projects. All assets are automatically exported from Figma in both PNG and SVG formats, optimized for web and app usage.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}
