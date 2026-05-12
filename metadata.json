@@ -8635,7 +8635,7 @@
       "pngpath": "templates/backend-1-purple.png",
       "size": "1024x1024",
       "lastUpdated": "2026-05-12",
-      "hasSvg": false,
+      "hasSvg": true,
       "visibility": "public"
     },
     {
